@@ -4,8 +4,8 @@ let tempPlayerArr = [];
 
 function findTotalPlayer() {
   for (let i = 0; i < rawData.length; i++) {
-    if (tempPlayerArr.indexOf(rawData[i].name) === -1) {
-      tempPlayerArr.push(rawData[i].name);
+    if (tempPlayerArr.indexOf(rawData[i].Runner) === -1) {
+      tempPlayerArr.push(rawData[i].Runner);
     }
   }
 }

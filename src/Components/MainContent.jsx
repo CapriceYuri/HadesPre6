@@ -10,6 +10,8 @@ import {
 
 import { useState } from "react";
 import { allData, BreakList } from "../Data/DataLogic";
+import TotalPlayerCard from "./TotalUniquePlayers";
+import TotalRunsCard from "./TotalRuns";
 
 export default function MainContent() {
   const [category, setCategory] = useState(0);
@@ -46,6 +48,12 @@ export default function MainContent() {
         alt="cover-bg"
         className="fixed h-lvh w-full object-cover -z-10"
       />
+      <section>
+        <div className="flex justify-center px-2 mx-auto w-[100%] py-5 gap-x-2 2xl:w-3/4">
+          <TotalRunsCard />
+          <TotalPlayerCard />
+        </div>
+      </section>
       {/* COVER BG */}
       <section className="w-full flex justify-center pt-5 pb-10">
         <Card className="w-[100%] backdrop-blur-lg bg-transparent shadow-[0_0_50px_cyan] 2xl:w-3/4">
@@ -65,7 +73,10 @@ export default function MainContent() {
               </Typography>
             </div>
             {sortDisplay.map((player, index) => (
-              <ListItem className="hover:bg-black focus:bg-black" key={index}>
+              <ListItem
+                className="hover:bg-black focus:bg-black flex"
+                key={index}
+              >
                 <div className="flex-1">
                   <div className="flex flex-col items-center">
                     <Typography
@@ -121,7 +132,7 @@ export default function MainContent() {
                     className="font-semibold"
                   >
                     {`Furies: `}
-                    {`${player.Fury}`}
+                    {`${player.Furies}`}
                   </Typography>
                   <Typography
                     variant="small"
@@ -144,16 +155,48 @@ export default function MainContent() {
                   </Typography>
                   <Typography
                     variant="small"
+                    color="cyan"
+                    className="font-semibold"
+                  >
+                    {`Father: `}
+                    {`${player.Father}`}
+                  </Typography>
+                </div>
+                <div className="text-center px-2 md:flex-1 md:px-0">
+                  <Typography
+                    variant="small"
+                    color="amber"
+                    className="font-semibold"
+                  >
+                    {`Total Boss Time`}
+                  </Typography>
+                  <Typography
+                    variant="small"
                     color="red"
                     className="font-semibold"
                   >
-                    {`Dad: `}
-                    {`${player.Dad}`}
+                    {`${player.BossesT}`}
+                  </Typography>
+                </div>
+                <div className="text-center px-2 md:flex-1 md:px-0">
+                  <Typography
+                    variant="small"
+                    color="amber"
+                    className="font-semibold"
+                  >
+                    {`Non Boss Rooms`}
+                  </Typography>
+                  <Typography
+                    variant="small"
+                    color="red"
+                    className="font-semibold"
+                  >
+                    {`${player.NBR}`}
                   </Typography>
                 </div>
 
                 <div className="flex-1 text-center">
-                  <Typography variant="h6" color="deep-orange">
+                  <Typography variant="h6" color="white">
                     {`${player.IGTA}`}
                   </Typography>
                 </div>
