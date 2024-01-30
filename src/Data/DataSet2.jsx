@@ -2,6 +2,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:30.22",
     Tartarus: "1:33.18",
     Asphodel: "0:51.67",
@@ -12,6 +13,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "4:39.06",
     Tartarus: "1:11.93",
     Asphodel: "1:12.28",
@@ -22,6 +24,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:45.70",
     Tartarus: "1:33.19",
     Asphodel: "1:18.80",
@@ -32,6 +35,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:46.40",
     Tartarus: "1:19.06",
     Asphodel: "1:09.39",
@@ -42,6 +46,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "4:47.28",
     Tartarus: "1:15.27",
     Asphodel: "1:02.35",
@@ -52,6 +57,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:48.72",
     Tartarus: "1:32.84",
     Asphodel: "1:15.63",
@@ -62,6 +68,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "4:49.64",
     Tartarus: "1:36.37",
     Asphodel: "0:53.85",
@@ -72,6 +79,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "4:55.32",
     Tartarus: "1:15.02",
     Asphodel: "1:29.45",
@@ -82,6 +90,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:56.97",
     Tartarus: "1:11.58",
     Asphodel: "1:12.79",
@@ -92,6 +101,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:57.57",
     Tartarus: "1:41.44",
     Asphodel: "1:13.87",
@@ -102,6 +112,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "4:57.70",
     Tartarus: "1:28.00",
     Asphodel: "1:19.24",
@@ -112,6 +123,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:57.97",
     Tartarus: "1:29.29",
     Asphodel: "1:07.01",
@@ -122,6 +134,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:58.16",
     Tartarus: "1:34.20",
     Asphodel: "1:04.94",
@@ -132,6 +145,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:58.45",
     Tartarus: "1:33.28",
     Asphodel: "1:06.46",
@@ -142,6 +156,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:58.77",
     Tartarus: "1:28.48",
     Asphodel: "1:18.30",
@@ -152,6 +167,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:59.41",
     Tartarus: "1:49.77",
     Asphodel: "1:02.38",
@@ -162,6 +178,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "4:59.46",
     Tartarus: "1:26.90",
     Asphodel: "1:06.50",
@@ -172,6 +189,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:00.24",
     Tartarus: "1:23.82",
     Asphodel: "1:16.57",
@@ -182,6 +200,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:00.41",
     Tartarus: "1:22.93",
     Asphodel: "1:25.54",
@@ -192,6 +211,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:00.96",
     Tartarus: "1:33.17",
     Asphodel: "1:13.35",
@@ -202,6 +222,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:01.89",
     Tartarus: "1:29.87",
     Asphodel: "1:05.11",
@@ -212,6 +233,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:01.93",
     Tartarus: "1:37.03",
     Asphodel: "1:08.36",
@@ -222,6 +244,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:02.50",
     Tartarus: "1:56.22",
     Asphodel: "1:04.66",
@@ -232,6 +255,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:02.67",
     Tartarus: "1:26.25",
     Asphodel: "1:11.87",
@@ -242,6 +266,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:02.86",
     Tartarus: "1:43.84",
     Asphodel: "1:03.30",
@@ -252,6 +277,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:03.62",
     Tartarus: "1:29.55",
     Asphodel: "0:54.50",
@@ -262,6 +288,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:04.26",
     Tartarus: "1:14.99",
     Asphodel: "1:29.79",
@@ -272,6 +299,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:04.34",
     Tartarus: "1:34.16",
     Asphodel: "1:17.53",
@@ -282,6 +310,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:04.50",
     Tartarus: "1:20.09",
     Asphodel: "1:17.22",
@@ -292,6 +321,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:04.62",
     Tartarus: "1:24.55",
     Asphodel: "1:21.49",
@@ -302,6 +332,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:04.79",
     Tartarus: "1:39.14",
     Asphodel: "1:10.09",
@@ -312,6 +343,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:05.09",
     Tartarus: "1:13.68",
     Asphodel: "1:25.76",
@@ -322,6 +354,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:05.80",
     Tartarus: "1:38.11",
     Asphodel: "1:02.90",
@@ -332,6 +365,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:05.88",
     Tartarus: "1:27.28",
     Asphodel: "1:13.02",
@@ -342,6 +376,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:07.55",
     Tartarus: "1:27.69",
     Asphodel: "1:22.54",
@@ -352,6 +387,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:07.63",
     Tartarus: "1:30.74",
     Asphodel: "1:18.34",
@@ -362,6 +398,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:07.67",
     Tartarus: "1:38.29",
     Asphodel: "1:04.14",
@@ -372,6 +409,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:08.01",
     Tartarus: "1:32.56",
     Asphodel: "1:15.19",
@@ -382,6 +420,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:08.32",
     Tartarus: "1:32.76",
     Asphodel: "1:24.15",
@@ -392,6 +431,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:08.35",
     Tartarus: "1:17.42",
     Asphodel: "1:17.94",
@@ -402,6 +442,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:08.49",
     Tartarus: "1:35.60",
     Asphodel: "1:06.19",
@@ -412,6 +453,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:08.81",
     Tartarus: "1:28.28",
     Asphodel: "0:48.50",
@@ -422,6 +464,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:08.87",
     Tartarus: "1:29.28",
     Asphodel: "1:04.72",
@@ -432,6 +475,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:09.21",
     Tartarus: "1:35.55",
     Asphodel: "1:00.52",
@@ -442,6 +486,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:09.24",
     Tartarus: "1:19.34",
     Asphodel: "1:05.90",
@@ -452,6 +497,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:09.31",
     Tartarus: "1:36.70",
     Asphodel: "1:10.08",
@@ -462,6 +508,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:09.35",
     Tartarus: "1:43.69",
     Asphodel: "1:15.35",
@@ -472,6 +519,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:09.48",
     Tartarus: "1:27.34",
     Asphodel: "1:09.24",
@@ -482,6 +530,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:09.71",
     Tartarus: "1:31.48",
     Asphodel: "1:22.24",
@@ -492,6 +541,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:09.79",
     Tartarus: "1:30.08",
     Asphodel: "1:07.16",
@@ -502,6 +552,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:09.81",
     Tartarus: "1:54.73",
     Asphodel: "1:00.72",
@@ -512,6 +563,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:10.03",
     Tartarus: "1:32.92",
     Asphodel: "1:12.35",
@@ -522,6 +574,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:10.05",
     Tartarus: "1:40.34",
     Asphodel: "1:02.75",
@@ -532,6 +585,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:10.25",
     Tartarus: "1:26.24",
     Asphodel: "1:20.39",
@@ -542,6 +596,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:10.26",
     Tartarus: "1:28.36",
     Asphodel: "1:07.18",
@@ -552,6 +607,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:10.32",
     Tartarus: "1:14.60",
     Asphodel: "1:11.35",
@@ -562,6 +618,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:10.37",
     Tartarus: "1:35.03",
     Asphodel: "1:09.13",
@@ -572,6 +629,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:10.69",
     Tartarus: "1:24.92",
     Asphodel: "0:57.85",
@@ -582,6 +640,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:10.85",
     Tartarus: "1:49.31",
     Asphodel: "1:11.76",
@@ -592,6 +651,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:10.89",
     Tartarus: "1:30.03",
     Asphodel: "1:05.86",
@@ -602,6 +662,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:10.99",
     Tartarus: "1:30.73",
     Asphodel: "1:18.30",
@@ -612,6 +673,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:11.57",
     Tartarus: "1:30.29",
     Asphodel: "1:11.61",
@@ -622,6 +684,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:11.59",
     Tartarus: "1:44.61",
     Asphodel: "1:06.35",
@@ -632,6 +695,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:11.64",
     Tartarus: "1:30.27",
     Asphodel: "1:25.88",
@@ -642,6 +706,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:11.72",
     Tartarus: "1:27.54",
     Asphodel: "1:21.40",
@@ -652,6 +717,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:11.83",
     Tartarus: "1:38.60",
     Asphodel: "1:14.56",
@@ -662,6 +728,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:12.01",
     Tartarus: "1:34.74",
     Asphodel: "1:12.43",
@@ -672,6 +739,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:12.26",
     Tartarus: "1:29.38",
     Asphodel: "1:12.61",
@@ -682,6 +750,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:12.29",
     Tartarus: "1:23.03",
     Asphodel: "1:18.13",
@@ -692,6 +761,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:12.53",
     Tartarus: "1:31.09",
     Asphodel: "1:24.90",
@@ -702,6 +772,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:12.55",
     Tartarus: "1:36.31",
     Asphodel: "1:02.15",
@@ -712,6 +783,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:12.73",
     Tartarus: "1:35.45",
     Asphodel: "1:12.41",
@@ -722,6 +794,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:12.87",
     Tartarus: "1:19.91",
     Asphodel: "1:17.18",
@@ -732,6 +805,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:13.03",
     Tartarus: "1:26.83",
     Asphodel: "1:20.92",
@@ -742,6 +816,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:13.10",
     Tartarus: "1:42.70",
     Asphodel: "1:15.21",
@@ -752,6 +827,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:13.21",
     Tartarus: "1:40.95",
     Asphodel: "1:06.81",
@@ -762,6 +838,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:13.33",
     Tartarus: "1:53.13",
     Asphodel: "1:12.66",
@@ -772,6 +849,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:13.40",
     Tartarus: "1:25.53",
     Asphodel: "1:33.08",
@@ -782,6 +860,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:13.83",
     Tartarus: "1:15.60",
     Asphodel: "1:17.10",
@@ -792,6 +871,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:13.91",
     Tartarus: "1:46.99",
     Asphodel: "1:28.94",
@@ -802,6 +882,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:14.00",
     Tartarus: "1:19.90",
     Asphodel: "1:09.97",
@@ -812,6 +893,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:14.05",
     Tartarus: "1:29.09",
     Asphodel: "1:15.14",
@@ -822,6 +904,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:14.08",
     Tartarus: "1:32.54",
     Asphodel: "1:07.11",
@@ -832,6 +915,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:14.18",
     Tartarus: "1:35.19",
     Asphodel: "1:08.12",
@@ -842,6 +926,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:14.20",
     Tartarus: "1:38.46",
     Asphodel: "1:21.03",
@@ -852,6 +937,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:14.28",
     Tartarus: "1:47.16",
     Asphodel: "1:27.36",
@@ -862,6 +948,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:14.28",
     Tartarus: "1:39.17",
     Asphodel: "1:23.49",
@@ -872,6 +959,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:14.35",
     Tartarus: "1:25.92",
     Asphodel: "1:19.76",
@@ -882,6 +970,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:14.47",
     Tartarus: "1:23.70",
     Asphodel: "1:25.30",
@@ -892,6 +981,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:14.56",
     Tartarus: "1:32.19",
     Asphodel: "1:11.66",
@@ -902,6 +992,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:14.77",
     Tartarus: "1:24.75",
     Asphodel: "1:10.81",
@@ -912,6 +1003,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:14.97",
     Tartarus: "1:42.68",
     Asphodel: "1:03.47",
@@ -922,6 +1014,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:15.06",
     Tartarus: "1:26.23",
     Asphodel: "1:18.86",
@@ -932,6 +1025,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:15.22",
     Tartarus: "1:37.27",
     Asphodel: "1:10.86",
@@ -942,6 +1036,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:15.55",
     Tartarus: "1:30.69",
     Asphodel: "1:21.98",
@@ -952,6 +1047,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:15.56",
     Tartarus: "1:29.31",
     Asphodel: "1:21.39",
@@ -962,6 +1058,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:15.74",
     Tartarus: "1:31.76",
     Asphodel: "1:07.26",
@@ -972,6 +1069,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:16.01",
     Tartarus: "1:34.04",
     Asphodel: "1:05.25",
@@ -982,6 +1080,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:16.06",
     Tartarus: "1:25.54",
     Asphodel: "1:28.09",
@@ -992,6 +1091,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:16.09",
     Tartarus: "1:47.26",
     Asphodel: "0:55.03",
@@ -1002,6 +1102,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:16.20",
     Tartarus: "1:41.63",
     Asphodel: "1:10.54",
@@ -1012,6 +1113,7 @@ export const rawData2 = [
   {
     Player: "Saragas",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:16.37",
     Tartarus: "1:30.72",
     Asphodel: "1:18.25",
@@ -1022,6 +1124,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:16.37",
     Tartarus: "1:49.81",
     Asphodel: "1:04.92",
@@ -1032,6 +1135,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:16.48",
     Tartarus: "1:34.28",
     Asphodel: "1:33.77",
@@ -1042,6 +1146,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:16.53",
     Tartarus: "1:39.23",
     Asphodel: "1:09.10",
@@ -1052,6 +1157,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:16.55",
     Tartarus: "1:43.76",
     Asphodel: "1:13.44",
@@ -1062,6 +1168,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:16.75",
     Tartarus: "1:24.62",
     Asphodel: "1:11.03",
@@ -1072,6 +1179,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:16.87",
     Tartarus: "1:33.85",
     Asphodel: "1:10.55",
@@ -1082,6 +1190,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:16.87",
     Tartarus: "1:13.58",
     Asphodel: "1:05.54",
@@ -1092,6 +1201,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:16.93",
     Tartarus: "1:38.20",
     Asphodel: "1:04.34",
@@ -1102,6 +1212,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:17.04",
     Tartarus: "1:48.87",
     Asphodel: "1:00.88",
@@ -1112,6 +1223,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:17.18",
     Tartarus: "1:36.73",
     Asphodel: "1:15.97",
@@ -1122,6 +1234,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:17.23",
     Tartarus: "1:41.40",
     Asphodel: "1:25.43",
@@ -1132,6 +1245,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:17.37",
     Tartarus: "1:21.65",
     Asphodel: "1:24.53",
@@ -1142,6 +1256,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:17.40",
     Tartarus: "1:34.83",
     Asphodel: "1:08.24",
@@ -1152,6 +1267,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:17.41",
     Tartarus: "1:25.39",
     Asphodel: "1:16.09",
@@ -1162,6 +1278,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:17.43",
     Tartarus: "1:26.84",
     Asphodel: "0:54.36",
@@ -1172,6 +1289,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:17.61",
     Tartarus: "1:39.75",
     Asphodel: "1:04.77",
@@ -1182,6 +1300,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:17.66",
     Tartarus: "1:38.25",
     Asphodel: "1:28.03",
@@ -1192,6 +1311,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:17.70",
     Tartarus: "1:22.71",
     Asphodel: "1:29.07",
@@ -1202,6 +1322,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:17.98",
     Tartarus: "1:36.40",
     Asphodel: "1:03.90",
@@ -1212,6 +1333,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:17.99",
     Tartarus: "1:20.59",
     Asphodel: "1:03.27",
@@ -1222,6 +1344,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:18.01",
     Tartarus: "1:41.89",
     Asphodel: "1:19.65",
@@ -1232,6 +1355,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:18.37",
     Tartarus: "1:35.80",
     Asphodel: "1:10.32",
@@ -1242,6 +1366,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:18.49",
     Tartarus: "1:32.43",
     Asphodel: "1:04.43",
@@ -1252,6 +1377,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:18.63",
     Tartarus: "1:40.48",
     Asphodel: "1:04.83",
@@ -1262,6 +1388,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:18.85",
     Tartarus: "1:55.47",
     Asphodel: "1:11.96",
@@ -1272,6 +1399,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:18.93",
     Tartarus: "1:16.51",
     Asphodel: "1:15.54",
@@ -1282,6 +1410,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:18.93",
     Tartarus: "1:18.64",
     Asphodel: "1:21.57",
@@ -1292,6 +1421,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:18.98",
     Tartarus: "1:47.27",
     Asphodel: "1:08.34",
@@ -1302,6 +1432,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:19.21",
     Tartarus: "1:32.15",
     Asphodel: "1:07.69",
@@ -1312,6 +1443,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:19.48",
     Tartarus: "1:27.06",
     Asphodel: "1:07.00",
@@ -1322,6 +1454,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:19.56",
     Tartarus: "1:39.12",
     Asphodel: "1:17.43",
@@ -1332,6 +1465,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:19.59",
     Tartarus: "1:34.20",
     Asphodel: "1:17.42",
@@ -1342,6 +1476,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:19.59",
     Tartarus: "1:46.51",
     Asphodel: "1:15.48",
@@ -1352,6 +1487,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:19.64",
     Tartarus: "1:29.24",
     Asphodel: "1:02.41",
@@ -1362,6 +1498,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:19.71",
     Tartarus: "1:32.61",
     Asphodel: "1:10.38",
@@ -1372,6 +1509,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:19.77",
     Tartarus: "1:27.99",
     Asphodel: "1:14.94",
@@ -1382,6 +1520,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.03",
     Tartarus: "1:39.35",
     Asphodel: "1:14.64",
@@ -1392,6 +1531,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.13",
     Tartarus: "1:47.23",
     Asphodel: "1:14.96",
@@ -1402,6 +1542,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.14",
     Tartarus: "1:42.62",
     Asphodel: "1:03.12",
@@ -1412,6 +1553,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.17",
     Tartarus: "1:37.56",
     Asphodel: "1:13.91",
@@ -1422,6 +1564,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.20",
     Tartarus: "1:33.48",
     Asphodel: "1:22.12",
@@ -1432,6 +1575,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:20.31",
     Tartarus: "1:35.13",
     Asphodel: "1:03.52",
@@ -1442,6 +1586,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.38",
     Tartarus: "1:38.61",
     Asphodel: "1:13.22",
@@ -1452,6 +1597,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.39",
     Tartarus: "1:32.09",
     Asphodel: "1:07.76",
@@ -1462,6 +1608,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.45",
     Tartarus: "1:42.47",
     Asphodel: "1:14.42",
@@ -1472,6 +1619,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.48",
     Tartarus: "1:34.28",
     Asphodel: "1:09.78",
@@ -1482,6 +1630,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:20.55",
     Tartarus: "1:38.24",
     Asphodel: "1:23.10",
@@ -1492,6 +1641,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.56",
     Tartarus: "1:40.84",
     Asphodel: "1:19.32",
@@ -1502,6 +1652,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.58",
     Tartarus: "1:36.26",
     Asphodel: "1:17.05",
@@ -1512,6 +1663,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:20.69",
     Tartarus: "1:26.82",
     Asphodel: "1:12.88",
@@ -1522,6 +1674,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.73",
     Tartarus: "1:27.25",
     Asphodel: "1:19.34",
@@ -1532,6 +1685,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.73",
     Tartarus: "1:39.87",
     Asphodel: "1:00.23",
@@ -1542,6 +1696,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:20.83",
     Tartarus: "1:45.41",
     Asphodel: "1:06.49",
@@ -1552,6 +1707,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.95",
     Tartarus: "1:14.65",
     Asphodel: "1:10.24",
@@ -1562,6 +1718,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:20.96",
     Tartarus: "1:36.13",
     Asphodel: "1:11.73",
@@ -1572,6 +1729,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.12",
     Tartarus: "1:38.90",
     Asphodel: "1:21.00",
@@ -1582,6 +1740,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.14",
     Tartarus: "1:31.86",
     Asphodel: "1:09.96",
@@ -1592,6 +1751,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.16",
     Tartarus: "1:37.48",
     Asphodel: "1:17.03",
@@ -1602,6 +1762,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.34",
     Tartarus: "1:53.77",
     Asphodel: "1:15.17",
@@ -1612,6 +1773,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.36",
     Tartarus: "1:59.08",
     Asphodel: "1:07.95",
@@ -1622,6 +1784,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.39",
     Tartarus: "1:45.61",
     Asphodel: "0:48.81",
@@ -1632,6 +1795,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:21.42",
     Tartarus: "1:30.99",
     Asphodel: "1:06.91",
@@ -1642,6 +1806,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.42",
     Tartarus: "1:37.70",
     Asphodel: "1:28.94",
@@ -1652,6 +1817,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:21.46",
     Tartarus: "1:38.81",
     Asphodel: "1:17.90",
@@ -1662,6 +1828,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:21.62",
     Tartarus: "1:14.31",
     Asphodel: "1:15.81",
@@ -1672,6 +1839,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.62",
     Tartarus: "1:36.54",
     Asphodel: "1:23.58",
@@ -1682,6 +1850,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.74",
     Tartarus: "1:46.86",
     Asphodel: "1:09.44",
@@ -1692,6 +1861,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.75",
     Tartarus: "1:43.44",
     Asphodel: "1:09.61",
@@ -1702,6 +1872,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.78",
     Tartarus: "1:39.70",
     Asphodel: "1:08.02",
@@ -1712,6 +1883,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.85",
     Tartarus: "1:32.69",
     Asphodel: "1:14.86",
@@ -1722,6 +1894,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.94",
     Tartarus: "1:40.27",
     Asphodel: "1:05.93",
@@ -1732,6 +1905,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:21.96",
     Tartarus: "1:53.67",
     Asphodel: "1:00.05",
@@ -1742,6 +1916,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.10",
     Tartarus: "1:33.15",
     Asphodel: "1:07.12",
@@ -1752,6 +1927,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.11",
     Tartarus: "1:36.17",
     Asphodel: "0:57.82",
@@ -1762,6 +1938,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:22.14",
     Tartarus: "1:17.35",
     Asphodel: "1:02.02",
@@ -1772,6 +1949,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.17",
     Tartarus: "1:42.53",
     Asphodel: "1:07.43",
@@ -1782,6 +1960,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.20",
     Tartarus: "1:27.04",
     Asphodel: "1:15.41",
@@ -1792,6 +1971,7 @@ export const rawData2 = [
   {
     Player: "bright01",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.24",
     Tartarus: "1:34.23",
     Asphodel: "1:18.01",
@@ -1802,6 +1982,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.35",
     Tartarus: "1:37.56",
     Asphodel: "1:24.37",
@@ -1812,6 +1993,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.45",
     Tartarus: "1:21.88",
     Asphodel: "1:27.79",
@@ -1822,6 +2004,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.47",
     Tartarus: "1:45.81",
     Asphodel: "1:15.81",
@@ -1832,6 +2015,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.60",
     Tartarus: "1:29.52",
     Asphodel: "1:08.85",
@@ -1842,6 +2026,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.61",
     Tartarus: "1:49.90",
     Asphodel: "1:07.20",
@@ -1852,6 +2037,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.64",
     Tartarus: "1:32.85",
     Asphodel: "1:18.26",
@@ -1862,6 +2048,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:22.81",
     Tartarus: "1:29.19",
     Asphodel: "0:57.95",
@@ -1872,6 +2059,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:22.96",
     Tartarus: "1:32.02",
     Asphodel: "0:57.05",
@@ -1882,6 +2070,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.06",
     Tartarus: "1:42.97",
     Asphodel: "1:00.79",
@@ -1892,6 +2081,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.14",
     Tartarus: "1:34.11",
     Asphodel: "1:23.63",
@@ -1902,6 +2092,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.24",
     Tartarus: "1:36.98",
     Asphodel: "1:34.44",
@@ -1912,6 +2103,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:23.25",
     Tartarus: "1:43.11",
     Asphodel: "1:15.68",
@@ -1922,6 +2114,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.33",
     Tartarus: "1:38.15",
     Asphodel: "1:10.81",
@@ -1932,6 +2125,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.56",
     Tartarus: "1:47.63",
     Asphodel: "1:15.90",
@@ -1942,6 +2136,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.61",
     Tartarus: "1:30.28",
     Asphodel: "1:05.08",
@@ -1952,6 +2147,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.63",
     Tartarus: "1:41.00",
     Asphodel: "1:08.27",
@@ -1962,6 +2158,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.64",
     Tartarus: "1:44.06",
     Asphodel: "1:26.12",
@@ -1972,6 +2169,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.75",
     Tartarus: "1:42.25",
     Asphodel: "1:01.51",
@@ -1982,6 +2180,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.75",
     Tartarus: "1:31.60",
     Asphodel: "1:08.92",
@@ -1992,6 +2191,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:23.77",
     Tartarus: "1:35.10",
     Asphodel: "1:16.64",
@@ -2002,6 +2202,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.84",
     Tartarus: "1:36.20",
     Asphodel: "1:14.24",
@@ -2012,6 +2213,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:23.89",
     Tartarus: "1:34.81",
     Asphodel: "1:24.86",
@@ -2022,6 +2224,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:23.92",
     Tartarus: "1:40.26",
     Asphodel: "1:11.30",
@@ -2032,6 +2235,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:23.92",
     Tartarus: "1:27.50",
     Asphodel: "1:08.15",
@@ -2042,6 +2246,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:23.97",
     Tartarus: "1:31.65",
     Asphodel: "1:13.86",
@@ -2052,6 +2257,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.01",
     Tartarus: "1:45.08",
     Asphodel: "1:16.87",
@@ -2062,6 +2268,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.19",
     Tartarus: "1:44.57",
     Asphodel: "1:08.51",
@@ -2072,6 +2279,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.20",
     Tartarus: "1:27.59",
     Asphodel: "1:07.70",
@@ -2082,6 +2290,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.23",
     Tartarus: "1:41.44",
     Asphodel: "0:52.48",
@@ -2092,6 +2301,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.33",
     Tartarus: "1:36.63",
     Asphodel: "1:29.38",
@@ -2102,6 +2312,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.35",
     Tartarus: "1:52.79",
     Asphodel: "1:09.73",
@@ -2112,6 +2323,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.39",
     Tartarus: "1:44.39",
     Asphodel: "1:15.04",
@@ -2122,6 +2334,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.43",
     Tartarus: "1:36.35",
     Asphodel: "1:05.19",
@@ -2132,6 +2345,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.48",
     Tartarus: "1:31.32",
     Asphodel: "1:05.56",
@@ -2142,6 +2356,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.53",
     Tartarus: "1:43.41",
     Asphodel: "1:11.61",
@@ -2152,6 +2367,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.53",
     Tartarus: "1:40.17",
     Asphodel: "1:11.76",
@@ -2162,6 +2378,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.59",
     Tartarus: "1:28.76",
     Asphodel: "1:15.35",
@@ -2172,6 +2389,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.69",
     Tartarus: "1:38.95",
     Asphodel: "1:23.86",
@@ -2182,6 +2400,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.75",
     Tartarus: "1:35.03",
     Asphodel: "1:17.17",
@@ -2192,6 +2411,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.77",
     Tartarus: "1:39.88",
     Asphodel: "1:01.16",
@@ -2202,6 +2422,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.83",
     Tartarus: "1:29.09",
     Asphodel: "1:19.05",
@@ -2212,6 +2433,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.89",
     Tartarus: "1:30.09",
     Asphodel: "1:15.89",
@@ -2222,6 +2444,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.92",
     Tartarus: "1:25.29",
     Asphodel: "1:19.63",
@@ -2232,6 +2455,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:24.93",
     Tartarus: "1:32.54",
     Asphodel: "1:14.24",
@@ -2242,6 +2466,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.94",
     Tartarus: "1:24.66",
     Asphodel: "1:26.95",
@@ -2252,6 +2477,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:24.98",
     Tartarus: "1:26.67",
     Asphodel: "1:07.54",
@@ -2262,6 +2488,7 @@ export const rawData2 = [
   {
     Player: "kontra",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:24.98",
     Tartarus: "1:40.11",
     Asphodel: "0:56.19",
@@ -2272,6 +2499,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:25.01",
     Tartarus: "1:49.83",
     Asphodel: "1:07.07",
@@ -2282,6 +2510,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:25.04",
     Tartarus: "1:42.02",
     Asphodel: "1:06.71",
@@ -2292,6 +2521,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:25.16",
     Tartarus: "1:46.47",
     Asphodel: "1:15.84",
@@ -2302,6 +2532,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:25.17",
     Tartarus: "1:30.33",
     Asphodel: "1:16.60",
@@ -2312,6 +2543,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:25.21",
     Tartarus: "1:22.60",
     Asphodel: "1:18.10",
@@ -2322,6 +2554,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:25.22",
     Tartarus: "1:36.73",
     Asphodel: "1:13.90",
@@ -2332,6 +2565,7 @@ export const rawData2 = [
   {
     Player: "Nalei",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:25.27",
     Tartarus: "1:23.12",
     Asphodel: "1:23.06",
@@ -2342,6 +2576,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:25.45",
     Tartarus: "1:31.27",
     Asphodel: "1:12.25",
@@ -2352,6 +2587,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:25.48",
     Tartarus: "1:57.24",
     Asphodel: "1:26.64",
@@ -2362,6 +2598,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:25.55",
     Tartarus: "1:29.71",
     Asphodel: "1:12.65",
@@ -2372,6 +2609,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:25.59",
     Tartarus: "1:30.21",
     Asphodel: "1:31.07",
@@ -2382,6 +2620,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:25.62",
     Tartarus: "1:19.51",
     Asphodel: "1:38.19",
@@ -2392,6 +2631,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:25.68",
     Tartarus: "1:29.70",
     Asphodel: "1:06.92",
@@ -2402,6 +2642,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:25.72",
     Tartarus: "1:39.08",
     Asphodel: "1:16.90",
@@ -2411,7 +2652,8 @@ export const rawData2 = [
   },
   {
     Player: "bablo",
-    Aspect: "Zag Spear",
+    Aspect: "Zagreus-Spear",
+    Ring: "purple",
     Clear: "5:25.80",
     Tartarus: "1:36.57",
     Asphodel: "1:06.74",
@@ -2422,6 +2664,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:25.80",
     Tartarus: "1:25.56",
     Asphodel: "1:19.72",
@@ -2432,6 +2675,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:25.85",
     Tartarus: "1:32.62",
     Asphodel: "1:12.44",
@@ -2442,6 +2686,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:25.87",
     Tartarus: "1:36.22",
     Asphodel: "1:03.99",
@@ -2452,6 +2697,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.06",
     Tartarus: "1:37.06",
     Asphodel: "1:29.80",
@@ -2462,6 +2708,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.07",
     Tartarus: "1:40.38",
     Asphodel: "1:26.85",
@@ -2472,6 +2719,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.11",
     Tartarus: "1:34.40",
     Asphodel: "1:24.19",
@@ -2482,6 +2730,7 @@ export const rawData2 = [
   {
     Player: "kontra",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.12",
     Tartarus: "1:36.21",
     Asphodel: "1:14.56",
@@ -2492,6 +2741,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.12",
     Tartarus: "1:18.11",
     Asphodel: "1:23.79",
@@ -2502,6 +2752,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.15",
     Tartarus: "1:35.41",
     Asphodel: "1:11.21",
@@ -2512,6 +2763,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Rama",
+    Ring: "blue",
     Clear: "5:26.16",
     Tartarus: "1:30.28",
     Asphodel: "1:23.37",
@@ -2522,6 +2774,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.21",
     Tartarus: "1:36.05",
     Asphodel: "1:15.51",
@@ -2532,6 +2785,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:26.35",
     Tartarus: "1:49.81",
     Asphodel: "1:26.85",
@@ -2542,6 +2796,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.38",
     Tartarus: "1:33.73",
     Asphodel: "1:11.36",
@@ -2552,6 +2807,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.41",
     Tartarus: "1:30.31",
     Asphodel: "1:10.19",
@@ -2562,6 +2818,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.49",
     Tartarus: "1:43.91",
     Asphodel: "1:11.56",
@@ -2572,6 +2829,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.54",
     Tartarus: "1:37.87",
     Asphodel: "1:03.40",
@@ -2582,6 +2840,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.55",
     Tartarus: "1:33.05",
     Asphodel: "1:28.02",
@@ -2592,6 +2851,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.59",
     Tartarus: "1:27.53",
     Asphodel: "1:05.58",
@@ -2602,6 +2862,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.59",
     Tartarus: "1:40.54",
     Asphodel: "1:17.33",
@@ -2612,6 +2873,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.62",
     Tartarus: "1:23.74",
     Asphodel: "1:13.40",
@@ -2622,6 +2884,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:26.67",
     Tartarus: "1:41.94",
     Asphodel: "1:26.38",
@@ -2632,6 +2895,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.72",
     Tartarus: "1:53.64",
     Asphodel: "1:07.80",
@@ -2642,6 +2906,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:26.75",
     Tartarus: "1:30.29",
     Asphodel: "1:22.04",
@@ -2652,6 +2917,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:26.80",
     Tartarus: "1:29.88",
     Asphodel: "0:57.92",
@@ -2662,6 +2928,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.84",
     Tartarus: "1:39.16",
     Asphodel: "1:20.40",
@@ -2672,6 +2939,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.85",
     Tartarus: "1:56.83",
     Asphodel: "1:05.58",
@@ -2682,6 +2950,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:26.98",
     Tartarus: "1:19.54",
     Asphodel: "1:29.73",
@@ -2692,6 +2961,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.04",
     Tartarus: "2:01.61",
     Asphodel: "1:14.95",
@@ -2702,6 +2972,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.05",
     Tartarus: "1:42.90",
     Asphodel: "1:15.09",
@@ -2712,6 +2983,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:27.10",
     Tartarus: "1:35.65",
     Asphodel: "1:21.13",
@@ -2722,6 +2994,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.19",
     Tartarus: "1:34.12",
     Asphodel: "1:12.59",
@@ -2732,6 +3005,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.31",
     Tartarus: "1:44.51",
     Asphodel: "1:18.38",
@@ -2742,6 +3016,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.37",
     Tartarus: "1:38.16",
     Asphodel: "1:19.73",
@@ -2752,6 +3027,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.39",
     Tartarus: "1:38.16",
     Asphodel: "1:30.40",
@@ -2762,6 +3038,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.41",
     Tartarus: "1:33.83",
     Asphodel: "1:07.69",
@@ -2772,6 +3049,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Lucifer",
+    Ring: "yellow",
     Clear: "5:27.44",
     Tartarus: "1:37.68",
     Asphodel: "1:17.56",
@@ -2782,6 +3060,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:27.47",
     Tartarus: "1:27.77",
     Asphodel: "1:22.87",
@@ -2792,6 +3071,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.56",
     Tartarus: "1:38.40",
     Asphodel: "1:38.07",
@@ -2802,6 +3082,7 @@ export const rawData2 = [
   {
     Player: "Saragas",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:27.57",
     Tartarus: "1:38.83",
     Asphodel: "1:10.57",
@@ -2812,6 +3093,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.60",
     Tartarus: "1:39.47",
     Asphodel: "1:15.42",
@@ -2822,6 +3104,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.61",
     Tartarus: "1:30.51",
     Asphodel: "1:26.46",
@@ -2832,6 +3115,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:27.61",
     Tartarus: "1:35.86",
     Asphodel: "1:11.45",
@@ -2842,6 +3126,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.64",
     Tartarus: "1:32.19",
     Asphodel: "1:14.76",
@@ -2852,6 +3137,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:27.68",
     Tartarus: "1:29.82",
     Asphodel: "1:02.56",
@@ -2862,6 +3148,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:27.72",
     Tartarus: "1:30.27",
     Asphodel: "1:23.54",
@@ -2872,6 +3159,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:27.73",
     Tartarus: "1:47.91",
     Asphodel: "1:25.51",
@@ -2882,6 +3170,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.75",
     Tartarus: "1:39.96",
     Asphodel: "1:23.73",
@@ -2892,6 +3181,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.78",
     Tartarus: "1:33.23",
     Asphodel: "1:11.30",
@@ -2902,6 +3192,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.80",
     Tartarus: "1:47.05",
     Asphodel: "1:27.53",
@@ -2912,6 +3203,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.83",
     Tartarus: "1:50.67",
     Asphodel: "1:02.91",
@@ -2922,6 +3214,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:27.91",
     Tartarus: "1:38.27",
     Asphodel: "1:32.65",
@@ -2932,6 +3225,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.03",
     Tartarus: "1:25.64",
     Asphodel: "1:10.29",
@@ -2942,6 +3236,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.22",
     Tartarus: "1:29.73",
     Asphodel: "1:03.92",
@@ -2952,6 +3247,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.22",
     Tartarus: "1:55.19",
     Asphodel: "0:55.83",
@@ -2962,6 +3258,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:28.23",
     Tartarus: "1:31.11",
     Asphodel: "1:01.13",
@@ -2972,6 +3269,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.34",
     Tartarus: "1:48.66",
     Asphodel: "1:13.16",
@@ -2982,6 +3280,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.35",
     Tartarus: "1:26.50",
     Asphodel: "1:24.09",
@@ -2992,6 +3291,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.36",
     Tartarus: "1:41.55",
     Asphodel: "1:22.66",
@@ -3002,6 +3302,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.43",
     Tartarus: "1:40.77",
     Asphodel: "1:26.71",
@@ -3012,6 +3313,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.45",
     Tartarus: "1:19.57",
     Asphodel: "1:14.23",
@@ -3022,6 +3324,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.47",
     Tartarus: "1:43.63",
     Asphodel: "1:20.10",
@@ -3032,6 +3335,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:28.47",
     Tartarus: "1:34.86",
     Asphodel: "1:14.06",
@@ -3042,6 +3346,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.51",
     Tartarus: "1:46.57",
     Asphodel: "1:09.13",
@@ -3052,6 +3357,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.56",
     Tartarus: "1:29.30",
     Asphodel: "1:22.91",
@@ -3062,6 +3368,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.61",
     Tartarus: "1:47.00",
     Asphodel: "1:05.32",
@@ -3072,6 +3379,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.62",
     Tartarus: "1:30.55",
     Asphodel: "1:37.04",
@@ -3082,6 +3390,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.64",
     Tartarus: "1:29.39",
     Asphodel: "1:28.09",
@@ -3092,6 +3401,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.67",
     Tartarus: "1:22.07",
     Asphodel: "1:34.78",
@@ -3102,6 +3412,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.68",
     Tartarus: "1:24.55",
     Asphodel: "1:33.06",
@@ -3112,6 +3423,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:28.73",
     Tartarus: "1:45.65",
     Asphodel: "1:26.83",
@@ -3122,6 +3434,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:28.75",
     Tartarus: "1:26.62",
     Asphodel: "1:17.25",
@@ -3132,6 +3445,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.75",
     Tartarus: "1:44.63",
     Asphodel: "1:08.08",
@@ -3142,6 +3456,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.75",
     Tartarus: "1:29.71",
     Asphodel: "1:16.40",
@@ -3152,6 +3467,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.80",
     Tartarus: "1:27.59",
     Asphodel: "1:29.79",
@@ -3162,6 +3478,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.81",
     Tartarus: "1:33.03",
     Asphodel: "1:19.99",
@@ -3172,6 +3489,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.82",
     Tartarus: "1:29.58",
     Asphodel: "1:19.23",
@@ -3182,6 +3500,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:28.84",
     Tartarus: "1:26.71",
     Asphodel: "1:15.69",
@@ -3192,6 +3511,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.86",
     Tartarus: "1:33.04",
     Asphodel: "1:11.92",
@@ -3202,6 +3522,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.86",
     Tartarus: "1:25.72",
     Asphodel: "1:03.02",
@@ -3212,6 +3533,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.88",
     Tartarus: "1:25.25",
     Asphodel: "1:27.90",
@@ -3222,6 +3544,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.91",
     Tartarus: "1:45.87",
     Asphodel: "1:21.10",
@@ -3232,6 +3555,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.93",
     Tartarus: "1:40.62",
     Asphodel: "1:09.01",
@@ -3242,6 +3566,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.97",
     Tartarus: "1:50.13",
     Asphodel: "0:51.77",
@@ -3252,6 +3577,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:28.98",
     Tartarus: "1:39.72",
     Asphodel: "1:07.10",
@@ -3262,6 +3588,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.01",
     Tartarus: "1:46.45",
     Asphodel: "1:02.69",
@@ -3272,6 +3599,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.01",
     Tartarus: "1:35.01",
     Asphodel: "1:19.47",
@@ -3282,6 +3610,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.06",
     Tartarus: "1:33.89",
     Asphodel: "1:30.25",
@@ -3292,6 +3621,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.13",
     Tartarus: "1:27.14",
     Asphodel: "1:13.39",
@@ -3302,6 +3632,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.22",
     Tartarus: "1:43.10",
     Asphodel: "1:27.21",
@@ -3312,6 +3643,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:29.26",
     Tartarus: "1:38.45",
     Asphodel: "1:04.62",
@@ -3322,6 +3654,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:29.30",
     Tartarus: "1:29.13",
     Asphodel: "1:23.28",
@@ -3332,6 +3665,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.37",
     Tartarus: "1:26.21",
     Asphodel: "1:22.31",
@@ -3342,6 +3676,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:29.38",
     Tartarus: "1:33.79",
     Asphodel: "1:09.13",
@@ -3352,6 +3687,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:29.39",
     Tartarus: "1:36.39",
     Asphodel: "1:06.83",
@@ -3362,6 +3698,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.40",
     Tartarus: "1:14.25",
     Asphodel: "1:30.32",
@@ -3372,6 +3709,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.44",
     Tartarus: "1:33.90",
     Asphodel: "1:25.26",
@@ -3382,6 +3720,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.49",
     Tartarus: "1:44.47",
     Asphodel: "1:17.57",
@@ -3392,6 +3731,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:29.53",
     Tartarus: "1:36.70",
     Asphodel: "1:06.29",
@@ -3402,6 +3742,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.54",
     Tartarus: "1:19.01",
     Asphodel: "1:13.04",
@@ -3412,6 +3753,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.56",
     Tartarus: "1:49.14",
     Asphodel: "1:23.06",
@@ -3422,6 +3764,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:29.70",
     Tartarus: "1:32.01",
     Asphodel: "1:14.16",
@@ -3432,6 +3775,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:29.71",
     Tartarus: "1:20.34",
     Asphodel: "1:30.79",
@@ -3442,6 +3786,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:29.73",
     Tartarus: "1:39.90",
     Asphodel: "1:14.54",
@@ -3452,6 +3797,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.76",
     Tartarus: "1:33.86",
     Asphodel: "1:24.93",
@@ -3462,6 +3808,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.77",
     Tartarus: "1:43.33",
     Asphodel: "1:22.81",
@@ -3472,6 +3819,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.83",
     Tartarus: "1:54.03",
     Asphodel: "0:56.93",
@@ -3482,6 +3830,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:29.85",
     Tartarus: "1:45.80",
     Asphodel: "1:15.38",
@@ -3492,6 +3841,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.90",
     Tartarus: "1:30.58",
     Asphodel: "1:30.70",
@@ -3502,6 +3852,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:29.90",
     Tartarus: "1:35.45",
     Asphodel: "1:22.32",
@@ -3512,6 +3863,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.90",
     Tartarus: "1:34.56",
     Asphodel: "1:17.76",
@@ -3522,6 +3874,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.95",
     Tartarus: "1:31.80",
     Asphodel: "1:04.38",
@@ -3532,6 +3885,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.96",
     Tartarus: "1:44.42",
     Asphodel: "1:11.73",
@@ -3542,6 +3896,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:29.98",
     Tartarus: "1:42.66",
     Asphodel: "1:21.90",
@@ -3552,6 +3907,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:30.18",
     Tartarus: "1:45.81",
     Asphodel: "1:20.12",
@@ -3562,6 +3918,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.32",
     Tartarus: "1:39.88",
     Asphodel: "1:14.64",
@@ -3572,6 +3929,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.33",
     Tartarus: "1:18.30",
     Asphodel: "1:26.47",
@@ -3582,6 +3940,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.34",
     Tartarus: "1:52.29",
     Asphodel: "1:01.32",
@@ -3592,6 +3951,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:30.39",
     Tartarus: "1:31.56",
     Asphodel: "1:16.47",
@@ -3602,6 +3962,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.40",
     Tartarus: "1:34.80",
     Asphodel: "1:27.82",
@@ -3612,6 +3973,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.44",
     Tartarus: "1:46.52",
     Asphodel: "1:12.25",
@@ -3622,6 +3984,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.53",
     Tartarus: "1:35.62",
     Asphodel: "1:31.00",
@@ -3632,6 +3995,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.53",
     Tartarus: "1:32.13",
     Asphodel: "1:24.47",
@@ -3642,6 +4006,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.55",
     Tartarus: "1:38.04",
     Asphodel: "1:18.20",
@@ -3652,6 +4017,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.66",
     Tartarus: "1:29.05",
     Asphodel: "1:21.07",
@@ -3662,6 +4028,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.66",
     Tartarus: "1:34.92",
     Asphodel: "1:19.08",
@@ -3672,6 +4039,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.74",
     Tartarus: "1:26.88",
     Asphodel: "1:08.63",
@@ -3682,6 +4050,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.76",
     Tartarus: "1:33.29",
     Asphodel: "1:31.65",
@@ -3692,6 +4061,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.77",
     Tartarus: "1:32.14",
     Asphodel: "1:22.03",
@@ -3702,6 +4072,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.81",
     Tartarus: "1:34.39",
     Asphodel: "0:58.94",
@@ -3712,6 +4083,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:30.82",
     Tartarus: "1:36.69",
     Asphodel: "1:04.46",
@@ -3722,6 +4094,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.86",
     Tartarus: "1:50.32",
     Asphodel: "1:16.98",
@@ -3732,6 +4105,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:30.89",
     Tartarus: "1:30.89",
     Asphodel: "1:19.21",
@@ -3742,6 +4116,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:30.90",
     Tartarus: "1:37.97",
     Asphodel: "1:16.01",
@@ -3752,6 +4127,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.03",
     Tartarus: "1:45.23",
     Asphodel: "1:16.43",
@@ -3762,6 +4138,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.03",
     Tartarus: "1:35.46",
     Asphodel: "1:18.47",
@@ -3772,6 +4149,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.04",
     Tartarus: "1:20.54",
     Asphodel: "1:20.36",
@@ -3782,6 +4160,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.08",
     Tartarus: "1:18.97",
     Asphodel: "1:16.60",
@@ -3792,6 +4171,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.14",
     Tartarus: "1:37.96",
     Asphodel: "1:03.51",
@@ -3802,6 +4182,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:31.15",
     Tartarus: "1:30.13",
     Asphodel: "0:59.35",
@@ -3812,6 +4193,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.17",
     Tartarus: "1:31.25",
     Asphodel: "1:06.89",
@@ -3822,6 +4204,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.19",
     Tartarus: "1:25.68",
     Asphodel: "1:06.89",
@@ -3832,6 +4215,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.19",
     Tartarus: "1:38.87",
     Asphodel: "1:09.76",
@@ -3842,6 +4226,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.19",
     Tartarus: "1:27.30",
     Asphodel: "1:12.59",
@@ -3852,6 +4237,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:31.35",
     Tartarus: "1:48.85",
     Asphodel: "0:56.11",
@@ -3862,6 +4248,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.36",
     Tartarus: "1:36.80",
     Asphodel: "1:10.29",
@@ -3872,6 +4259,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.36",
     Tartarus: "1:24.26",
     Asphodel: "1:26.83",
@@ -3882,6 +4270,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.38",
     Tartarus: "1:32.57",
     Asphodel: "1:31.13",
@@ -3892,6 +4281,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:31.40",
     Tartarus: "1:32.88",
     Asphodel: "1:06.91",
@@ -3902,6 +4292,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:31.41",
     Tartarus: "1:27.47",
     Asphodel: "1:24.54",
@@ -3912,6 +4303,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.42",
     Tartarus: "1:29.28",
     Asphodel: "1:26.94",
@@ -3922,6 +4314,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.43",
     Tartarus: "1:36.81",
     Asphodel: "1:17.88",
@@ -3932,6 +4325,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:31.44",
     Tartarus: "1:25.52",
     Asphodel: "1:35.31",
@@ -3942,6 +4336,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.52",
     Tartarus: "1:56.89",
     Asphodel: "0:56.34",
@@ -3952,6 +4347,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.52",
     Tartarus: "1:34.58",
     Asphodel: "1:17.11",
@@ -3962,6 +4358,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.54",
     Tartarus: "1:50.77",
     Asphodel: "1:15.63",
@@ -3972,6 +4369,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.56",
     Tartarus: "1:56.26",
     Asphodel: "1:17.24",
@@ -3982,6 +4380,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.64",
     Tartarus: "1:44.87",
     Asphodel: "1:11.39",
@@ -3992,6 +4391,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.65",
     Tartarus: "1:34.61",
     Asphodel: "1:12.20",
@@ -4002,6 +4402,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.67",
     Tartarus: "1:31.38",
     Asphodel: "1:41.17",
@@ -4012,6 +4413,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.74",
     Tartarus: "1:25.73",
     Asphodel: "1:19.73",
@@ -4022,6 +4424,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.78",
     Tartarus: "1:34.40",
     Asphodel: "0:50.06",
@@ -4032,6 +4435,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:31.80",
     Tartarus: "1:33.12",
     Asphodel: "1:10.15",
@@ -4042,6 +4446,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.87",
     Tartarus: "1:37.91",
     Asphodel: "1:14.11",
@@ -4052,6 +4457,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:31.89",
     Tartarus: "1:35.44",
     Asphodel: "1:22.30",
@@ -4062,6 +4468,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.91",
     Tartarus: "1:46.54",
     Asphodel: "1:04.21",
@@ -4072,6 +4479,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.91",
     Tartarus: "1:27.31",
     Asphodel: "1:34.95",
@@ -4082,6 +4490,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:31.93",
     Tartarus: "1:32.51",
     Asphodel: "1:39.32",
@@ -4092,6 +4501,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.94",
     Tartarus: "1:40.00",
     Asphodel: "1:21.00",
@@ -4102,6 +4512,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.94",
     Tartarus: "1:44.56",
     Asphodel: "1:11.09",
@@ -4112,6 +4523,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.94",
     Tartarus: "2:00.08",
     Asphodel: "0:59.15",
@@ -4122,6 +4534,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:31.95",
     Tartarus: "1:37.83",
     Asphodel: "1:00.18",
@@ -4132,6 +4545,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.06",
     Tartarus: "1:33.24",
     Asphodel: "1:00.85",
@@ -4142,6 +4556,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.07",
     Tartarus: "1:36.14",
     Asphodel: "1:15.70",
@@ -4152,6 +4567,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.07",
     Tartarus: "2:00.69",
     Asphodel: "1:02.19",
@@ -4162,6 +4578,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.09",
     Tartarus: "1:36.50",
     Asphodel: "1:04.13",
@@ -4172,6 +4589,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.10",
     Tartarus: "1:29.85",
     Asphodel: "1:20.32",
@@ -4182,6 +4600,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.11",
     Tartarus: "1:50.09",
     Asphodel: "1:15.33",
@@ -4192,6 +4611,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.14",
     Tartarus: "1:36.95",
     Asphodel: "1:15.77",
@@ -4202,6 +4622,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:32.15",
     Tartarus: "1:35.78",
     Asphodel: "1:18.18",
@@ -4212,6 +4633,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.17",
     Tartarus: "1:49.24",
     Asphodel: "1:13.38",
@@ -4222,6 +4644,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.26",
     Tartarus: "1:47.51",
     Asphodel: "1:31.59",
@@ -4232,6 +4655,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:32.29",
     Tartarus: "1:30.35",
     Asphodel: "1:06.04",
@@ -4242,6 +4666,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.40",
     Tartarus: "1:41.37",
     Asphodel: "1:24.55",
@@ -4252,6 +4677,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.40",
     Tartarus: "1:34.85",
     Asphodel: "1:32.22",
@@ -4262,6 +4688,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.43",
     Tartarus: "1:41.53",
     Asphodel: "1:05.02",
@@ -4272,6 +4699,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.48",
     Tartarus: "1:32.86",
     Asphodel: "1:12.40",
@@ -4282,6 +4710,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.49",
     Tartarus: "1:40.63",
     Asphodel: "1:16.63",
@@ -4292,6 +4721,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:32.50",
     Tartarus: "1:35.62",
     Asphodel: "1:16.27",
@@ -4302,6 +4732,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:32.51",
     Tartarus: "1:28.09",
     Asphodel: "1:13.05",
@@ -4312,6 +4743,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:32.69",
     Tartarus: "1:35.47",
     Asphodel: "1:19.24",
@@ -4322,6 +4754,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:32.73",
     Tartarus: "1:26.53",
     Asphodel: "1:35.32",
@@ -4332,6 +4765,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.74",
     Tartarus: "1:58.53",
     Asphodel: "1:13.25",
@@ -4342,6 +4776,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:32.76",
     Tartarus: "1:48.55",
     Asphodel: "1:06.43",
@@ -4352,6 +4787,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.77",
     Tartarus: "1:27.88",
     Asphodel: "1:19.24",
@@ -4362,6 +4798,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:32.78",
     Tartarus: "1:39.00",
     Asphodel: "1:17.06",
@@ -4372,6 +4809,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.80",
     Tartarus: "1:47.04",
     Asphodel: "1:26.88",
@@ -4382,6 +4820,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.82",
     Tartarus: "1:41.94",
     Asphodel: "1:06.77",
@@ -4392,6 +4831,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.85",
     Tartarus: "1:25.59",
     Asphodel: "1:17.62",
@@ -4402,6 +4842,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.87",
     Tartarus: "1:45.23",
     Asphodel: "1:14.58",
@@ -4412,6 +4853,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.92",
     Tartarus: "1:44.89",
     Asphodel: "1:17.72",
@@ -4422,6 +4864,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.98",
     Tartarus: "1:49.57",
     Asphodel: "1:14.85",
@@ -4432,6 +4875,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.99",
     Tartarus: "1:33.31",
     Asphodel: "1:12.25",
@@ -4442,6 +4886,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:32.99",
     Tartarus: "1:57.13",
     Asphodel: "1:01.23",
@@ -4452,6 +4897,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.04",
     Tartarus: "1:40.07",
     Asphodel: "1:02.80",
@@ -4462,6 +4908,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.10",
     Tartarus: "1:43.34",
     Asphodel: "1:18.43",
@@ -4472,6 +4919,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:33.14",
     Tartarus: "1:24.83",
     Asphodel: "1:10.39",
@@ -4482,6 +4930,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.19",
     Tartarus: "1:36.12",
     Asphodel: "1:12.79",
@@ -4492,6 +4941,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.22",
     Tartarus: "1:41.49",
     Asphodel: "1:15.43",
@@ -4502,6 +4952,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:33.22",
     Tartarus: "1:36.05",
     Asphodel: "1:22.51",
@@ -4512,6 +4963,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.24",
     Tartarus: "1:51.34",
     Asphodel: "1:14.99",
@@ -4522,6 +4974,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.24",
     Tartarus: "1:42.41",
     Asphodel: "1:15.28",
@@ -4532,6 +4985,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.35",
     Tartarus: "1:46.24",
     Asphodel: "1:03.52",
@@ -4542,6 +4996,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.47",
     Tartarus: "1:37.49",
     Asphodel: "1:13.12",
@@ -4552,6 +5007,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:33.50",
     Tartarus: "1:57.12",
     Asphodel: "1:01.12",
@@ -4562,6 +5018,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.60",
     Tartarus: "1:38.76",
     Asphodel: "1:11.86",
@@ -4572,6 +5029,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.60",
     Tartarus: "1:35.53",
     Asphodel: "1:12.13",
@@ -4582,6 +5040,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.61",
     Tartarus: "1:40.84",
     Asphodel: "1:22.66",
@@ -4592,6 +5051,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:33.66",
     Tartarus: "1:24.47",
     Asphodel: "1:17.36",
@@ -4602,6 +5062,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.68",
     Tartarus: "1:20.82",
     Asphodel: "1:17.68",
@@ -4612,6 +5073,7 @@ export const rawData2 = [
   {
     Player: "Shiitak3",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:33.77",
     Tartarus: "1:29.82",
     Asphodel: "1:28.44",
@@ -4622,6 +5084,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.80",
     Tartarus: "1:40.58",
     Asphodel: "1:14.42",
@@ -4632,6 +5095,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.86",
     Tartarus: "1:43.05",
     Asphodel: "1:11.97",
@@ -4642,6 +5106,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.88",
     Tartarus: "1:36.92",
     Asphodel: "1:08.02",
@@ -4652,6 +5117,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.93",
     Tartarus: "1:49.93",
     Asphodel: "1:01.83",
@@ -4662,6 +5128,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.98",
     Tartarus: "1:17.57",
     Asphodel: "1:14.37",
@@ -4672,6 +5139,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:33.98",
     Tartarus: "1:47.58",
     Asphodel: "1:18.14",
@@ -4682,6 +5150,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:33.99",
     Tartarus: "1:43.84",
     Asphodel: "1:23.30",
@@ -4692,6 +5161,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.03",
     Tartarus: "1:26.85",
     Asphodel: "1:09.33",
@@ -4702,6 +5172,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.05",
     Tartarus: "1:28.06",
     Asphodel: "1:22.49",
@@ -4712,6 +5183,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:34.07",
     Tartarus: "1:46.98",
     Asphodel: "1:00.58",
@@ -4722,6 +5194,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.19",
     Tartarus: "1:39.37",
     Asphodel: "1:11.78",
@@ -4732,6 +5205,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.22",
     Tartarus: "1:41.09",
     Asphodel: "1:07.70",
@@ -4742,6 +5216,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.24",
     Tartarus: "1:36.69",
     Asphodel: "1:25.02",
@@ -4752,6 +5227,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.25",
     Tartarus: "1:39.82",
     Asphodel: "1:15.18",
@@ -4762,6 +5238,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.26",
     Tartarus: "1:35.05",
     Asphodel: "1:17.34",
@@ -4772,6 +5249,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.28",
     Tartarus: "1:34.14",
     Asphodel: "1:07.30",
@@ -4782,6 +5260,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.34",
     Tartarus: "1:31.18",
     Asphodel: "1:19.89",
@@ -4792,6 +5271,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.43",
     Tartarus: "1:38.43",
     Asphodel: "1:04.56",
@@ -4802,6 +5282,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.46",
     Tartarus: "1:34.70",
     Asphodel: "1:07.06",
@@ -4812,6 +5293,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.47",
     Tartarus: "1:28.01",
     Asphodel: "1:17.23",
@@ -4822,6 +5304,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.47",
     Tartarus: "1:39.91",
     Asphodel: "1:19.02",
@@ -4832,6 +5315,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.60",
     Tartarus: "1:38.08",
     Asphodel: "1:23.79",
@@ -4842,6 +5326,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.60",
     Tartarus: "1:43.85",
     Asphodel: "1:03.63",
@@ -4852,6 +5337,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.64",
     Tartarus: "1:20.61",
     Asphodel: "1:05.33",
@@ -4862,6 +5348,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:34.68",
     Tartarus: "1:49.08",
     Asphodel: "1:17.29",
@@ -4872,6 +5359,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.71",
     Tartarus: "1:51.87",
     Asphodel: "1:16.08",
@@ -4882,6 +5370,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.72",
     Tartarus: "1:48.14",
     Asphodel: "1:25.88",
@@ -4892,6 +5381,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.73",
     Tartarus: "1:50.13",
     Asphodel: "0:53.74",
@@ -4902,6 +5392,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.76",
     Tartarus: "1:36.09",
     Asphodel: "1:09.12",
@@ -4912,6 +5403,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.80",
     Tartarus: "1:27.21",
     Asphodel: "1:03.54",
@@ -4922,6 +5414,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.91",
     Tartarus: "1:35.90",
     Asphodel: "1:10.05",
@@ -4932,6 +5425,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.98",
     Tartarus: "1:39.60",
     Asphodel: "1:18.56",
@@ -4942,6 +5436,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:34.99",
     Tartarus: "1:29.03",
     Asphodel: "1:10.00",
@@ -4952,6 +5447,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.01",
     Tartarus: "1:23.26",
     Asphodel: "1:23.47",
@@ -4962,6 +5458,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.12",
     Tartarus: "1:30.21",
     Asphodel: "1:23.60",
@@ -4972,6 +5469,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.25",
     Tartarus: "1:46.72",
     Asphodel: "1:01.74",
@@ -4982,6 +5480,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.26",
     Tartarus: "1:32.52",
     Asphodel: "1:09.94",
@@ -4992,6 +5491,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.26",
     Tartarus: "1:29.65",
     Asphodel: "1:20.07",
@@ -5002,6 +5502,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.29",
     Tartarus: "1:42.39",
     Asphodel: "1:00.71",
@@ -5012,6 +5513,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.35",
     Tartarus: "1:40.35",
     Asphodel: "1:09.59",
@@ -5022,6 +5524,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.37",
     Tartarus: "1:30.67",
     Asphodel: "1:23.82",
@@ -5032,6 +5535,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.40",
     Tartarus: "1:40.52",
     Asphodel: "1:12.40",
@@ -5042,6 +5546,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.44",
     Tartarus: "1:37.68",
     Asphodel: "1:17.30",
@@ -5052,6 +5557,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:35.50",
     Tartarus: "1:40.52",
     Asphodel: "1:18.80",
@@ -5062,6 +5568,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.51",
     Tartarus: "1:29.43",
     Asphodel: "1:07.94",
@@ -5072,6 +5579,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.56",
     Tartarus: "1:49.18",
     Asphodel: "1:06.32",
@@ -5082,6 +5590,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.58",
     Tartarus: "1:27.49",
     Asphodel: "1:32.11",
@@ -5092,6 +5601,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.60",
     Tartarus: "1:16.12",
     Asphodel: "1:26.89",
@@ -5102,6 +5612,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:35.60",
     Tartarus: "1:32.33",
     Asphodel: "1:06.80",
@@ -5112,6 +5623,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.61",
     Tartarus: "1:36.11",
     Asphodel: "1:25.56",
@@ -5122,6 +5634,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.69",
     Tartarus: "1:53.03",
     Asphodel: "1:20.48",
@@ -5132,6 +5645,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.69",
     Tartarus: "1:33.54",
     Asphodel: "1:21.33",
@@ -5142,6 +5656,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:35.73",
     Tartarus: "1:33.61",
     Asphodel: "1:03.39",
@@ -5152,6 +5667,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.81",
     Tartarus: "1:20.56",
     Asphodel: "1:12.68",
@@ -5162,6 +5678,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.83",
     Tartarus: "1:46.84",
     Asphodel: "1:16.18",
@@ -5172,6 +5689,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.86",
     Tartarus: "1:48.15",
     Asphodel: "1:24.55",
@@ -5182,6 +5700,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.89",
     Tartarus: "1:27.10",
     Asphodel: "0:59.19",
@@ -5192,6 +5711,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.90",
     Tartarus: "1:56.12",
     Asphodel: "1:22.10",
@@ -5202,6 +5722,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.90",
     Tartarus: "1:51.59",
     Asphodel: "1:13.44",
@@ -5212,6 +5733,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:35.96",
     Tartarus: "1:51.67",
     Asphodel: "1:05.31",
@@ -5222,6 +5744,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:36.02",
     Tartarus: "1:36.31",
     Asphodel: "1:08.42",
@@ -5232,6 +5755,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.03",
     Tartarus: "1:37.93",
     Asphodel: "1:20.02",
@@ -5242,6 +5766,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.03",
     Tartarus: "1:31.74",
     Asphodel: "1:13.78",
@@ -5252,6 +5777,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.06",
     Tartarus: "1:38.67",
     Asphodel: "1:24.14",
@@ -5262,6 +5788,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.12",
     Tartarus: "1:43.55",
     Asphodel: "1:04.00",
@@ -5272,6 +5799,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.20",
     Tartarus: "1:35.76",
     Asphodel: "1:19.12",
@@ -5282,6 +5810,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.21",
     Tartarus: "1:56.90",
     Asphodel: "0:48.26",
@@ -5292,6 +5821,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.22",
     Tartarus: "1:53.68",
     Asphodel: "1:07.62",
@@ -5302,6 +5832,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.24",
     Tartarus: "1:46.43",
     Asphodel: "1:19.60",
@@ -5312,6 +5843,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:36.25",
     Tartarus: "1:19.52",
     Asphodel: "1:07.77",
@@ -5322,6 +5854,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.26",
     Tartarus: "1:30.96",
     Asphodel: "1:18.40",
@@ -5332,6 +5865,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:36.29",
     Tartarus: "1:42.42",
     Asphodel: "1:21.89",
@@ -5342,6 +5876,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.36",
     Tartarus: "1:37.31",
     Asphodel: "1:19.81",
@@ -5352,6 +5887,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:36.37",
     Tartarus: "1:28.21",
     Asphodel: "1:16.22",
@@ -5362,6 +5898,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.37",
     Tartarus: "1:48.62",
     Asphodel: "1:03.83",
@@ -5372,6 +5909,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.38",
     Tartarus: "1:39.91",
     Asphodel: "1:21.75",
@@ -5382,6 +5920,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.38",
     Tartarus: "1:36.07",
     Asphodel: "1:15.68",
@@ -5392,6 +5931,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:36.39",
     Tartarus: "1:35.88",
     Asphodel: "1:25.68",
@@ -5402,6 +5942,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.42",
     Tartarus: "1:49.42",
     Asphodel: "1:15.33",
@@ -5412,6 +5953,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.42",
     Tartarus: "1:37.26",
     Asphodel: "1:15.54",
@@ -5422,6 +5964,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.43",
     Tartarus: "1:44.99",
     Asphodel: "1:14.58",
@@ -5432,6 +5975,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:36.44",
     Tartarus: "1:30.19",
     Asphodel: "1:11.10",
@@ -5442,6 +5986,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.44",
     Tartarus: "1:32.31",
     Asphodel: "1:19.41",
@@ -5452,6 +5997,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.45",
     Tartarus: "1:26.43",
     Asphodel: "1:35.06",
@@ -5462,6 +6008,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.50",
     Tartarus: "1:33.36",
     Asphodel: "1:08.52",
@@ -5472,6 +6019,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:36.52",
     Tartarus: "1:26.61",
     Asphodel: "1:11.88",
@@ -5482,6 +6030,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.53",
     Tartarus: "1:21.45",
     Asphodel: "1:28.07",
@@ -5492,6 +6041,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:36.53",
     Tartarus: "1:48.24",
     Asphodel: "1:28.79",
@@ -5502,6 +6052,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.55",
     Tartarus: "1:33.37",
     Asphodel: "1:18.31",
@@ -5512,6 +6063,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.57",
     Tartarus: "1:39.12",
     Asphodel: "1:14.33",
@@ -5522,6 +6074,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.57",
     Tartarus: "1:41.47",
     Asphodel: "1:24.58",
@@ -5532,6 +6085,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.57",
     Tartarus: "1:32.94",
     Asphodel: "1:11.10",
@@ -5542,6 +6096,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.59",
     Tartarus: "1:37.74",
     Asphodel: "1:10.33",
@@ -5552,6 +6107,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.68",
     Tartarus: "1:42.17",
     Asphodel: "1:20.56",
@@ -5562,6 +6118,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.69",
     Tartarus: "2:12.96",
     Asphodel: "1:11.37",
@@ -5572,6 +6129,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.71",
     Tartarus: "1:28.17",
     Asphodel: "1:30.70",
@@ -5582,6 +6140,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.72",
     Tartarus: "1:56.73",
     Asphodel: "1:02.40",
@@ -5592,6 +6151,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:36.74",
     Tartarus: "1:24.79",
     Asphodel: "1:16.14",
@@ -5602,6 +6162,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.75",
     Tartarus: "1:30.66",
     Asphodel: "1:28.92",
@@ -5612,6 +6173,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.76",
     Tartarus: "1:42.98",
     Asphodel: "1:04.78",
@@ -5622,6 +6184,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.76",
     Tartarus: "1:25.78",
     Asphodel: "1:25.29",
@@ -5632,6 +6195,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.76",
     Tartarus: "1:32.61",
     Asphodel: "1:03.31",
@@ -5642,6 +6206,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.82",
     Tartarus: "1:30.74",
     Asphodel: "1:11.04",
@@ -5652,6 +6217,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.85",
     Tartarus: "1:59.84",
     Asphodel: "1:13.46",
@@ -5662,6 +6228,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.93",
     Tartarus: "1:26.24",
     Asphodel: "0:56.30",
@@ -5672,6 +6239,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:36.95",
     Tartarus: "1:41.80",
     Asphodel: "1:17.05",
@@ -5682,6 +6250,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.00",
     Tartarus: "1:42.38",
     Asphodel: "1:08.60",
@@ -5692,6 +6261,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.02",
     Tartarus: "1:35.24",
     Asphodel: "1:13.62",
@@ -5702,6 +6272,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:37.05",
     Tartarus: "1:44.76",
     Asphodel: "1:34.18",
@@ -5712,6 +6283,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:37.09",
     Tartarus: "1:47.99",
     Asphodel: "1:09.59",
@@ -5722,6 +6294,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.14",
     Tartarus: "1:29.72",
     Asphodel: "1:24.00",
@@ -5732,6 +6305,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.16",
     Tartarus: "1:39.73",
     Asphodel: "1:19.12",
@@ -5742,6 +6316,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.20",
     Tartarus: "1:44.37",
     Asphodel: "1:01.87",
@@ -5752,6 +6327,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.23",
     Tartarus: "1:45.71",
     Asphodel: "1:27.89",
@@ -5762,6 +6338,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.26",
     Tartarus: "1:37.98",
     Asphodel: "1:13.53",
@@ -5772,6 +6349,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.26",
     Tartarus: "1:39.77",
     Asphodel: "1:03.04",
@@ -5782,6 +6360,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.31",
     Tartarus: "1:34.20",
     Asphodel: "1:17.30",
@@ -5792,6 +6371,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:37.31",
     Tartarus: "1:44.29",
     Asphodel: "1:11.67",
@@ -5802,6 +6382,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:37.32",
     Tartarus: "1:51.15",
     Asphodel: "1:19.78",
@@ -5812,6 +6393,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.32",
     Tartarus: "2:05.96",
     Asphodel: "1:20.47",
@@ -5822,6 +6404,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.34",
     Tartarus: "1:33.87",
     Asphodel: "1:23.84",
@@ -5832,6 +6415,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.35",
     Tartarus: "1:48.92",
     Asphodel: "1:09.93",
@@ -5842,6 +6426,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.37",
     Tartarus: "1:28.83",
     Asphodel: "1:25.40",
@@ -5852,6 +6437,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.38",
     Tartarus: "1:46.29",
     Asphodel: "1:15.12",
@@ -5862,6 +6448,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.40",
     Tartarus: "1:26.83",
     Asphodel: "1:16.61",
@@ -5872,6 +6459,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.42",
     Tartarus: "1:34.55",
     Asphodel: "1:13.60",
@@ -5882,6 +6470,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.44",
     Tartarus: "1:39.74",
     Asphodel: "1:22.67",
@@ -5892,6 +6481,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:37.52",
     Tartarus: "1:26.99",
     Asphodel: "1:26.78",
@@ -5902,6 +6492,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.54",
     Tartarus: "1:36.10",
     Asphodel: "1:35.09",
@@ -5912,6 +6503,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:37.54",
     Tartarus: "1:34.23",
     Asphodel: "1:17.51",
@@ -5922,6 +6514,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:37.56",
     Tartarus: "1:36.17",
     Asphodel: "1:02.73",
@@ -5932,6 +6525,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.60",
     Tartarus: "1:35.83",
     Asphodel: "1:23.92",
@@ -5942,6 +6536,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:37.60",
     Tartarus: "1:30.00",
     Asphodel: "1:13.00",
@@ -5952,6 +6547,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.62",
     Tartarus: "1:36.86",
     Asphodel: "1:27.55",
@@ -5962,6 +6558,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.63",
     Tartarus: "1:44.95",
     Asphodel: "1:14.48",
@@ -5972,6 +6569,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.67",
     Tartarus: "1:32.24",
     Asphodel: "1:18.24",
@@ -5982,6 +6580,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.72",
     Tartarus: "1:44.84",
     Asphodel: "1:18.16",
@@ -5992,6 +6591,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.73",
     Tartarus: "1:57.02",
     Asphodel: "1:08.95",
@@ -6002,6 +6602,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.73",
     Tartarus: "1:41.03",
     Asphodel: "1:24.81",
@@ -6012,6 +6613,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:37.74",
     Tartarus: "1:31.78",
     Asphodel: "1:26.57",
@@ -6021,7 +6623,8 @@ export const rawData2 = [
   },
   {
     Player: "Wmic",
-    Aspect: "Zag Rail",
+    Aspect: "Zagreus-Rail",
+    Ring: "yellow",
     Clear: "5:37.75",
     Tartarus: "1:40.17",
     Asphodel: "1:17.21",
@@ -6032,6 +6635,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Rama",
+    Ring: "blue",
     Clear: "5:37.75",
     Tartarus: "1:33.71",
     Asphodel: "1:09.76",
@@ -6042,6 +6646,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.78",
     Tartarus: "1:26.01",
     Asphodel: "1:18.02",
@@ -6052,6 +6657,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.82",
     Tartarus: "1:25.41",
     Asphodel: "1:31.01",
@@ -6062,6 +6668,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.84",
     Tartarus: "1:45.63",
     Asphodel: "1:15.03",
@@ -6072,6 +6679,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.87",
     Tartarus: "1:40.08",
     Asphodel: "1:17.80",
@@ -6082,6 +6690,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.87",
     Tartarus: "1:37.69",
     Asphodel: "1:04.47",
@@ -6092,6 +6701,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.90",
     Tartarus: "1:55.88",
     Asphodel: "1:11.07",
@@ -6102,6 +6712,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.93",
     Tartarus: "1:28.89",
     Asphodel: "1:18.23",
@@ -6112,6 +6723,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.94",
     Tartarus: "1:45.88",
     Asphodel: "1:22.46",
@@ -6122,6 +6734,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:37.95",
     Tartarus: "1:35.13",
     Asphodel: "1:08.31",
@@ -6132,6 +6745,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:37.96",
     Tartarus: "1:31.64",
     Asphodel: "1:17.39",
@@ -6142,6 +6756,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:38.00",
     Tartarus: "1:38.16",
     Asphodel: "1:15.64",
@@ -6152,6 +6767,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.05",
     Tartarus: "1:42.23",
     Asphodel: "1:10.84",
@@ -6162,6 +6778,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.09",
     Tartarus: "1:51.13",
     Asphodel: "1:16.35",
@@ -6172,6 +6789,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.10",
     Tartarus: "1:28.67",
     Asphodel: "1:21.25",
@@ -6182,6 +6800,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.12",
     Tartarus: "1:43.75",
     Asphodel: "1:22.52",
@@ -6192,6 +6811,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.13",
     Tartarus: "1:52.74",
     Asphodel: "1:07.26",
@@ -6202,6 +6822,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.14",
     Tartarus: "1:48.47",
     Asphodel: "0:58.25",
@@ -6212,6 +6833,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:38.17",
     Tartarus: "1:29.36",
     Asphodel: "1:19.71",
@@ -6222,6 +6844,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:38.19",
     Tartarus: "1:27.69",
     Asphodel: "1:40.72",
@@ -6232,6 +6855,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.19",
     Tartarus: "1:53.19",
     Asphodel: "1:20.47",
@@ -6242,6 +6866,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.19",
     Tartarus: "1:48.54",
     Asphodel: "1:09.37",
@@ -6252,6 +6877,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.27",
     Tartarus: "1:50.48",
     Asphodel: "1:34.01",
@@ -6262,6 +6888,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.27",
     Tartarus: "1:53.03",
     Asphodel: "1:22.61",
@@ -6272,6 +6899,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.29",
     Tartarus: "1:49.47",
     Asphodel: "1:13.23",
@@ -6282,6 +6910,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:38.29",
     Tartarus: "1:49.41",
     Asphodel: "1:07.10",
@@ -6292,6 +6921,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.29",
     Tartarus: "1:24.27",
     Asphodel: "1:31.87",
@@ -6302,6 +6932,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.30",
     Tartarus: "1:47.42",
     Asphodel: "1:11.08",
@@ -6312,6 +6943,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.34",
     Tartarus: "1:39.64",
     Asphodel: "1:17.73",
@@ -6322,6 +6954,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.38",
     Tartarus: "1:40.67",
     Asphodel: "1:06.84",
@@ -6332,6 +6965,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.38",
     Tartarus: "1:45.20",
     Asphodel: "1:20.37",
@@ -6342,6 +6976,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.41",
     Tartarus: "1:47.14",
     Asphodel: "1:09.61",
@@ -6352,6 +6987,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.42",
     Tartarus: "1:37.68",
     Asphodel: "1:10.35",
@@ -6362,6 +6998,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.44",
     Tartarus: "1:36.83",
     Asphodel: "1:21.63",
@@ -6372,6 +7009,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:38.47",
     Tartarus: "1:56.22",
     Asphodel: "1:12.73",
@@ -6382,6 +7020,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.50",
     Tartarus: "1:50.72",
     Asphodel: "1:02.52",
@@ -6392,6 +7031,7 @@ export const rawData2 = [
   {
     Player: "Saragas",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:38.56",
     Tartarus: "1:27.00",
     Asphodel: "1:25.00",
@@ -6402,6 +7042,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.56",
     Tartarus: "1:43.49",
     Asphodel: "1:17.89",
@@ -6412,6 +7053,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:38.57",
     Tartarus: "1:31.55",
     Asphodel: "1:26.79",
@@ -6422,6 +7064,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:38.58",
     Tartarus: "1:33.25",
     Asphodel: "1:14.86",
@@ -6432,6 +7075,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.59",
     Tartarus: "1:41.71",
     Asphodel: "1:24.63",
@@ -6442,6 +7086,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.65",
     Tartarus: "2:06.15",
     Asphodel: "1:07.40",
@@ -6452,6 +7097,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.67",
     Tartarus: "1:40.31",
     Asphodel: "1:19.55",
@@ -6462,6 +7108,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.74",
     Tartarus: "1:47.57",
     Asphodel: "1:10.41",
@@ -6472,6 +7119,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.77",
     Tartarus: "1:27.91",
     Asphodel: "1:26.31",
@@ -6482,6 +7130,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:38.82",
     Tartarus: "1:45.36",
     Asphodel: "1:00.79",
@@ -6492,6 +7141,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.82",
     Tartarus: "1:31.53",
     Asphodel: "1:13.24",
@@ -6502,6 +7152,7 @@ export const rawData2 = [
   {
     Player: "arcalena",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.84",
     Tartarus: "1:38.98",
     Asphodel: "1:07.88",
@@ -6512,6 +7163,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.88",
     Tartarus: "1:35.22",
     Asphodel: "1:29.69",
@@ -6522,6 +7174,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.88",
     Tartarus: "1:36.97",
     Asphodel: "1:30.08",
@@ -6532,6 +7185,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.94",
     Tartarus: "1:40.20",
     Asphodel: "1:19.62",
@@ -6542,6 +7196,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:38.99",
     Tartarus: "1:27.83",
     Asphodel: "1:18.92",
@@ -6552,6 +7207,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.05",
     Tartarus: "1:49.71",
     Asphodel: "1:18.08",
@@ -6562,6 +7218,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.12",
     Tartarus: "1:40.24",
     Asphodel: "1:13.95",
@@ -6572,6 +7229,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.13",
     Tartarus: "1:38.75",
     Asphodel: "1:09.05",
@@ -6582,6 +7240,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.14",
     Tartarus: "1:44.30",
     Asphodel: "1:23.80",
@@ -6592,6 +7251,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.15",
     Tartarus: "1:30.77",
     Asphodel: "1:21.63",
@@ -6602,6 +7262,7 @@ export const rawData2 = [
   {
     Player: "Wriste13",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.16",
     Tartarus: "1:46.05",
     Asphodel: "1:36.16",
@@ -6612,6 +7273,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.16",
     Tartarus: "1:41.80",
     Asphodel: "1:15.91",
@@ -6622,6 +7284,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.20",
     Tartarus: "1:41.87",
     Asphodel: "1:10.48",
@@ -6632,6 +7295,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.21",
     Tartarus: "1:23.71",
     Asphodel: "1:34.09",
@@ -6642,6 +7306,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.21",
     Tartarus: "1:51.13",
     Asphodel: "1:17.17",
@@ -6652,6 +7317,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.22",
     Tartarus: "1:32.43",
     Asphodel: "1:14.10",
@@ -6662,6 +7328,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:39.23",
     Tartarus: "1:42.71",
     Asphodel: "0:53.68",
@@ -6672,6 +7339,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.23",
     Tartarus: "1:24.94",
     Asphodel: "1:15.35",
@@ -6682,6 +7350,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.26",
     Tartarus: "1:48.13",
     Asphodel: "1:20.08",
@@ -6692,6 +7361,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.27",
     Tartarus: "1:46.40",
     Asphodel: "1:02.91",
@@ -6702,6 +7372,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.28",
     Tartarus: "1:42.64",
     Asphodel: "1:25.29",
@@ -6712,6 +7383,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.30",
     Tartarus: "1:48.16",
     Asphodel: "1:12.43",
@@ -6722,6 +7394,7 @@ export const rawData2 = [
   {
     Player: "Latt_Millard",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:39.31",
     Tartarus: "1:55.43",
     Asphodel: "1:07.58",
@@ -6732,6 +7405,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:39.32",
     Tartarus: "1:32.65",
     Asphodel: "1:21.76",
@@ -6742,6 +7416,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.32",
     Tartarus: "1:42.31",
     Asphodel: "1:18.88",
@@ -6752,6 +7427,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.35",
     Tartarus: "1:43.92",
     Asphodel: "1:27.57",
@@ -6762,6 +7438,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.36",
     Tartarus: "1:44.67",
     Asphodel: "1:18.80",
@@ -6772,6 +7449,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.38",
     Tartarus: "1:37.41",
     Asphodel: "1:14.59",
@@ -6782,6 +7460,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.40",
     Tartarus: "1:45.34",
     Asphodel: "1:31.55",
@@ -6792,6 +7471,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.40",
     Tartarus: "1:50.61",
     Asphodel: "1:18.81",
@@ -6802,6 +7482,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.41",
     Tartarus: "1:34.99",
     Asphodel: "1:11.21",
@@ -6812,6 +7493,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.42",
     Tartarus: "1:28.15",
     Asphodel: "1:34.30",
@@ -6822,6 +7504,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.42",
     Tartarus: "1:53.69",
     Asphodel: "1:16.31",
@@ -6832,6 +7515,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.44",
     Tartarus: "1:33.85",
     Asphodel: "1:14.92",
@@ -6842,6 +7526,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.48",
     Tartarus: "1:40.11",
     Asphodel: "1:24.88",
@@ -6852,6 +7537,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.53",
     Tartarus: "1:24.74",
     Asphodel: "1:23.23",
@@ -6862,6 +7548,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.55",
     Tartarus: "1:43.11",
     Asphodel: "1:23.09",
@@ -6872,6 +7559,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:39.57",
     Tartarus: "1:39.61",
     Asphodel: "1:06.80",
@@ -6882,6 +7570,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.57",
     Tartarus: "1:38.92",
     Asphodel: "0:58.35",
@@ -6892,6 +7581,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.60",
     Tartarus: "1:47.62",
     Asphodel: "1:14.34",
@@ -6902,6 +7592,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.65",
     Tartarus: "1:36.81",
     Asphodel: "1:29.51",
@@ -6912,6 +7603,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.67",
     Tartarus: "1:34.51",
     Asphodel: "1:27.99",
@@ -6922,6 +7614,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.68",
     Tartarus: "2:02.13",
     Asphodel: "1:16.48",
@@ -6932,6 +7625,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.69",
     Tartarus: "1:31.88",
     Asphodel: "1:14.09",
@@ -6942,6 +7636,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.73",
     Tartarus: "1:36.80",
     Asphodel: "1:22.56",
@@ -6952,6 +7647,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.73",
     Tartarus: "1:32.65",
     Asphodel: "1:21.47",
@@ -6962,6 +7658,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.76",
     Tartarus: "1:34.54",
     Asphodel: "1:15.79",
@@ -6972,6 +7669,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.81",
     Tartarus: "1:39.89",
     Asphodel: "1:14.89",
@@ -6982,6 +7680,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.81",
     Tartarus: "1:50.71",
     Asphodel: "1:26.51",
@@ -6992,6 +7691,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.81",
     Tartarus: "1:43.13",
     Asphodel: "1:00.11",
@@ -7002,6 +7702,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.85",
     Tartarus: "1:58.13",
     Asphodel: "1:34.53",
@@ -7012,6 +7713,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.87",
     Tartarus: "1:38.55",
     Asphodel: "1:12.13",
@@ -7022,6 +7724,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.89",
     Tartarus: "1:36.23",
     Asphodel: "1:15.63",
@@ -7032,6 +7735,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:39.95",
     Tartarus: "1:25.64",
     Asphodel: "1:06.14",
@@ -7042,6 +7746,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:39.96",
     Tartarus: "1:40.24",
     Asphodel: "1:18.56",
@@ -7052,6 +7757,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.97",
     Tartarus: "1:53.26",
     Asphodel: "1:04.96",
@@ -7062,6 +7768,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.98",
     Tartarus: "1:33.15",
     Asphodel: "1:09.40",
@@ -7072,6 +7779,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:39.99",
     Tartarus: "1:42.50",
     Asphodel: "1:14.00",
@@ -7082,6 +7790,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.06",
     Tartarus: "1:45.59",
     Asphodel: "1:16.77",
@@ -7092,6 +7801,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.07",
     Tartarus: "1:40.18",
     Asphodel: "1:21.51",
@@ -7102,6 +7812,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.11",
     Tartarus: "1:41.94",
     Asphodel: "1:29.27",
@@ -7112,6 +7823,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.13",
     Tartarus: "1:33.70",
     Asphodel: "1:29.60",
@@ -7122,6 +7834,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.13",
     Tartarus: "1:42.56",
     Asphodel: "1:20.87",
@@ -7132,6 +7845,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.23",
     Tartarus: "1:36.67",
     Asphodel: "1:29.78",
@@ -7142,6 +7856,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:40.25",
     Tartarus: "1:30.55",
     Asphodel: "1:22.46",
@@ -7152,6 +7867,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.28",
     Tartarus: "1:54.03",
     Asphodel: "1:09.57",
@@ -7162,6 +7878,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:40.28",
     Tartarus: "1:32.33",
     Asphodel: "1:13.50",
@@ -7172,6 +7889,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.28",
     Tartarus: "1:33.26",
     Asphodel: "1:11.28",
@@ -7182,6 +7900,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.30",
     Tartarus: "1:53.33",
     Asphodel: "1:12.60",
@@ -7192,6 +7911,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.31",
     Tartarus: "1:49.05",
     Asphodel: "1:12.82",
@@ -7202,6 +7922,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.31",
     Tartarus: "1:48.20",
     Asphodel: "1:01.88",
@@ -7212,6 +7933,7 @@ export const rawData2 = [
   {
     Player: "SleepSoul",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.31",
     Tartarus: "1:37.66",
     Asphodel: "1:29.05",
@@ -7222,6 +7944,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.39",
     Tartarus: "1:36.03",
     Asphodel: "1:20.99",
@@ -7232,6 +7955,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.40",
     Tartarus: "1:57.12",
     Asphodel: "1:06.49",
@@ -7242,6 +7966,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:40.41",
     Tartarus: "1:25.96",
     Asphodel: "1:09.50",
@@ -7252,6 +7977,7 @@ export const rawData2 = [
   {
     Player: "Timothy_Lincecum",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.44",
     Tartarus: "1:44.89",
     Asphodel: "1:07.19",
@@ -7262,6 +7988,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:40.47",
     Tartarus: "1:38.30",
     Asphodel: "1:07.31",
@@ -7272,6 +7999,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.47",
     Tartarus: "1:39.77",
     Asphodel: "1:16.02",
@@ -7282,6 +8010,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.50",
     Tartarus: "1:31.27",
     Asphodel: "1:25.28",
@@ -7292,6 +8021,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:40.51",
     Tartarus: "1:24.24",
     Asphodel: "1:34.80",
@@ -7302,6 +8032,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.53",
     Tartarus: "1:49.75",
     Asphodel: "1:15.51",
@@ -7312,6 +8043,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.54",
     Tartarus: "1:39.83",
     Asphodel: "1:01.43",
@@ -7322,6 +8054,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.54",
     Tartarus: "1:09.17",
     Asphodel: "1:14.61",
@@ -7332,6 +8065,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:40.56",
     Tartarus: "1:38.65",
     Asphodel: "1:02.92",
@@ -7342,6 +8076,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.56",
     Tartarus: "1:41.09",
     Asphodel: "1:18.69",
@@ -7352,6 +8087,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.56",
     Tartarus: "1:34.44",
     Asphodel: "1:13.46",
@@ -7362,6 +8098,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.58",
     Tartarus: "1:36.63",
     Asphodel: "1:17.68",
@@ -7372,6 +8109,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.59",
     Tartarus: "1:42.81",
     Asphodel: "1:20.02",
@@ -7382,6 +8120,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.61",
     Tartarus: "1:48.06",
     Asphodel: "0:53.40",
@@ -7392,6 +8131,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.62",
     Tartarus: "1:42.03",
     Asphodel: "1:10.91",
@@ -7402,6 +8142,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:40.68",
     Tartarus: "1:52.77",
     Asphodel: "1:15.16",
@@ -7412,6 +8153,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.70",
     Tartarus: "1:38.88",
     Asphodel: "1:17.89",
@@ -7422,6 +8164,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.72",
     Tartarus: "1:29.99",
     Asphodel: "1:00.13",
@@ -7432,6 +8175,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.74",
     Tartarus: "1:42.97",
     Asphodel: "1:26.41",
@@ -7442,6 +8186,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.79",
     Tartarus: "1:38.43",
     Asphodel: "1:17.20",
@@ -7452,6 +8197,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.80",
     Tartarus: "1:41.13",
     Asphodel: "1:13.54",
@@ -7462,6 +8208,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.80",
     Tartarus: "1:53.47",
     Asphodel: "1:18.40",
@@ -7472,6 +8219,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.80",
     Tartarus: "1:24.16",
     Asphodel: "1:47.37",
@@ -7482,6 +8230,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.81",
     Tartarus: "1:23.91",
     Asphodel: "1:20.54",
@@ -7492,6 +8241,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.83",
     Tartarus: "1:39.84",
     Asphodel: "1:17.39",
@@ -7502,6 +8252,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.84",
     Tartarus: "1:42.41",
     Asphodel: "1:11.18",
@@ -7512,6 +8263,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:40.85",
     Tartarus: "1:48.01",
     Asphodel: "1:28.74",
@@ -7521,7 +8273,8 @@ export const rawData2 = [
   },
   {
     Player: "c_gull",
-    Aspect: "Zag Rail",
+    Aspect: "Zagreus-Rail",
+    Ring: "yellow",
     Clear: "5:40.86",
     Tartarus: "1:36.49",
     Asphodel: "1:24.14",
@@ -7532,6 +8285,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.86",
     Tartarus: "1:32.01",
     Asphodel: "1:04.86",
@@ -7542,6 +8296,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.88",
     Tartarus: "1:31.04",
     Asphodel: "1:14.31",
@@ -7552,6 +8307,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.90",
     Tartarus: "1:31.90",
     Asphodel: "1:37.63",
@@ -7562,6 +8318,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.91",
     Tartarus: "1:50.29",
     Asphodel: "1:29.79",
@@ -7572,6 +8329,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.93",
     Tartarus: "1:35.56",
     Asphodel: "1:30.77",
@@ -7582,6 +8340,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.96",
     Tartarus: "1:34.74",
     Asphodel: "1:18.14",
@@ -7592,6 +8351,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.97",
     Tartarus: "1:33.03",
     Asphodel: "1:31.82",
@@ -7602,6 +8362,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.99",
     Tartarus: "1:49.71",
     Asphodel: "1:11.63",
@@ -7612,6 +8373,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:40.99",
     Tartarus: "1:27.64",
     Asphodel: "1:14.51",
@@ -7622,6 +8384,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.00",
     Tartarus: "2:00.98",
     Asphodel: "1:05.56",
@@ -7632,6 +8395,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.01",
     Tartarus: "1:29.76",
     Asphodel: "1:16.38",
@@ -7642,6 +8406,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.01",
     Tartarus: "1:34.11",
     Asphodel: "1:04.14",
@@ -7652,6 +8417,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:41.02",
     Tartarus: "1:32.83",
     Asphodel: "1:22.67",
@@ -7662,6 +8428,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:41.06",
     Tartarus: "1:24.81",
     Asphodel: "1:16.89",
@@ -7672,6 +8439,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.06",
     Tartarus: "2:06.83",
     Asphodel: "1:03.77",
@@ -7682,6 +8450,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.06",
     Tartarus: "1:33.22",
     Asphodel: "1:25.89",
@@ -7692,6 +8461,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.08",
     Tartarus: "1:37.94",
     Asphodel: "1:16.14",
@@ -7702,6 +8472,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.10",
     Tartarus: "1:37.58",
     Asphodel: "1:27.04",
@@ -7712,6 +8483,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.10",
     Tartarus: "1:37.70",
     Asphodel: "1:20.06",
@@ -7722,6 +8494,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.11",
     Tartarus: "1:47.50",
     Asphodel: "1:07.50",
@@ -7732,6 +8505,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.11",
     Tartarus: "1:53.75",
     Asphodel: "1:18.74",
@@ -7742,6 +8516,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:41.12",
     Tartarus: "1:37.93",
     Asphodel: "1:06.33",
@@ -7752,6 +8527,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.13",
     Tartarus: "1:36.72",
     Asphodel: "1:12.59",
@@ -7762,6 +8538,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.14",
     Tartarus: "1:36.18",
     Asphodel: "1:16.78",
@@ -7772,6 +8549,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.14",
     Tartarus: "1:54.13",
     Asphodel: "1:12.37",
@@ -7782,6 +8560,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.17",
     Tartarus: "1:39.92",
     Asphodel: "1:25.14",
@@ -7792,6 +8571,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:41.22",
     Tartarus: "1:24.11",
     Asphodel: "1:20.56",
@@ -7802,6 +8582,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.26",
     Tartarus: "1:52.12",
     Asphodel: "1:00.84",
@@ -7812,6 +8593,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.27",
     Tartarus: "1:45.71",
     Asphodel: "1:25.38",
@@ -7822,6 +8604,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.27",
     Tartarus: "1:42.13",
     Asphodel: "1:06.64",
@@ -7832,6 +8615,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.32",
     Tartarus: "1:46.78",
     Asphodel: "1:14.54",
@@ -7842,6 +8626,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.33",
     Tartarus: "1:31.25",
     Asphodel: "1:26.48",
@@ -7852,6 +8637,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:41.34",
     Tartarus: "1:39.34",
     Asphodel: "1:19.47",
@@ -7862,6 +8648,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.34",
     Tartarus: "1:36.74",
     Asphodel: "1:08.60",
@@ -7872,6 +8659,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.36",
     Tartarus: "1:46.70",
     Asphodel: "1:14.23",
@@ -7882,6 +8670,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.37",
     Tartarus: "1:36.50",
     Asphodel: "1:11.62",
@@ -7892,6 +8681,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.38",
     Tartarus: "1:20.94",
     Asphodel: "1:13.86",
@@ -7902,6 +8692,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.40",
     Tartarus: "1:37.73",
     Asphodel: "1:18.33",
@@ -7912,6 +8703,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.43",
     Tartarus: "1:40.07",
     Asphodel: "1:09.25",
@@ -7922,6 +8714,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.47",
     Tartarus: "1:26.64",
     Asphodel: "1:09.00",
@@ -7932,6 +8725,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.55",
     Tartarus: "1:34.13",
     Asphodel: "1:32.34",
@@ -7942,6 +8736,7 @@ export const rawData2 = [
   {
     Player: "DQ11Fan",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.55",
     Tartarus: "1:38.12",
     Asphodel: "1:23.26",
@@ -7952,6 +8747,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:41.60",
     Tartarus: "1:39.39",
     Asphodel: "1:25.34",
@@ -7962,6 +8758,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:41.63",
     Tartarus: "1:45.32",
     Asphodel: "1:21.95",
@@ -7972,6 +8769,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.63",
     Tartarus: "1:34.93",
     Asphodel: "1:03.01",
@@ -7982,6 +8780,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.64",
     Tartarus: "1:46.09",
     Asphodel: "1:23.81",
@@ -7992,6 +8791,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.66",
     Tartarus: "1:46.96",
     Asphodel: "1:17.37",
@@ -8002,6 +8802,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.71",
     Tartarus: "1:41.89",
     Asphodel: "1:07.68",
@@ -8012,6 +8813,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:41.74",
     Tartarus: "1:48.83",
     Asphodel: "1:14.98",
@@ -8022,6 +8824,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:41.76",
     Tartarus: "1:41.62",
     Asphodel: "1:20.26",
@@ -8032,6 +8835,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.78",
     Tartarus: "1:42.08",
     Asphodel: "1:15.67",
@@ -8042,6 +8846,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.79",
     Tartarus: "1:28.05",
     Asphodel: "1:21.09",
@@ -8052,6 +8857,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:41.82",
     Tartarus: "1:45.11",
     Asphodel: "1:25.72",
@@ -8062,6 +8868,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.82",
     Tartarus: "1:23.66",
     Asphodel: "1:10.00",
@@ -8072,6 +8879,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.83",
     Tartarus: "1:46.03",
     Asphodel: "1:21.99",
@@ -8082,6 +8890,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.85",
     Tartarus: "1:42.20",
     Asphodel: "1:35.74",
@@ -8092,6 +8901,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.85",
     Tartarus: "1:25.18",
     Asphodel: "1:21.36",
@@ -8102,6 +8912,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.85",
     Tartarus: "1:34.42",
     Asphodel: "1:24.89",
@@ -8112,6 +8923,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.86",
     Tartarus: "1:21.82",
     Asphodel: "1:15.38",
@@ -8122,6 +8934,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.86",
     Tartarus: "1:49.20",
     Asphodel: "1:18.46",
@@ -8132,6 +8945,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.87",
     Tartarus: "1:39.49",
     Asphodel: "1:18.36",
@@ -8142,6 +8956,7 @@ export const rawData2 = [
   {
     Player: "CherryDad",
     Aspect: "Gilgamesh",
+    Ring: "pink",
     Clear: "5:41.89",
     Tartarus: "1:40.12",
     Asphodel: "1:14.31",
@@ -8152,6 +8967,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.94",
     Tartarus: "1:46.72",
     Asphodel: "1:17.24",
@@ -8162,6 +8978,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.94",
     Tartarus: "1:55.95",
     Asphodel: "1:10.21",
@@ -8172,6 +8989,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:41.96",
     Tartarus: "1:31.18",
     Asphodel: "1:37.70",
@@ -8182,6 +9000,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:41.98",
     Tartarus: "1:38.75",
     Asphodel: "0:59.93",
@@ -8192,6 +9011,7 @@ export const rawData2 = [
   {
     Player: "Saragas",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:42.02",
     Tartarus: "1:39.06",
     Asphodel: "1:18.15",
@@ -8202,6 +9022,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.02",
     Tartarus: "1:39.08",
     Asphodel: "1:19.25",
@@ -8212,6 +9033,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.03",
     Tartarus: "1:41.11",
     Asphodel: "1:09.00",
@@ -8222,6 +9044,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:42.08",
     Tartarus: "1:31.25",
     Asphodel: "1:12.31",
@@ -8232,6 +9055,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.13",
     Tartarus: "2:03.86",
     Asphodel: "1:19.10",
@@ -8242,6 +9066,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:42.13",
     Tartarus: "1:37.50",
     Asphodel: "1:07.88",
@@ -8252,6 +9077,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.15",
     Tartarus: "1:26.54",
     Asphodel: "1:26.07",
@@ -8262,6 +9088,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.16",
     Tartarus: "1:54.97",
     Asphodel: "1:11.91",
@@ -8272,6 +9099,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.17",
     Tartarus: "1:39.23",
     Asphodel: "1:22.92",
@@ -8282,6 +9110,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.17",
     Tartarus: "1:39.83",
     Asphodel: "1:08.92",
@@ -8292,6 +9121,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.19",
     Tartarus: "1:42.72",
     Asphodel: "1:10.09",
@@ -8302,6 +9132,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.19",
     Tartarus: "1:58.33",
     Asphodel: "1:19.69",
@@ -8312,6 +9143,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:42.27",
     Tartarus: "1:30.54",
     Asphodel: "1:08.37",
@@ -8322,6 +9154,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.29",
     Tartarus: "1:43.47",
     Asphodel: "1:21.25",
@@ -8332,6 +9165,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:42.29",
     Tartarus: "1:44.70",
     Asphodel: "1:07.46",
@@ -8342,6 +9176,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:42.31",
     Tartarus: "1:41.03",
     Asphodel: "1:11.12",
@@ -8352,6 +9187,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.31",
     Tartarus: "1:33.85",
     Asphodel: "1:22.62",
@@ -8362,6 +9198,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.35",
     Tartarus: "1:29.85",
     Asphodel: "1:25.38",
@@ -8372,6 +9209,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:42.36",
     Tartarus: "1:36.46",
     Asphodel: "1:13.61",
@@ -8382,6 +9220,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:42.39",
     Tartarus: "1:35.67",
     Asphodel: "1:29.52",
@@ -8392,6 +9231,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.41",
     Tartarus: "1:52.27",
     Asphodel: "1:09.34",
@@ -8402,6 +9242,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.42",
     Tartarus: "1:52.95",
     Asphodel: "1:11.62",
@@ -8412,6 +9253,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.43",
     Tartarus: "1:32.91",
     Asphodel: "1:28.68",
@@ -8422,6 +9264,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:42.44",
     Tartarus: "1:34.88",
     Asphodel: "1:17.24",
@@ -8432,6 +9275,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:42.47",
     Tartarus: "1:27.56",
     Asphodel: "1:04.90",
@@ -8442,6 +9286,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:42.47",
     Tartarus: "1:49.32",
     Asphodel: "1:07.18",
@@ -8452,6 +9297,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.51",
     Tartarus: "1:26.38",
     Asphodel: "1:24.14",
@@ -8462,6 +9308,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.53",
     Tartarus: "1:32.62",
     Asphodel: "1:27.87",
@@ -8472,6 +9319,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.54",
     Tartarus: "1:45.59",
     Asphodel: "1:06.98",
@@ -8482,6 +9330,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.56",
     Tartarus: "1:56.11",
     Asphodel: "1:01.88",
@@ -8492,6 +9341,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.56",
     Tartarus: "1:36.97",
     Asphodel: "1:19.22",
@@ -8502,6 +9352,7 @@ export const rawData2 = [
   {
     Player: "Nuhai",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:42.61",
     Tartarus: "1:42.11",
     Asphodel: "1:24.31",
@@ -8512,6 +9363,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.61",
     Tartarus: "1:45.99",
     Asphodel: "1:16.33",
@@ -8522,6 +9374,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.62",
     Tartarus: "1:41.06",
     Asphodel: "1:00.47",
@@ -8532,6 +9385,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.63",
     Tartarus: "1:38.09",
     Asphodel: "1:19.13",
@@ -8542,6 +9396,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.65",
     Tartarus: "1:36.31",
     Asphodel: "1:14.03",
@@ -8552,6 +9407,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:42.66",
     Tartarus: "1:19.24",
     Asphodel: "1:15.62",
@@ -8562,6 +9418,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.66",
     Tartarus: "1:51.29",
     Asphodel: "1:10.22",
@@ -8572,6 +9429,7 @@ export const rawData2 = [
   {
     Player: "Baj",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.69",
     Tartarus: "1:24.54",
     Asphodel: "1:43.21",
@@ -8582,6 +9440,7 @@ export const rawData2 = [
   {
     Player: "_sev",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:42.69",
     Tartarus: "1:40.30",
     Asphodel: "1:04.51",
@@ -8592,6 +9451,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:42.71",
     Tartarus: "1:40.21",
     Asphodel: "1:12.09",
@@ -8602,6 +9462,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:42.71",
     Tartarus: "1:30.81",
     Asphodel: "1:26.37",
@@ -8612,6 +9473,7 @@ export const rawData2 = [
   {
     Player: "TheChosenFives",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.73",
     Tartarus: "1:34.27",
     Asphodel: "1:20.03",
@@ -8622,6 +9484,7 @@ export const rawData2 = [
   {
     Player: "oldmcjonald",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.74",
     Tartarus: "1:27.85",
     Asphodel: "1:17.73",
@@ -8632,6 +9495,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:42.76",
     Tartarus: "1:40.19",
     Asphodel: "1:28.13",
@@ -8642,6 +9506,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.76",
     Tartarus: "1:44.62",
     Asphodel: "1:26.24",
@@ -8652,6 +9517,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.77",
     Tartarus: "1:54.32",
     Asphodel: "1:19.02",
@@ -8662,6 +9528,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.79",
     Tartarus: "1:52.90",
     Asphodel: "1:28.99",
@@ -8672,6 +9539,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.83",
     Tartarus: "1:36.53",
     Asphodel: "1:20.11",
@@ -8682,6 +9550,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.84",
     Tartarus: "1:42.23",
     Asphodel: "1:06.71",
@@ -8692,6 +9561,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.85",
     Tartarus: "1:28.10",
     Asphodel: "1:12.06",
@@ -8702,6 +9572,7 @@ export const rawData2 = [
   {
     Player: "Nuhai",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:42.90",
     Tartarus: "1:37.13",
     Asphodel: "1:12.18",
@@ -8712,6 +9583,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.92",
     Tartarus: "1:42.13",
     Asphodel: "1:19.71",
@@ -8722,6 +9594,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.92",
     Tartarus: "1:36.78",
     Asphodel: "1:12.72",
@@ -8732,6 +9605,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.95",
     Tartarus: "1:29.48",
     Asphodel: "1:27.92",
@@ -8742,6 +9616,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:42.95",
     Tartarus: "1:43.20",
     Asphodel: "1:31.06",
@@ -8752,6 +9627,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:42.96",
     Tartarus: "1:27.10",
     Asphodel: "1:26.62",
@@ -8762,6 +9638,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.00",
     Tartarus: "1:41.22",
     Asphodel: "1:18.80",
@@ -8772,6 +9649,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.01",
     Tartarus: "1:33.72",
     Asphodel: "1:33.66",
@@ -8782,6 +9660,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:43.06",
     Tartarus: "1:28.98",
     Asphodel: "1:23.62",
@@ -8792,6 +9671,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.07",
     Tartarus: "1:34.11",
     Asphodel: "1:38.63",
@@ -8802,6 +9682,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.08",
     Tartarus: "1:25.73",
     Asphodel: "1:17.95",
@@ -8812,6 +9693,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.08",
     Tartarus: "1:47.35",
     Asphodel: "1:25.42",
@@ -8822,6 +9704,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.08",
     Tartarus: "1:47.14",
     Asphodel: "1:20.10",
@@ -8832,6 +9715,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.11",
     Tartarus: "1:44.78",
     Asphodel: "1:17.66",
@@ -8842,6 +9726,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.12",
     Tartarus: "1:51.67",
     Asphodel: "1:08.22",
@@ -8852,6 +9737,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.16",
     Tartarus: "1:43.66",
     Asphodel: "1:13.41",
@@ -8862,6 +9748,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.17",
     Tartarus: "1:30.70",
     Asphodel: "1:19.76",
@@ -8872,6 +9759,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.21",
     Tartarus: "1:46.84",
     Asphodel: "1:24.68",
@@ -8882,6 +9770,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.30",
     Tartarus: "1:34.58",
     Asphodel: "1:06.45",
@@ -8892,6 +9781,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.30",
     Tartarus: "1:45.29",
     Asphodel: "1:25.11",
@@ -8902,6 +9792,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.34",
     Tartarus: "1:36.59",
     Asphodel: "1:14.80",
@@ -8912,6 +9803,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.34",
     Tartarus: "1:30.58",
     Asphodel: "1:09.62",
@@ -8922,6 +9814,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.35",
     Tartarus: "1:24.92",
     Asphodel: "1:26.74",
@@ -8932,6 +9825,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:43.36",
     Tartarus: "1:51.37",
     Asphodel: "1:07.64",
@@ -8942,6 +9836,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.38",
     Tartarus: "1:53.10",
     Asphodel: "1:09.86",
@@ -8952,6 +9847,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:43.40",
     Tartarus: "1:49.82",
     Asphodel: "1:12.05",
@@ -8962,6 +9858,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:43.43",
     Tartarus: "1:28.20",
     Asphodel: "1:18.10",
@@ -8972,6 +9869,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Rama",
+    Ring: "blue",
     Clear: "5:43.45",
     Tartarus: "1:25.76",
     Asphodel: "1:29.89",
@@ -8982,6 +9880,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.46",
     Tartarus: "1:25.61",
     Asphodel: "1:12.02",
@@ -8992,6 +9891,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.46",
     Tartarus: "2:02.39",
     Asphodel: "1:08.97",
@@ -9002,6 +9902,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.47",
     Tartarus: "1:36.68",
     Asphodel: "1:19.62",
@@ -9012,6 +9913,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.48",
     Tartarus: "1:49.01",
     Asphodel: "1:12.04",
@@ -9022,6 +9924,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.48",
     Tartarus: "1:26.98",
     Asphodel: "1:30.28",
@@ -9032,6 +9935,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.51",
     Tartarus: "1:32.52",
     Asphodel: "1:32.50",
@@ -9042,6 +9946,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:43.51",
     Tartarus: "1:46.74",
     Asphodel: "1:15.90",
@@ -9052,6 +9957,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.53",
     Tartarus: "1:43.03",
     Asphodel: "1:08.20",
@@ -9062,6 +9968,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.54",
     Tartarus: "1:45.12",
     Asphodel: "1:16.95",
@@ -9072,6 +9979,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.55",
     Tartarus: "1:35.45",
     Asphodel: "1:19.37",
@@ -9082,6 +9990,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.55",
     Tartarus: "1:41.53",
     Asphodel: "1:29.10",
@@ -9092,6 +10001,7 @@ export const rawData2 = [
   {
     Player: "Saragas",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:43.56",
     Tartarus: "1:38.33",
     Asphodel: "1:23.46",
@@ -9102,6 +10012,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:43.59",
     Tartarus: "1:42.05",
     Asphodel: "1:10.49",
@@ -9112,6 +10023,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.62",
     Tartarus: "1:36.92",
     Asphodel: "1:17.89",
@@ -9122,6 +10034,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.63",
     Tartarus: "1:37.89",
     Asphodel: "1:14.13",
@@ -9132,6 +10045,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.63",
     Tartarus: "1:45.12",
     Asphodel: "1:22.17",
@@ -9142,6 +10056,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Lucifer",
+    Ring: "yellow",
     Clear: "5:43.64",
     Tartarus: "1:33.25",
     Asphodel: "1:12.70",
@@ -9152,6 +10067,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.67",
     Tartarus: "1:31.87",
     Asphodel: "0:54.33",
@@ -9162,6 +10078,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.68",
     Tartarus: "1:43.55",
     Asphodel: "1:16.33",
@@ -9172,6 +10089,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.75",
     Tartarus: "1:47.51",
     Asphodel: "1:14.03",
@@ -9182,6 +10100,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:43.77",
     Tartarus: "1:45.98",
     Asphodel: "1:17.45",
@@ -9192,6 +10111,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.77",
     Tartarus: "1:44.16",
     Asphodel: "1:27.93",
@@ -9202,6 +10122,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.77",
     Tartarus: "1:57.31",
     Asphodel: "1:12.17",
@@ -9212,6 +10133,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.79",
     Tartarus: "1:41.45",
     Asphodel: "1:22.24",
@@ -9222,6 +10144,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.86",
     Tartarus: "1:49.99",
     Asphodel: "1:18.95",
@@ -9232,6 +10155,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.87",
     Tartarus: "1:26.03",
     Asphodel: "1:26.90",
@@ -9242,6 +10166,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.87",
     Tartarus: "1:41.31",
     Asphodel: "1:20.19",
@@ -9252,6 +10177,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:43.88",
     Tartarus: "1:26.05",
     Asphodel: "1:21.55",
@@ -9262,6 +10188,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:43.89",
     Tartarus: "1:59.45",
     Asphodel: "1:26.94",
@@ -9272,6 +10199,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:43.90",
     Tartarus: "1:31.24",
     Asphodel: "1:11.49",
@@ -9282,6 +10210,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.90",
     Tartarus: "1:52.88",
     Asphodel: "1:19.96",
@@ -9292,6 +10221,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.92",
     Tartarus: "1:38.03",
     Asphodel: "1:21.94",
@@ -9302,6 +10232,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:43.92",
     Tartarus: "1:25.58",
     Asphodel: "1:17.82",
@@ -9312,6 +10243,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:43.93",
     Tartarus: "1:28.70",
     Asphodel: "1:13.43",
@@ -9322,6 +10254,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:43.97",
     Tartarus: "1:21.49",
     Asphodel: "1:30.75",
@@ -9332,6 +10265,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.98",
     Tartarus: "1:24.51",
     Asphodel: "1:26.25",
@@ -9342,6 +10276,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.98",
     Tartarus: "1:51.05",
     Asphodel: "1:29.51",
@@ -9352,6 +10287,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:43.98",
     Tartarus: "1:31.08",
     Asphodel: "1:26.80",
@@ -9362,6 +10298,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.00",
     Tartarus: "1:32.16",
     Asphodel: "1:31.96",
@@ -9372,6 +10309,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.02",
     Tartarus: "1:46.89",
     Asphodel: "1:10.54",
@@ -9382,6 +10320,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.02",
     Tartarus: "1:43.93",
     Asphodel: "1:14.44",
@@ -9392,6 +10331,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.04",
     Tartarus: "1:34.83",
     Asphodel: "1:23.08",
@@ -9402,6 +10342,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.05",
     Tartarus: "1:45.24",
     Asphodel: "1:11.10",
@@ -9412,6 +10353,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.08",
     Tartarus: "1:42.95",
     Asphodel: "1:17.46",
@@ -9422,6 +10364,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.08",
     Tartarus: "1:35.89",
     Asphodel: "1:23.94",
@@ -9432,6 +10375,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.13",
     Tartarus: "1:57.88",
     Asphodel: "1:29.32",
@@ -9442,6 +10386,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.13",
     Tartarus: "1:17.71",
     Asphodel: "1:39.88",
@@ -9452,6 +10397,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.15",
     Tartarus: "2:08.57",
     Asphodel: "1:05.35",
@@ -9462,6 +10408,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.15",
     Tartarus: "1:41.72",
     Asphodel: "1:16.17",
@@ -9472,6 +10419,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.17",
     Tartarus: "1:39.99",
     Asphodel: "1:16.21",
@@ -9482,6 +10430,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:44.17",
     Tartarus: "1:38.44",
     Asphodel: "1:14.89",
@@ -9492,6 +10441,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:44.19",
     Tartarus: "1:38.18",
     Asphodel: "1:23.90",
@@ -9502,6 +10452,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.19",
     Tartarus: "1:47.04",
     Asphodel: "1:06.60",
@@ -9512,6 +10463,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.19",
     Tartarus: "1:52.41",
     Asphodel: "1:06.06",
@@ -9522,6 +10474,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:44.19",
     Tartarus: "1:41.01",
     Asphodel: "1:11.66",
@@ -9532,6 +10485,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:44.20",
     Tartarus: "1:54.40",
     Asphodel: "1:03.38",
@@ -9542,6 +10496,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:44.20",
     Tartarus: "1:55.87",
     Asphodel: "1:13.87",
@@ -9552,6 +10507,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.21",
     Tartarus: "1:39.47",
     Asphodel: "1:18.65",
@@ -9562,6 +10518,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.23",
     Tartarus: "1:36.50",
     Asphodel: "1:23.45",
@@ -9572,6 +10529,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.23",
     Tartarus: "1:46.68",
     Asphodel: "1:14.04",
@@ -9582,6 +10540,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.25",
     Tartarus: "1:47.97",
     Asphodel: "1:13.86",
@@ -9592,6 +10551,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.25",
     Tartarus: "1:46.78",
     Asphodel: "1:11.75",
@@ -9602,6 +10562,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.28",
     Tartarus: "1:44.64",
     Asphodel: "1:22.00",
@@ -9612,6 +10573,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:44.29",
     Tartarus: "1:42.37",
     Asphodel: "1:29.84",
@@ -9622,6 +10584,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.30",
     Tartarus: "1:40.84",
     Asphodel: "1:15.03",
@@ -9632,6 +10595,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:44.31",
     Tartarus: "1:30.23",
     Asphodel: "1:17.10",
@@ -9642,6 +10606,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.31",
     Tartarus: "1:50.56",
     Asphodel: "1:15.88",
@@ -9652,6 +10617,7 @@ export const rawData2 = [
   {
     Player: "_sev",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:44.32",
     Tartarus: "1:34.25",
     Asphodel: "1:14.49",
@@ -9662,6 +10628,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.34",
     Tartarus: "1:41.51",
     Asphodel: "1:08.56",
@@ -9672,6 +10639,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.35",
     Tartarus: "1:56.26",
     Asphodel: "1:09.38",
@@ -9682,6 +10650,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.37",
     Tartarus: "1:50.46",
     Asphodel: "1:12.44",
@@ -9692,6 +10661,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:44.38",
     Tartarus: "1:32.28",
     Asphodel: "1:18.52",
@@ -9702,6 +10672,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.38",
     Tartarus: "1:49.44",
     Asphodel: "1:16.90",
@@ -9712,6 +10683,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.38",
     Tartarus: "1:29.38",
     Asphodel: "1:35.24",
@@ -9722,6 +10694,7 @@ export const rawData2 = [
   {
     Player: "Shiitak3",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.40",
     Tartarus: "1:25.21",
     Asphodel: "1:40.68",
@@ -9732,6 +10705,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.43",
     Tartarus: "1:35.55",
     Asphodel: "1:21.68",
@@ -9742,6 +10716,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.43",
     Tartarus: "1:46.89",
     Asphodel: "1:24.33",
@@ -9752,6 +10727,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.47",
     Tartarus: "1:34.67",
     Asphodel: "1:25.41",
@@ -9762,6 +10738,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.47",
     Tartarus: "1:27.74",
     Asphodel: "1:28.37",
@@ -9772,6 +10749,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.47",
     Tartarus: "1:36.58",
     Asphodel: "1:04.66",
@@ -9782,6 +10760,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.48",
     Tartarus: "1:39.78",
     Asphodel: "1:09.37",
@@ -9792,6 +10771,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.49",
     Tartarus: "1:32.48",
     Asphodel: "1:24.93",
@@ -9802,6 +10782,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.50",
     Tartarus: "1:24.19",
     Asphodel: "1:14.66",
@@ -9812,6 +10793,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.51",
     Tartarus: "1:37.19",
     Asphodel: "1:07.54",
@@ -9822,6 +10804,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.53",
     Tartarus: "1:54.32",
     Asphodel: "1:27.88",
@@ -9832,6 +10815,7 @@ export const rawData2 = [
   {
     Player: "arcalena",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:44.55",
     Tartarus: "1:51.13",
     Asphodel: "0:57.48",
@@ -9842,6 +10826,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.55",
     Tartarus: "1:35.90",
     Asphodel: "1:14.97",
@@ -9852,6 +10837,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.56",
     Tartarus: "1:35.11",
     Asphodel: "1:03.26",
@@ -9862,6 +10848,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.57",
     Tartarus: "1:33.39",
     Asphodel: "1:47.32",
@@ -9872,6 +10859,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.61",
     Tartarus: "1:36.74",
     Asphodel: "1:28.14",
@@ -9882,6 +10870,7 @@ export const rawData2 = [
   {
     Player: "hooly",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.62",
     Tartarus: "1:47.26",
     Asphodel: "1:16.59",
@@ -9892,6 +10881,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:44.62",
     Tartarus: "1:28.74",
     Asphodel: "1:08.44",
@@ -9902,6 +10892,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.68",
     Tartarus: "1:52.59",
     Asphodel: "1:17.37",
@@ -9912,6 +10903,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.69",
     Tartarus: "1:42.55",
     Asphodel: "0:54.21",
@@ -9922,6 +10914,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:44.71",
     Tartarus: "1:50.22",
     Asphodel: "1:14.00",
@@ -9932,6 +10925,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:44.72",
     Tartarus: "1:46.40",
     Asphodel: "1:22.64",
@@ -9942,6 +10936,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.73",
     Tartarus: "1:31.70",
     Asphodel: "1:05.56",
@@ -9952,6 +10947,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.73",
     Tartarus: "1:35.89",
     Asphodel: "1:11.39",
@@ -9962,6 +10958,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:44.76",
     Tartarus: "1:28.94",
     Asphodel: "1:20.73",
@@ -9972,6 +10969,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.77",
     Tartarus: "1:28.68",
     Asphodel: "1:33.78",
@@ -9982,6 +10980,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.77",
     Tartarus: "1:33.77",
     Asphodel: "1:05.93",
@@ -9992,6 +10991,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.78",
     Tartarus: "1:34.23",
     Asphodel: "1:28.72",
@@ -10002,6 +11002,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.79",
     Tartarus: "1:45.09",
     Asphodel: "1:12.38",
@@ -10012,6 +11013,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.79",
     Tartarus: "1:30.80",
     Asphodel: "1:25.51",
@@ -10022,6 +11024,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:44.84",
     Tartarus: "1:40.89",
     Asphodel: "1:12.14",
@@ -10032,6 +11035,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.84",
     Tartarus: "1:37.12",
     Asphodel: "1:23.21",
@@ -10042,6 +11046,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.87",
     Tartarus: "1:40.52",
     Asphodel: "1:20.73",
@@ -10052,6 +11057,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.87",
     Tartarus: "1:34.33",
     Asphodel: "1:31.08",
@@ -10062,6 +11068,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.89",
     Tartarus: "1:25.03",
     Asphodel: "1:17.37",
@@ -10072,6 +11079,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.89",
     Tartarus: "1:45.53",
     Asphodel: "1:11.75",
@@ -10082,6 +11090,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.91",
     Tartarus: "1:40.69",
     Asphodel: "1:07.60",
@@ -10092,6 +11101,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:44.92",
     Tartarus: "1:35.32",
     Asphodel: "1:10.29",
@@ -10102,6 +11112,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:44.92",
     Tartarus: "1:38.98",
     Asphodel: "1:23.70",
@@ -10112,6 +11123,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:44.94",
     Tartarus: "1:25.57",
     Asphodel: "1:25.12",
@@ -10122,6 +11134,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.00",
     Tartarus: "1:23.18",
     Asphodel: "1:18.33",
@@ -10132,6 +11145,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.00",
     Tartarus: "1:35.63",
     Asphodel: "1:12.07",
@@ -10142,6 +11156,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:45.04",
     Tartarus: "1:46.50",
     Asphodel: "1:22.24",
@@ -10152,6 +11167,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.06",
     Tartarus: "1:33.45",
     Asphodel: "1:09.99",
@@ -10162,6 +11178,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.11",
     Tartarus: "1:45.55",
     Asphodel: "1:18.48",
@@ -10172,6 +11189,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.13",
     Tartarus: "1:33.35",
     Asphodel: "1:25.98",
@@ -10182,6 +11200,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.14",
     Tartarus: "1:40.26",
     Asphodel: "1:19.37",
@@ -10192,6 +11211,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.16",
     Tartarus: "1:54.85",
     Asphodel: "1:17.34",
@@ -10202,6 +11222,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.20",
     Tartarus: "1:39.43",
     Asphodel: "1:17.59",
@@ -10212,6 +11233,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.22",
     Tartarus: "1:46.98",
     Asphodel: "1:08.25",
@@ -10222,6 +11244,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:45.24",
     Tartarus: "1:31.64",
     Asphodel: "1:23.85",
@@ -10232,6 +11255,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:45.25",
     Tartarus: "1:42.90",
     Asphodel: "1:35.12",
@@ -10242,6 +11266,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.25",
     Tartarus: "1:31.75",
     Asphodel: "1:08.45",
@@ -10252,6 +11277,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.26",
     Tartarus: "1:44.62",
     Asphodel: "1:22.29",
@@ -10262,6 +11288,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.30",
     Tartarus: "2:02.58",
     Asphodel: "1:17.40",
@@ -10272,6 +11299,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.31",
     Tartarus: "1:43.76",
     Asphodel: "1:22.95",
@@ -10282,6 +11310,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.36",
     Tartarus: "1:26.90",
     Asphodel: "1:16.84",
@@ -10292,6 +11321,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.36",
     Tartarus: "1:45.71",
     Asphodel: "1:13.20",
@@ -10302,6 +11332,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.37",
     Tartarus: "1:26.59",
     Asphodel: "1:22.45",
@@ -10322,6 +11353,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.45",
     Tartarus: "1:51.95",
     Asphodel: "1:02.67",
@@ -10332,6 +11364,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.49",
     Tartarus: "1:25.61",
     Asphodel: "1:30.42",
@@ -10342,6 +11375,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.50",
     Tartarus: "1:36.04",
     Asphodel: "1:19.73",
@@ -10352,6 +11386,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.50",
     Tartarus: "1:50.79",
     Asphodel: "1:17.14",
@@ -10362,6 +11397,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.50",
     Tartarus: "1:29.50",
     Asphodel: "1:06.00",
@@ -10372,6 +11408,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:45.50",
     Tartarus: "1:28.01",
     Asphodel: "1:17.83",
@@ -10382,6 +11419,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:45.51",
     Tartarus: "1:51.88",
     Asphodel: "1:12.26",
@@ -10392,6 +11430,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:45.52",
     Tartarus: "1:46.75",
     Asphodel: "1:20.70",
@@ -10402,6 +11441,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.54",
     Tartarus: "1:20.04",
     Asphodel: "1:15.93",
@@ -10412,6 +11452,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.55",
     Tartarus: "1:40.63",
     Asphodel: "1:22.66",
@@ -10422,6 +11463,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.58",
     Tartarus: "1:32.40",
     Asphodel: "1:13.12",
@@ -10432,6 +11474,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.61",
     Tartarus: "1:34.10",
     Asphodel: "1:34.99",
@@ -10442,6 +11485,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:45.63",
     Tartarus: "1:52.85",
     Asphodel: "1:17.88",
@@ -10452,6 +11496,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.65",
     Tartarus: "1:55.69",
     Asphodel: "1:07.75",
@@ -10462,6 +11507,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:45.68",
     Tartarus: "1:27.19",
     Asphodel: "1:05.31",
@@ -10472,6 +11518,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:45.68",
     Tartarus: "1:36.05",
     Asphodel: "1:14.92",
@@ -10482,6 +11529,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.69",
     Tartarus: "1:39.98",
     Asphodel: "1:16.73",
@@ -10492,6 +11540,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:45.71",
     Tartarus: "1:29.74",
     Asphodel: "1:03.80",
@@ -10502,6 +11551,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:45.76",
     Tartarus: "1:58.37",
     Asphodel: "1:13.04",
@@ -10512,6 +11562,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.76",
     Tartarus: "1:31.58",
     Asphodel: "1:12.11",
@@ -10522,6 +11573,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.79",
     Tartarus: "1:34.97",
     Asphodel: "1:14.04",
@@ -10532,6 +11584,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.80",
     Tartarus: "1:19.99",
     Asphodel: "1:28.00",
@@ -10542,6 +11595,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.80",
     Tartarus: "1:40.20",
     Asphodel: "1:19.82",
@@ -10552,6 +11606,7 @@ export const rawData2 = [
   {
     Player: "Duunk0",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.86",
     Tartarus: "1:35.59",
     Asphodel: "1:17.77",
@@ -10562,6 +11617,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.89",
     Tartarus: "1:21.83",
     Asphodel: "0:58.73",
@@ -10572,6 +11628,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.90",
     Tartarus: "1:50.95",
     Asphodel: "1:23.68",
@@ -10582,6 +11639,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.92",
     Tartarus: "1:44.01",
     Asphodel: "1:28.29",
@@ -10592,6 +11650,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:45.92",
     Tartarus: "1:41.08",
     Asphodel: "1:25.87",
@@ -10602,6 +11661,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:45.93",
     Tartarus: "1:35.48",
     Asphodel: "1:23.32",
@@ -10612,6 +11672,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:45.99",
     Tartarus: "1:48.55",
     Asphodel: "1:28.56",
@@ -10622,6 +11683,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.00",
     Tartarus: "1:44.58",
     Asphodel: "1:20.99",
@@ -10632,6 +11694,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.05",
     Tartarus: "1:40.61",
     Asphodel: "1:28.26",
@@ -10642,6 +11705,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.06",
     Tartarus: "1:36.08",
     Asphodel: "1:32.13",
@@ -10652,6 +11716,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.06",
     Tartarus: "1:55.85",
     Asphodel: "1:09.38",
@@ -10662,6 +11727,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.10",
     Tartarus: "1:36.73",
     Asphodel: "1:16.09",
@@ -10672,6 +11738,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.12",
     Tartarus: "1:29.80",
     Asphodel: "1:31.98",
@@ -10682,6 +11749,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.14",
     Tartarus: "1:48.12",
     Asphodel: "1:24.15",
@@ -10692,6 +11760,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.14",
     Tartarus: "1:28.79",
     Asphodel: "1:04.76",
@@ -10702,6 +11771,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.20",
     Tartarus: "1:46.54",
     Asphodel: "1:16.51",
@@ -10712,6 +11782,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.20",
     Tartarus: "1:50.64",
     Asphodel: "0:59.30",
@@ -10722,6 +11793,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.22",
     Tartarus: "1:40.61",
     Asphodel: "1:27.08",
@@ -10732,6 +11804,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.24",
     Tartarus: "1:37.92",
     Asphodel: "1:18.61",
@@ -10742,6 +11815,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.27",
     Tartarus: "1:36.95",
     Asphodel: "1:28.38",
@@ -10752,6 +11826,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.27",
     Tartarus: "1:43.63",
     Asphodel: "1:19.18",
@@ -10762,6 +11837,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.29",
     Tartarus: "1:21.33",
     Asphodel: "1:25.25",
@@ -10772,6 +11848,7 @@ export const rawData2 = [
   {
     Player: "_sev",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:46.30",
     Tartarus: "1:31.99",
     Asphodel: "1:12.78",
@@ -10782,6 +11859,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.30",
     Tartarus: "2:00.43",
     Asphodel: "1:37.40",
@@ -10792,6 +11870,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.30",
     Tartarus: "1:32.34",
     Asphodel: "1:22.63",
@@ -10802,6 +11881,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.32",
     Tartarus: "1:43.84",
     Asphodel: "1:12.97",
@@ -10812,6 +11892,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.32",
     Tartarus: "1:38.77",
     Asphodel: "1:10.06",
@@ -10822,6 +11903,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.36",
     Tartarus: "2:02.72",
     Asphodel: "1:12.02",
@@ -10832,6 +11914,7 @@ export const rawData2 = [
   {
     Player: "oldmcjonald",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:46.38",
     Tartarus: "1:27.21",
     Asphodel: "1:32.04",
@@ -10842,6 +11925,7 @@ export const rawData2 = [
   {
     Player: "violetblight",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:46.39",
     Tartarus: "1:40.13",
     Asphodel: "1:24.59",
@@ -10852,6 +11936,7 @@ export const rawData2 = [
   {
     Player: "KappaVT",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:46.40",
     Tartarus: "1:35.42",
     Asphodel: "1:11.90",
@@ -10862,6 +11947,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.40",
     Tartarus: "1:38.49",
     Asphodel: "1:01.84",
@@ -10872,6 +11958,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.41",
     Tartarus: "1:47.82",
     Asphodel: "1:01.56",
@@ -10882,6 +11969,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.44",
     Tartarus: "1:40.12",
     Asphodel: "1:09.67",
@@ -10892,6 +11980,7 @@ export const rawData2 = [
   {
     Player: "bright01",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.45",
     Tartarus: "1:33.21",
     Asphodel: "1:31.72",
@@ -10902,6 +11991,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.45",
     Tartarus: "1:52.64",
     Asphodel: "1:16.67",
@@ -10912,6 +12002,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:46.51",
     Tartarus: "1:29.85",
     Asphodel: "1:21.33",
@@ -10922,6 +12013,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.56",
     Tartarus: "1:27.21",
     Asphodel: "1:29.07",
@@ -10932,6 +12024,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:46.62",
     Tartarus: "1:42.49",
     Asphodel: "1:22.88",
@@ -10942,6 +12035,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.63",
     Tartarus: "1:37.87",
     Asphodel: "1:20.79",
@@ -10952,6 +12046,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.63",
     Tartarus: "1:41.03",
     Asphodel: "1:27.56",
@@ -10962,6 +12057,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.63",
     Tartarus: "1:43.73",
     Asphodel: "1:01.35",
@@ -10972,6 +12068,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.63",
     Tartarus: "1:49.73",
     Asphodel: "1:23.07",
@@ -10982,6 +12079,7 @@ export const rawData2 = [
   {
     Player: "Latt_Millard",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:46.67",
     Tartarus: "2:00.38",
     Asphodel: "1:22.76",
@@ -10992,6 +12090,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.67",
     Tartarus: "1:33.88",
     Asphodel: "1:18.68",
@@ -11002,6 +12101,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.67",
     Tartarus: "1:34.46",
     Asphodel: "1:16.45",
@@ -11012,6 +12112,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.68",
     Tartarus: "1:50.41",
     Asphodel: "1:20.79",
@@ -11022,6 +12123,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.68",
     Tartarus: "1:37.00",
     Asphodel: "1:19.01",
@@ -11032,6 +12134,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.72",
     Tartarus: "1:34.84",
     Asphodel: "1:03.60",
@@ -11042,6 +12145,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.75",
     Tartarus: "1:42.34",
     Asphodel: "1:19.78",
@@ -11052,6 +12156,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.76",
     Tartarus: "1:45.44",
     Asphodel: "1:08.84",
@@ -11062,6 +12167,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.76",
     Tartarus: "1:14.72",
     Asphodel: "1:31.77",
@@ -11072,6 +12178,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:46.78",
     Tartarus: "1:32.30",
     Asphodel: "1:27.22",
@@ -11082,6 +12189,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:46.80",
     Tartarus: "1:34.17",
     Asphodel: "1:12.71",
@@ -11092,6 +12200,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.80",
     Tartarus: "1:34.96",
     Asphodel: "1:05.26",
@@ -11102,6 +12211,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.80",
     Tartarus: "1:19.94",
     Asphodel: "1:21.40",
@@ -11112,6 +12222,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.81",
     Tartarus: "1:50.87",
     Asphodel: "1:09.78",
@@ -11122,6 +12233,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.81",
     Tartarus: "1:54.71",
     Asphodel: "1:09.78",
@@ -11132,6 +12244,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.83",
     Tartarus: "1:53.33",
     Asphodel: "1:21.13",
@@ -11142,6 +12255,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:46.84",
     Tartarus: "1:34.57",
     Asphodel: "1:08.09",
@@ -11152,6 +12266,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.84",
     Tartarus: "1:42.88",
     Asphodel: "1:11.48",
@@ -11162,6 +12277,7 @@ export const rawData2 = [
   {
     Player: "CherryDad",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.85",
     Tartarus: "1:50.87",
     Asphodel: "1:23.79",
@@ -11172,6 +12288,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.96",
     Tartarus: "1:24.85",
     Asphodel: "1:29.01",
@@ -11182,6 +12299,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:46.99",
     Tartarus: "1:46.72",
     Asphodel: "0:58.52",
@@ -11192,6 +12310,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.00",
     Tartarus: "1:34.13",
     Asphodel: "1:07.49",
@@ -11202,6 +12321,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.02",
     Tartarus: "1:59.80",
     Asphodel: "1:14.73",
@@ -11212,6 +12332,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.02",
     Tartarus: "1:25.06",
     Asphodel: "1:11.99",
@@ -11222,6 +12343,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:47.03",
     Tartarus: "1:42.27",
     Asphodel: "1:15.83",
@@ -11232,6 +12354,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.03",
     Tartarus: "1:46.43",
     Asphodel: "1:23.47",
@@ -11242,6 +12365,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:47.04",
     Tartarus: "1:47.00",
     Asphodel: "1:20.00",
@@ -11252,6 +12376,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.04",
     Tartarus: "1:39.57",
     Asphodel: "1:17.05",
@@ -11262,6 +12387,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.04",
     Tartarus: "1:30.55",
     Asphodel: "1:12.92",
@@ -11272,6 +12398,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.04",
     Tartarus: "1:43.58",
     Asphodel: "1:14.69",
@@ -11282,6 +12409,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.04",
     Tartarus: "1:32.64",
     Asphodel: "1:16.76",
@@ -11292,6 +12420,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:47.05",
     Tartarus: "1:33.44",
     Asphodel: "1:23.42",
@@ -11302,6 +12431,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.05",
     Tartarus: "1:30.52",
     Asphodel: "1:19.22",
@@ -11312,6 +12442,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.05",
     Tartarus: "1:45.47",
     Asphodel: "1:26.61",
@@ -11322,6 +12453,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.06",
     Tartarus: "1:41.77",
     Asphodel: "1:26.55",
@@ -11332,6 +12464,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.06",
     Tartarus: "1:28.04",
     Asphodel: "1:20.57",
@@ -11342,6 +12475,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.07",
     Tartarus: "1:33.90",
     Asphodel: "1:24.63",
@@ -11352,6 +12486,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.08",
     Tartarus: "1:32.37",
     Asphodel: "1:11.53",
@@ -11362,6 +12497,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.08",
     Tartarus: "1:54.29",
     Asphodel: "1:09.53",
@@ -11372,6 +12508,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.09",
     Tartarus: "1:38.01",
     Asphodel: "1:22.16",
@@ -11382,6 +12519,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.09",
     Tartarus: "1:40.01",
     Asphodel: "1:06.66",
@@ -11392,6 +12530,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.09",
     Tartarus: "1:39.55",
     Asphodel: "1:11.53",
@@ -11402,6 +12541,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.13",
     Tartarus: "1:41.15",
     Asphodel: "1:09.55",
@@ -11412,6 +12552,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.13",
     Tartarus: "1:23.81",
     Asphodel: "1:18.77",
@@ -11422,6 +12563,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.14",
     Tartarus: "1:41.36",
     Asphodel: "1:10.97",
@@ -11432,6 +12574,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:47.15",
     Tartarus: "1:53.18",
     Asphodel: "1:20.00",
@@ -11442,6 +12585,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.18",
     Tartarus: "1:51.73",
     Asphodel: "1:25.44",
@@ -11452,6 +12596,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.18",
     Tartarus: "1:34.64",
     Asphodel: "1:07.86",
@@ -11462,6 +12607,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.20",
     Tartarus: "1:38.18",
     Asphodel: "1:07.73",
@@ -11472,6 +12618,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.21",
     Tartarus: "1:53.44",
     Asphodel: "1:12.47",
@@ -11482,6 +12629,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.23",
     Tartarus: "1:44.45",
     Asphodel: "1:13.33",
@@ -11492,6 +12640,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.23",
     Tartarus: "1:51.70",
     Asphodel: "1:05.54",
@@ -11502,6 +12651,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.24",
     Tartarus: "1:54.39",
     Asphodel: "1:11.54",
@@ -11512,6 +12662,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.24",
     Tartarus: "2:04.28",
     Asphodel: "1:10.92",
@@ -11522,6 +12673,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:47.26",
     Tartarus: "1:41.54",
     Asphodel: "1:35.52",
@@ -11532,6 +12684,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:47.26",
     Tartarus: "1:28.80",
     Asphodel: "1:24.33",
@@ -11542,6 +12695,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.27",
     Tartarus: "1:43.93",
     Asphodel: "1:12.28",
@@ -11552,6 +12706,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.28",
     Tartarus: "1:49.42",
     Asphodel: "1:15.47",
@@ -11562,6 +12717,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.32",
     Tartarus: "1:41.08",
     Asphodel: "1:38.68",
@@ -11572,6 +12728,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.32",
     Tartarus: "1:28.18",
     Asphodel: "1:25.84",
@@ -11582,6 +12739,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.32",
     Tartarus: "1:46.67",
     Asphodel: "0:51.10",
@@ -11592,6 +12750,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.33",
     Tartarus: "1:35.61",
     Asphodel: "1:20.42",
@@ -11602,6 +12761,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.34",
     Tartarus: "1:42.01",
     Asphodel: "1:18.62",
@@ -11612,6 +12772,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.35",
     Tartarus: "1:31.35",
     Asphodel: "1:29.22",
@@ -11622,6 +12783,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.37",
     Tartarus: "1:52.83",
     Asphodel: "1:05.30",
@@ -11632,6 +12794,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:47.38",
     Tartarus: "1:47.33",
     Asphodel: "1:16.29",
@@ -11642,6 +12805,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.39",
     Tartarus: "1:31.83",
     Asphodel: "1:25.00",
@@ -11651,7 +12815,8 @@ export const rawData2 = [
   },
   {
     Player: "Zyruvias",
-    Aspect: "Zag Rail",
+    Aspect: "Zagreus-Rail",
+    Ring: "yellow",
     Clear: "5:47.39",
     Tartarus: "1:20.31",
     Asphodel: "1:32.54",
@@ -11662,6 +12827,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.40",
     Tartarus: "1:39.74",
     Asphodel: "1:26.17",
@@ -11672,6 +12838,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.42",
     Tartarus: "1:31.87",
     Asphodel: "1:26.18",
@@ -11682,6 +12849,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.43",
     Tartarus: "1:39.43",
     Asphodel: "1:17.69",
@@ -11692,6 +12860,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.43",
     Tartarus: "1:24.51",
     Asphodel: "1:03.68",
@@ -11702,6 +12871,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.44",
     Tartarus: "1:31.84",
     Asphodel: "1:33.18",
@@ -11712,6 +12882,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.45",
     Tartarus: "1:38.63",
     Asphodel: "1:24.90",
@@ -11722,6 +12893,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:47.46",
     Tartarus: "1:45.00",
     Asphodel: "1:22.83",
@@ -11732,6 +12904,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.46",
     Tartarus: "1:38.41",
     Asphodel: "0:57.44",
@@ -11742,6 +12915,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:47.47",
     Tartarus: "1:37.89",
     Asphodel: "1:06.12",
@@ -11752,6 +12926,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.49",
     Tartarus: "1:35.10",
     Asphodel: "1:27.78",
@@ -11762,6 +12937,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.51",
     Tartarus: "1:36.64",
     Asphodel: "1:03.24",
@@ -11772,6 +12948,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.52",
     Tartarus: "1:20.93",
     Asphodel: "1:00.83",
@@ -11782,6 +12959,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:47.52",
     Tartarus: "1:36.10",
     Asphodel: "1:16.36",
@@ -11792,6 +12970,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.52",
     Tartarus: "1:51.15",
     Asphodel: "1:11.87",
@@ -11802,6 +12981,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.54",
     Tartarus: "1:37.97",
     Asphodel: "1:13.48",
@@ -11812,6 +12992,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.55",
     Tartarus: "1:43.94",
     Asphodel: "1:33.41",
@@ -11822,6 +13003,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:47.58",
     Tartarus: "1:33.22",
     Asphodel: "1:06.39",
@@ -11832,6 +13014,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.58",
     Tartarus: "1:40.22",
     Asphodel: "1:33.37",
@@ -11842,6 +13025,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.59",
     Tartarus: "1:33.87",
     Asphodel: "1:39.93",
@@ -11852,6 +13036,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:47.60",
     Tartarus: "1:25.17",
     Asphodel: "1:19.49",
@@ -11862,6 +13047,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.60",
     Tartarus: "1:24.56",
     Asphodel: "1:21.98",
@@ -11872,6 +13058,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:47.60",
     Tartarus: "1:42.89",
     Asphodel: "1:04.12",
@@ -11882,6 +13069,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:47.62",
     Tartarus: "1:47.48",
     Asphodel: "1:00.45",
@@ -11892,6 +13080,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:47.63",
     Tartarus: "1:42.90",
     Asphodel: "1:25.74",
@@ -11902,6 +13091,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.63",
     Tartarus: "1:59.21",
     Asphodel: "1:16.44",
@@ -11912,6 +13102,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.66",
     Tartarus: "1:22.17",
     Asphodel: "1:19.50",
@@ -11922,6 +13113,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.67",
     Tartarus: "1:36.49",
     Asphodel: "1:25.67",
@@ -11932,6 +13124,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.68",
     Tartarus: "1:42.33",
     Asphodel: "1:12.69",
@@ -11942,6 +13135,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:47.72",
     Tartarus: "1:31.91",
     Asphodel: "1:15.89",
@@ -11952,6 +13146,7 @@ export const rawData2 = [
   {
     Player: "bright01",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.76",
     Tartarus: "2:00.58",
     Asphodel: "1:23.22",
@@ -11962,6 +13157,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.82",
     Tartarus: "1:40.89",
     Asphodel: "1:13.61",
@@ -11972,6 +13168,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:47.82",
     Tartarus: "1:45.31",
     Asphodel: "1:01.91",
@@ -11982,6 +13179,7 @@ export const rawData2 = [
   {
     Player: "MrKoiCarp",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.83",
     Tartarus: "1:48.97",
     Asphodel: "1:25.57",
@@ -11992,6 +13190,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.84",
     Tartarus: "1:38.98",
     Asphodel: "1:15.41",
@@ -12002,6 +13201,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.85",
     Tartarus: "1:41.49",
     Asphodel: "1:12.20",
@@ -12012,6 +13212,7 @@ export const rawData2 = [
   {
     Player: "Saragas",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:47.86",
     Tartarus: "1:33.92",
     Asphodel: "1:25.02",
@@ -12022,6 +13223,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.87",
     Tartarus: "1:48.13",
     Asphodel: "1:18.82",
@@ -12032,6 +13234,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:47.89",
     Tartarus: "1:45.06",
     Asphodel: "1:06.18",
@@ -12042,6 +13245,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.90",
     Tartarus: "1:28.08",
     Asphodel: "1:09.36",
@@ -12052,6 +13256,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:47.92",
     Tartarus: "1:39.38",
     Asphodel: "0:59.61",
@@ -12062,6 +13267,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.95",
     Tartarus: "2:03.25",
     Asphodel: "0:58.07",
@@ -12072,6 +13278,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:47.95",
     Tartarus: "1:33.44",
     Asphodel: "1:08.59",
@@ -12082,6 +13289,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:47.97",
     Tartarus: "1:43.44",
     Asphodel: "1:14.76",
@@ -12092,6 +13300,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.00",
     Tartarus: "1:27.11",
     Asphodel: "1:28.91",
@@ -12102,6 +13311,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.00",
     Tartarus: "1:25.72",
     Asphodel: "1:32.38",
@@ -12111,7 +13321,8 @@ export const rawData2 = [
   },
   {
     Player: "bablo",
-    Aspect: "Guan Yu",
+    Aspect: "GuanYu",
+    Ring: "red",
     Clear: "5:48.01",
     Tartarus: "1:54.21",
     Asphodel: "1:13.96",
@@ -12122,6 +13333,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.01",
     Tartarus: "1:52.23",
     Asphodel: "1:13.41",
@@ -12131,7 +13343,8 @@ export const rawData2 = [
   },
   {
     Player: "Zyruvias",
-    Aspect: "Zag Shield",
+    Aspect: "Zagreus-Shield",
+    Ring: "orange",
     Clear: "5:48.05",
     Tartarus: "1:44.15",
     Asphodel: "1:06.31",
@@ -12142,6 +13355,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:48.06",
     Tartarus: "1:35.04",
     Asphodel: "1:00.10",
@@ -12152,6 +13366,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.07",
     Tartarus: "1:29.12",
     Asphodel: "1:21.79",
@@ -12162,6 +13377,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.10",
     Tartarus: "1:15.34",
     Asphodel: "1:32.06",
@@ -12172,6 +13388,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:48.11",
     Tartarus: "1:49.98",
     Asphodel: "1:37.47",
@@ -12182,6 +13399,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.11",
     Tartarus: "1:19.79",
     Asphodel: "1:32.31",
@@ -12192,6 +13410,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.12",
     Tartarus: "1:30.91",
     Asphodel: "1:26.14",
@@ -12202,6 +13421,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.15",
     Tartarus: "1:48.10",
     Asphodel: "1:26.17",
@@ -12212,6 +13432,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.15",
     Tartarus: "1:09.42",
     Asphodel: "1:34.72",
@@ -12222,6 +13443,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:48.16",
     Tartarus: "1:32.72",
     Asphodel: "1:35.28",
@@ -12232,6 +13454,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:48.16",
     Tartarus: "1:43.30",
     Asphodel: "1:05.67",
@@ -12242,6 +13465,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.18",
     Tartarus: "1:22.24",
     Asphodel: "1:18.66",
@@ -12252,6 +13476,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.18",
     Tartarus: "1:42.62",
     Asphodel: "1:30.35",
@@ -12262,6 +13487,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:48.18",
     Tartarus: "1:38.40",
     Asphodel: "1:09.18",
@@ -12272,6 +13498,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:48.20",
     Tartarus: "1:54.77",
     Asphodel: "1:24.90",
@@ -12282,6 +13509,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:48.20",
     Tartarus: "1:32.22",
     Asphodel: "1:18.63",
@@ -12292,6 +13520,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.21",
     Tartarus: "1:45.92",
     Asphodel: "1:22.27",
@@ -12302,6 +13531,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.21",
     Tartarus: "1:50.28",
     Asphodel: "1:03.64",
@@ -12312,6 +13542,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.22",
     Tartarus: "1:46.21",
     Asphodel: "1:24.08",
@@ -12322,6 +13553,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:48.23",
     Tartarus: "1:34.01",
     Asphodel: "1:17.77",
@@ -12332,6 +13564,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.23",
     Tartarus: "1:41.73",
     Asphodel: "1:28.84",
@@ -12342,6 +13575,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.23",
     Tartarus: "1:41.90",
     Asphodel: "1:15.92",
@@ -12352,6 +13586,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.24",
     Tartarus: "1:42.78",
     Asphodel: "1:17.02",
@@ -12362,6 +13597,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:48.26",
     Tartarus: "1:26.34",
     Asphodel: "0:58.87",
@@ -12372,6 +13608,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.26",
     Tartarus: "1:48.23",
     Asphodel: "1:02.19",
@@ -12382,6 +13619,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.27",
     Tartarus: "1:41.55",
     Asphodel: "1:10.93",
@@ -12392,6 +13630,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.28",
     Tartarus: "1:42.37",
     Asphodel: "1:13.27",
@@ -12402,6 +13641,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.29",
     Tartarus: "1:31.05",
     Asphodel: "1:28.32",
@@ -12412,6 +13652,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.30",
     Tartarus: "1:43.88",
     Asphodel: "1:18.56",
@@ -12422,6 +13663,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.30",
     Tartarus: "1:41.01",
     Asphodel: "1:06.21",
@@ -12432,6 +13674,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.31",
     Tartarus: "1:36.97",
     Asphodel: "1:07.45",
@@ -12442,6 +13685,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.31",
     Tartarus: "1:27.83",
     Asphodel: "1:16.80",
@@ -12452,6 +13696,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.31",
     Tartarus: "1:43.48",
     Asphodel: "1:09.83",
@@ -12462,6 +13707,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.32",
     Tartarus: "1:43.02",
     Asphodel: "1:12.81",
@@ -12472,6 +13718,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.33",
     Tartarus: "2:00.10",
     Asphodel: "1:11.80",
@@ -12482,6 +13729,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.33",
     Tartarus: "2:00.10",
     Asphodel: "1:11.80",
@@ -12492,6 +13740,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.33",
     Tartarus: "1:37.81",
     Asphodel: "1:05.15",
@@ -12502,6 +13751,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.33",
     Tartarus: "1:37.00",
     Asphodel: "1:23.60",
@@ -12512,6 +13762,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.34",
     Tartarus: "1:31.84",
     Asphodel: "1:35.06",
@@ -12522,6 +13773,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:48.37",
     Tartarus: "1:21.13",
     Asphodel: "1:20.62",
@@ -12532,6 +13784,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.39",
     Tartarus: "1:36.91",
     Asphodel: "1:17.36",
@@ -12542,6 +13795,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.39",
     Tartarus: "1:56.41",
     Asphodel: "0:58.11",
@@ -12552,6 +13806,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.40",
     Tartarus: "1:38.56",
     Asphodel: "1:30.27",
@@ -12562,6 +13817,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.42",
     Tartarus: "1:39.99",
     Asphodel: "1:20.03",
@@ -12572,6 +13828,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.45",
     Tartarus: "1:44.16",
     Asphodel: "1:24.82",
@@ -12582,6 +13839,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.48",
     Tartarus: "2:03.78",
     Asphodel: "1:05.73",
@@ -12592,6 +13850,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.48",
     Tartarus: "1:41.13",
     Asphodel: "1:20.94",
@@ -12602,6 +13861,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.49",
     Tartarus: "1:25.05",
     Asphodel: "1:10.77",
@@ -12612,6 +13872,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:48.51",
     Tartarus: "1:36.12",
     Asphodel: "1:01.76",
@@ -12622,6 +13883,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:48.52",
     Tartarus: "1:46.03",
     Asphodel: "1:16.17",
@@ -12632,6 +13894,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.52",
     Tartarus: "1:46.60",
     Asphodel: "1:21.24",
@@ -12642,6 +13905,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:48.52",
     Tartarus: "1:15.82",
     Asphodel: "1:22.83",
@@ -12652,6 +13916,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.55",
     Tartarus: "1:29.75",
     Asphodel: "1:16.57",
@@ -12662,6 +13927,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.56",
     Tartarus: "1:42.32",
     Asphodel: "1:18.89",
@@ -12672,6 +13938,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.57",
     Tartarus: "1:41.53",
     Asphodel: "1:16.61",
@@ -12682,6 +13949,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:48.59",
     Tartarus: "1:33.42",
     Asphodel: "1:20.59",
@@ -12692,6 +13960,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.61",
     Tartarus: "1:47.97",
     Asphodel: "1:15.66",
@@ -12702,6 +13971,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.62",
     Tartarus: "1:34.89",
     Asphodel: "1:21.03",
@@ -12712,6 +13982,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.63",
     Tartarus: "1:45.02",
     Asphodel: "1:26.04",
@@ -12722,6 +13993,7 @@ export const rawData2 = [
   {
     Player: "_sev",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:48.64",
     Tartarus: "1:37.01",
     Asphodel: "1:15.79",
@@ -12732,6 +14004,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:48.65",
     Tartarus: "1:50.17",
     Asphodel: "1:05.00",
@@ -12742,6 +14015,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.65",
     Tartarus: "1:41.71",
     Asphodel: "1:07.79",
@@ -12752,6 +14026,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.65",
     Tartarus: "1:29.78",
     Asphodel: "1:28.81",
@@ -12762,6 +14037,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.67",
     Tartarus: "1:48.46",
     Asphodel: "1:10.93",
@@ -12772,6 +14048,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.68",
     Tartarus: "1:50.28",
     Asphodel: "1:20.22",
@@ -12782,6 +14059,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.70",
     Tartarus: "1:42.11",
     Asphodel: "1:02.79",
@@ -12792,6 +14070,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:48.73",
     Tartarus: "1:31.34",
     Asphodel: "1:14.75",
@@ -12802,6 +14081,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.74",
     Tartarus: "1:46.15",
     Asphodel: "1:20.69",
@@ -12812,6 +14092,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:48.78",
     Tartarus: "1:40.01",
     Asphodel: "1:17.72",
@@ -12822,6 +14103,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:48.79",
     Tartarus: "1:47.42",
     Asphodel: "1:09.59",
@@ -12832,6 +14114,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.79",
     Tartarus: "1:33.27",
     Asphodel: "1:24.28",
@@ -12842,6 +14125,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.80",
     Tartarus: "1:23.95",
     Asphodel: "1:23.54",
@@ -12852,6 +14136,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:48.84",
     Tartarus: "1:36.00",
     Asphodel: "1:31.00",
@@ -12862,6 +14147,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.87",
     Tartarus: "1:45.16",
     Asphodel: "1:19.06",
@@ -12872,6 +14158,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.89",
     Tartarus: "1:46.72",
     Asphodel: "1:25.32",
@@ -12882,6 +14169,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:48.90",
     Tartarus: "1:39.84",
     Asphodel: "1:17.75",
@@ -12892,6 +14180,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.91",
     Tartarus: "1:49.92",
     Asphodel: "1:16.83",
@@ -12902,6 +14191,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.91",
     Tartarus: "1:39.00",
     Asphodel: "1:22.80",
@@ -12912,6 +14202,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:48.93",
     Tartarus: "1:37.23",
     Asphodel: "1:24.63",
@@ -12922,6 +14213,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:48.95",
     Tartarus: "1:41.50",
     Asphodel: "1:14.40",
@@ -12932,6 +14224,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.01",
     Tartarus: "1:35.40",
     Asphodel: "1:12.61",
@@ -12942,6 +14235,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.04",
     Tartarus: "1:24.40",
     Asphodel: "1:19.97",
@@ -12952,6 +14246,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.04",
     Tartarus: "1:40.07",
     Asphodel: "1:40.63",
@@ -12962,6 +14257,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:49.06",
     Tartarus: "1:27.56",
     Asphodel: "1:33.53",
@@ -12972,6 +14268,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.07",
     Tartarus: "1:45.45",
     Asphodel: "1:26.31",
@@ -12982,6 +14279,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:49.09",
     Tartarus: "1:20.11",
     Asphodel: "1:30.75",
@@ -12992,6 +14290,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.09",
     Tartarus: "1:33.38",
     Asphodel: "1:30.28",
@@ -13002,6 +14301,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.11",
     Tartarus: "1:46.66",
     Asphodel: "1:15.81",
@@ -13012,6 +14312,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.12",
     Tartarus: "1:33.66",
     Asphodel: "1:17.18",
@@ -13022,6 +14323,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:49.15",
     Tartarus: "1:30.73",
     Asphodel: "1:16.80",
@@ -13032,6 +14334,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.18",
     Tartarus: "1:25.26",
     Asphodel: "1:20.36",
@@ -13042,6 +14345,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.19",
     Tartarus: "1:43.18",
     Asphodel: "1:13.11",
@@ -13052,6 +14356,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.20",
     Tartarus: "1:33.06",
     Asphodel: "1:13.27",
@@ -13062,6 +14367,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.20",
     Tartarus: "1:36.69",
     Asphodel: "1:09.05",
@@ -13072,6 +14378,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:49.21",
     Tartarus: "1:46.83",
     Asphodel: "1:01.84",
@@ -13082,6 +14389,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.21",
     Tartarus: "1:45.95",
     Asphodel: "1:29.81",
@@ -13092,6 +14400,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.21",
     Tartarus: "1:48.01",
     Asphodel: "1:31.71",
@@ -13102,6 +14411,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.22",
     Tartarus: "1:43.96",
     Asphodel: "1:17.18",
@@ -13112,6 +14422,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.24",
     Tartarus: "1:45.54",
     Asphodel: "1:42.36",
@@ -13122,6 +14433,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.25",
     Tartarus: "1:35.76",
     Asphodel: "1:22.33",
@@ -13132,6 +14444,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.25",
     Tartarus: "1:34.69",
     Asphodel: "1:21.02",
@@ -13142,6 +14455,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.25",
     Tartarus: "1:48.70",
     Asphodel: "1:25.52",
@@ -13152,6 +14466,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.25",
     Tartarus: "1:42.01",
     Asphodel: "1:32.09",
@@ -13162,6 +14477,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.30",
     Tartarus: "1:30.69",
     Asphodel: "1:13.08",
@@ -13172,6 +14488,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.30",
     Tartarus: "1:42.55",
     Asphodel: "1:12.79",
@@ -13182,6 +14499,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:49.33",
     Tartarus: "1:31.09",
     Asphodel: "1:25.84",
@@ -13192,6 +14510,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.36",
     Tartarus: "1:54.69",
     Asphodel: "1:22.28",
@@ -13202,6 +14521,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.38",
     Tartarus: "1:39.08",
     Asphodel: "1:17.70",
@@ -13212,6 +14532,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.39",
     Tartarus: "1:44.58",
     Asphodel: "1:14.36",
@@ -13222,6 +14543,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:49.40",
     Tartarus: "1:32.58",
     Asphodel: "1:11.97",
@@ -13232,6 +14554,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:49.40",
     Tartarus: "1:38.36",
     Asphodel: "1:03.91",
@@ -13242,6 +14565,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.41",
     Tartarus: "1:26.70",
     Asphodel: "1:25.93",
@@ -13252,6 +14576,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:49.42",
     Tartarus: "1:41.05",
     Asphodel: "1:33.58",
@@ -13262,6 +14587,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.44",
     Tartarus: "1:44.24",
     Asphodel: "1:10.66",
@@ -13272,6 +14598,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.45",
     Tartarus: "1:46.51",
     Asphodel: "1:15.61",
@@ -13282,6 +14609,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.46",
     Tartarus: "1:25.34",
     Asphodel: "1:31.47",
@@ -13292,6 +14620,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.48",
     Tartarus: "1:42.00",
     Asphodel: "1:19.53",
@@ -13302,6 +14631,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:49.48",
     Tartarus: "1:38.26",
     Asphodel: "0:59.64",
@@ -13312,6 +14642,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.49",
     Tartarus: "1:53.20",
     Asphodel: "1:13.14",
@@ -13322,6 +14653,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.50",
     Tartarus: "1:39.15",
     Asphodel: "1:17.52",
@@ -13332,6 +14664,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.50",
     Tartarus: "1:38.82",
     Asphodel: "1:11.13",
@@ -13342,6 +14675,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.52",
     Tartarus: "1:27.92",
     Asphodel: "1:24.93",
@@ -13352,6 +14686,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:49.53",
     Tartarus: "1:58.53",
     Asphodel: "1:17.76",
@@ -13362,6 +14697,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.54",
     Tartarus: "1:42.65",
     Asphodel: "1:17.90",
@@ -13372,6 +14708,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:49.55",
     Tartarus: "1:42.46",
     Asphodel: "1:17.25",
@@ -13382,6 +14719,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.55",
     Tartarus: "1:42.48",
     Asphodel: "1:28.24",
@@ -13392,6 +14730,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.55",
     Tartarus: "1:50.20",
     Asphodel: "1:14.09",
@@ -13402,6 +14741,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.56",
     Tartarus: "1:34.75",
     Asphodel: "1:24.09",
@@ -13412,6 +14752,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.57",
     Tartarus: "1:39.69",
     Asphodel: "1:19.43",
@@ -13422,6 +14763,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.57",
     Tartarus: "1:41.15",
     Asphodel: "1:25.97",
@@ -13432,6 +14774,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.59",
     Tartarus: "1:46.25",
     Asphodel: "1:31.98",
@@ -13442,6 +14785,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.60",
     Tartarus: "1:52.52",
     Asphodel: "1:20.37",
@@ -13452,6 +14796,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.60",
     Tartarus: "1:25.34",
     Asphodel: "1:13.04",
@@ -13462,6 +14807,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.60",
     Tartarus: "1:42.32",
     Asphodel: "1:22.33",
@@ -13472,6 +14818,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:49.62",
     Tartarus: "1:24.89",
     Asphodel: "1:12.25",
@@ -13482,6 +14829,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:49.63",
     Tartarus: "1:21.60",
     Asphodel: "1:22.14",
@@ -13492,6 +14840,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.64",
     Tartarus: "1:52.66",
     Asphodel: "1:15.23",
@@ -13502,6 +14851,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.65",
     Tartarus: "1:47.86",
     Asphodel: "1:19.37",
@@ -13512,6 +14862,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.65",
     Tartarus: "1:41.32",
     Asphodel: "1:21.39",
@@ -13522,6 +14873,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:49.69",
     Tartarus: "1:49.11",
     Asphodel: "1:08.06",
@@ -13532,6 +14884,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:49.72",
     Tartarus: "1:32.28",
     Asphodel: "1:23.87",
@@ -13542,6 +14895,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.74",
     Tartarus: "1:35.77",
     Asphodel: "1:14.85",
@@ -13552,6 +14906,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.74",
     Tartarus: "1:44.51",
     Asphodel: "1:30.36",
@@ -13562,6 +14917,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:49.74",
     Tartarus: "1:32.05",
     Asphodel: "1:19.90",
@@ -13572,6 +14928,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.74",
     Tartarus: "1:44.28",
     Asphodel: "1:19.65",
@@ -13582,6 +14939,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:49.76",
     Tartarus: "1:34.09",
     Asphodel: "1:23.87",
@@ -13592,6 +14950,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.76",
     Tartarus: "1:52.76",
     Asphodel: "1:30.71",
@@ -13602,6 +14961,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:49.78",
     Tartarus: "1:57.99",
     Asphodel: "1:05.17",
@@ -13612,6 +14972,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.79",
     Tartarus: "1:35.26",
     Asphodel: "1:10.55",
@@ -13622,6 +14983,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.79",
     Tartarus: "1:45.67",
     Asphodel: "1:19.48",
@@ -13632,6 +14994,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.80",
     Tartarus: "1:48.83",
     Asphodel: "1:15.82",
@@ -13642,6 +15005,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.80",
     Tartarus: "1:48.67",
     Asphodel: "1:14.74",
@@ -13652,6 +15016,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.81",
     Tartarus: "1:39.32",
     Asphodel: "1:26.59",
@@ -13662,6 +15027,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.81",
     Tartarus: "1:47.95",
     Asphodel: "1:13.68",
@@ -13672,6 +15038,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.83",
     Tartarus: "1:33.87",
     Asphodel: "1:35.74",
@@ -13682,6 +15049,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.84",
     Tartarus: "1:46.77",
     Asphodel: "1:15.64",
@@ -13692,6 +15060,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.84",
     Tartarus: "1:49.05",
     Asphodel: "1:19.82",
@@ -13702,6 +15071,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.84",
     Tartarus: "1:49.05",
     Asphodel: "1:19.82",
@@ -13712,6 +15082,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.85",
     Tartarus: "2:07.34",
     Asphodel: "1:23.85",
@@ -13722,6 +15093,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:49.86",
     Tartarus: "1:43.41",
     Asphodel: "1:12.64",
@@ -13732,6 +15104,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.86",
     Tartarus: "1:54.65",
     Asphodel: "1:10.45",
@@ -13742,6 +15115,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:49.86",
     Tartarus: "1:54.35",
     Asphodel: "1:13.67",
@@ -13752,6 +15126,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:49.88",
     Tartarus: "1:32.55",
     Asphodel: "1:09.51",
@@ -13762,6 +15137,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:49.88",
     Tartarus: "1:31.56",
     Asphodel: "1:22.10",
@@ -13772,6 +15148,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.89",
     Tartarus: "1:53.61",
     Asphodel: "1:28.58",
@@ -13782,6 +15159,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.89",
     Tartarus: "1:42.78",
     Asphodel: "1:15.48",
@@ -13792,6 +15170,7 @@ export const rawData2 = [
   {
     Player: "bright01",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.90",
     Tartarus: "1:38.10",
     Asphodel: "1:27.19",
@@ -13802,6 +15181,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.90",
     Tartarus: "1:35.80",
     Asphodel: "1:17.80",
@@ -13812,6 +15192,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:49.91",
     Tartarus: "1:34.56",
     Asphodel: "1:20.24",
@@ -13822,6 +15203,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.91",
     Tartarus: "1:37.58",
     Asphodel: "1:35.36",
@@ -13832,6 +15214,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.91",
     Tartarus: "1:40.49",
     Asphodel: "1:30.79",
@@ -13842,6 +15225,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.93",
     Tartarus: "1:35.93",
     Asphodel: "1:03.24",
@@ -13851,7 +15235,8 @@ export const rawData2 = [
   },
   {
     Player: "bablo",
-    Aspect: "Zag Shield",
+    Aspect: "Zagreus-Shield",
+    Ring: "orange",
     Clear: "5:49.96",
     Tartarus: "1:41.76",
     Asphodel: "1:11.66",
@@ -13862,6 +15247,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.96",
     Tartarus: "1:50.05",
     Asphodel: "1:25.96",
@@ -13872,6 +15258,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.97",
     Tartarus: "1:35.80",
     Asphodel: "1:20.33",
@@ -13882,6 +15269,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:49.97",
     Tartarus: "1:36.45",
     Asphodel: "1:03.33",
@@ -13892,6 +15280,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.00",
     Tartarus: "1:44.98",
     Asphodel: "1:12.30",
@@ -13902,6 +15291,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.01",
     Tartarus: "1:21.96",
     Asphodel: "1:40.96",
@@ -13912,6 +15302,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.02",
     Tartarus: "1:25.62",
     Asphodel: "1:04.54",
@@ -13922,6 +15313,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.03",
     Tartarus: "1:43.66",
     Asphodel: "1:21.77",
@@ -13932,6 +15324,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.03",
     Tartarus: "1:45.68",
     Asphodel: "1:32.47",
@@ -13942,6 +15335,7 @@ export const rawData2 = [
   {
     Player: "hooly",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.05",
     Tartarus: "1:40.01",
     Asphodel: "1:25.73",
@@ -13952,6 +15346,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.06",
     Tartarus: "1:53.61",
     Asphodel: "1:08.15",
@@ -13962,6 +15357,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.08",
     Tartarus: "1:40.56",
     Asphodel: "1:25.22",
@@ -13972,6 +15368,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.09",
     Tartarus: "1:43.55",
     Asphodel: "1:24.07",
@@ -13982,6 +15379,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.10",
     Tartarus: "1:34.99",
     Asphodel: "1:14.01",
@@ -13992,6 +15390,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:50.11",
     Tartarus: "1:40.47",
     Asphodel: "1:09.71",
@@ -14002,6 +15401,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:50.13",
     Tartarus: "1:21.26",
     Asphodel: "1:29.02",
@@ -14012,6 +15412,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:50.13",
     Tartarus: "1:55.47",
     Asphodel: "1:11.59",
@@ -14022,6 +15423,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.17",
     Tartarus: "1:50.56",
     Asphodel: "1:17.61",
@@ -14032,6 +15434,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.21",
     Tartarus: "1:30.00",
     Asphodel: "1:23.72",
@@ -14042,6 +15445,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.22",
     Tartarus: "1:36.66",
     Asphodel: "1:17.57",
@@ -14052,6 +15456,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:50.23",
     Tartarus: "1:42.26",
     Asphodel: "1:05.39",
@@ -14062,6 +15467,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.25",
     Tartarus: "1:40.12",
     Asphodel: "1:23.07",
@@ -14072,6 +15478,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:50.27",
     Tartarus: "1:33.79",
     Asphodel: "1:18.98",
@@ -14082,6 +15489,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.27",
     Tartarus: "1:40.81",
     Asphodel: "1:29.09",
@@ -14091,7 +15499,8 @@ export const rawData2 = [
   },
   {
     Player: "Ananke",
-    Aspect: "Zag Fists",
+    Aspect: "Zagreus-Fists",
+    Ring: "pink",
     Clear: "5:50.28",
     Tartarus: "2:04.13",
     Asphodel: "1:05.55",
@@ -14102,6 +15511,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:50.28",
     Tartarus: "1:50.63",
     Asphodel: "1:11.08",
@@ -14112,6 +15522,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.28",
     Tartarus: "1:44.21",
     Asphodel: "1:10.58",
@@ -14122,6 +15533,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.31",
     Tartarus: "1:44.98",
     Asphodel: "1:16.36",
@@ -14132,6 +15544,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:50.31",
     Tartarus: "1:27.65",
     Asphodel: "1:13.89",
@@ -14142,6 +15555,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:50.37",
     Tartarus: "1:34.18",
     Asphodel: "1:12.61",
@@ -14152,6 +15566,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.37",
     Tartarus: "1:41.22",
     Asphodel: "1:12.98",
@@ -14162,6 +15577,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.38",
     Tartarus: "1:45.45",
     Asphodel: "1:22.74",
@@ -14172,6 +15588,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.40",
     Tartarus: "1:38.73",
     Asphodel: "1:38.63",
@@ -14182,6 +15599,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.40",
     Tartarus: "1:37.96",
     Asphodel: "1:17.96",
@@ -14192,6 +15610,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.40",
     Tartarus: "1:24.98",
     Asphodel: "1:15.24",
@@ -14202,6 +15621,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.42",
     Tartarus: "1:51.41",
     Asphodel: "1:02.26",
@@ -14212,6 +15632,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.45",
     Tartarus: "1:49.08",
     Asphodel: "1:30.75",
@@ -14222,6 +15643,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.49",
     Tartarus: "1:25.90",
     Asphodel: "1:40.63",
@@ -14232,6 +15654,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.49",
     Tartarus: "1:40.54",
     Asphodel: "1:17.20",
@@ -14242,6 +15665,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.49",
     Tartarus: "1:27.30",
     Asphodel: "1:22.96",
@@ -14252,6 +15676,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.50",
     Tartarus: "1:52.12",
     Asphodel: "1:11.59",
@@ -14262,6 +15687,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.50",
     Tartarus: "1:54.38",
     Asphodel: "1:11.74",
@@ -14272,6 +15698,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:50.51",
     Tartarus: "1:53.41",
     Asphodel: "1:16.72",
@@ -14282,6 +15709,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.51",
     Tartarus: "1:38.21",
     Asphodel: "1:11.64",
@@ -14292,6 +15720,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.52",
     Tartarus: "1:45.55",
     Asphodel: "1:24.20",
@@ -14302,6 +15731,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.54",
     Tartarus: "1:44.33",
     Asphodel: "1:23.52",
@@ -14312,6 +15742,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.54",
     Tartarus: "1:41.02",
     Asphodel: "1:10.77",
@@ -14322,6 +15753,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.58",
     Tartarus: "1:54.52",
     Asphodel: "1:12.43",
@@ -14332,6 +15764,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:50.61",
     Tartarus: "1:44.50",
     Asphodel: "1:14.11",
@@ -14342,6 +15775,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.61",
     Tartarus: "1:34.90",
     Asphodel: "1:17.89",
@@ -14352,6 +15786,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.64",
     Tartarus: "1:30.67",
     Asphodel: "1:29.81",
@@ -14362,6 +15797,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.64",
     Tartarus: "1:44.73",
     Asphodel: "1:16.98",
@@ -14372,6 +15808,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:50.64",
     Tartarus: "1:29.82",
     Asphodel: "1:27.79",
@@ -14382,6 +15819,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.66",
     Tartarus: "1:36.90",
     Asphodel: "1:16.21",
@@ -14392,6 +15830,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.66",
     Tartarus: "1:48.18",
     Asphodel: "1:11.27",
@@ -14402,6 +15841,7 @@ export const rawData2 = [
   {
     Player: "Saragas",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:50.67",
     Tartarus: "1:39.37",
     Asphodel: "1:15.10",
@@ -14412,6 +15852,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.67",
     Tartarus: "1:56.22",
     Asphodel: "0:58.37",
@@ -14422,6 +15863,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.71",
     Tartarus: "1:46.74",
     Asphodel: "1:21.49",
@@ -14432,6 +15874,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:50.72",
     Tartarus: "1:30.56",
     Asphodel: "1:07.54",
@@ -14442,6 +15885,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.73",
     Tartarus: "1:42.58",
     Asphodel: "1:34.97",
@@ -14452,6 +15896,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.75",
     Tartarus: "1:43.10",
     Asphodel: "1:19.00",
@@ -14462,6 +15907,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.75",
     Tartarus: "1:43.07",
     Asphodel: "0:59.70",
@@ -14472,6 +15918,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.75",
     Tartarus: "1:24.99",
     Asphodel: "1:20.33",
@@ -14482,6 +15929,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.77",
     Tartarus: "1:35.08",
     Asphodel: "1:28.25",
@@ -14492,6 +15940,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:50.79",
     Tartarus: "1:32.22",
     Asphodel: "1:21.55",
@@ -14502,6 +15951,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.79",
     Tartarus: "1:56.70",
     Asphodel: "1:16.66",
@@ -14512,6 +15962,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:50.80",
     Tartarus: "1:35.66",
     Asphodel: "1:20.71",
@@ -14522,6 +15973,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:50.80",
     Tartarus: "1:27.06",
     Asphodel: "1:20.30",
@@ -14532,6 +15984,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.82",
     Tartarus: "1:44.94",
     Asphodel: "1:42.03",
@@ -14542,6 +15995,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.83",
     Tartarus: "1:42.10",
     Asphodel: "1:19.20",
@@ -14552,6 +16006,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.84",
     Tartarus: "1:42.71",
     Asphodel: "1:33.72",
@@ -14562,6 +16017,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.84",
     Tartarus: "1:48.47",
     Asphodel: "1:47.68",
@@ -14572,6 +16028,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.85",
     Tartarus: "1:37.60",
     Asphodel: "1:20.68",
@@ -14582,6 +16039,7 @@ export const rawData2 = [
   {
     Player: "Museus",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.87",
     Tartarus: "1:46.39",
     Asphodel: "1:32.84",
@@ -14592,6 +16050,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:50.88",
     Tartarus: "1:40.73",
     Asphodel: "1:23.33",
@@ -14602,6 +16061,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.89",
     Tartarus: "1:39.03",
     Asphodel: "1:07.24",
@@ -14612,6 +16072,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:50.89",
     Tartarus: "1:25.24",
     Asphodel: "1:27.22",
@@ -14622,6 +16083,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.91",
     Tartarus: "1:54.25",
     Asphodel: "1:21.39",
@@ -14632,6 +16094,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.93",
     Tartarus: "1:41.15",
     Asphodel: "1:15.19",
@@ -14642,6 +16105,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:50.94",
     Tartarus: "1:33.63",
     Asphodel: "1:09.18",
@@ -14652,6 +16116,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:51.00",
     Tartarus: "1:37.79",
     Asphodel: "1:35.47",
@@ -14662,6 +16127,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:51.01",
     Tartarus: "1:51.93",
     Asphodel: "1:25.29",
@@ -14672,6 +16138,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.01",
     Tartarus: "1:46.83",
     Asphodel: "1:15.89",
@@ -14682,6 +16149,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.02",
     Tartarus: "1:40.69",
     Asphodel: "1:08.60",
@@ -14692,6 +16160,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.02",
     Tartarus: "1:39.11",
     Asphodel: "1:29.04",
@@ -14702,6 +16171,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:51.02",
     Tartarus: "1:27.50",
     Asphodel: "1:32.98",
@@ -14712,6 +16182,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.06",
     Tartarus: "1:51.92",
     Asphodel: "1:18.23",
@@ -14722,6 +16193,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.06",
     Tartarus: "1:47.42",
     Asphodel: "1:19.68",
@@ -14732,6 +16204,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.07",
     Tartarus: "1:46.06",
     Asphodel: "1:17.45",
@@ -14742,6 +16215,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.09",
     Tartarus: "1:42.67",
     Asphodel: "1:19.58",
@@ -14752,6 +16226,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.14",
     Tartarus: "1:35.71",
     Asphodel: "1:17.05",
@@ -14762,6 +16237,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.14",
     Tartarus: "1:25.62",
     Asphodel: "0:57.68",
@@ -14772,6 +16248,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:51.16",
     Tartarus: "1:19.55",
     Asphodel: "1:13.47",
@@ -14782,6 +16259,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.18",
     Tartarus: "1:37.24",
     Asphodel: "1:30.41",
@@ -14792,6 +16270,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.20",
     Tartarus: "1:39.17",
     Asphodel: "1:03.30",
@@ -14802,6 +16281,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.21",
     Tartarus: "1:48.36",
     Asphodel: "1:13.72",
@@ -14812,6 +16292,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.21",
     Tartarus: "1:38.24",
     Asphodel: "1:26.63",
@@ -14822,6 +16303,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.22",
     Tartarus: "2:00.39",
     Asphodel: "1:24.02",
@@ -14832,6 +16314,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:51.22",
     Tartarus: "1:41.19",
     Asphodel: "1:13.24",
@@ -14842,6 +16325,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.23",
     Tartarus: "1:35.83",
     Asphodel: "1:10.62",
@@ -14852,6 +16336,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.24",
     Tartarus: "1:36.79",
     Asphodel: "1:16.32",
@@ -14862,6 +16347,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.25",
     Tartarus: "1:41.55",
     Asphodel: "1:06.58",
@@ -14872,6 +16358,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:51.25",
     Tartarus: "1:44.77",
     Asphodel: "1:37.97",
@@ -14882,6 +16369,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.26",
     Tartarus: "1:45.41",
     Asphodel: "1:32.58",
@@ -14892,6 +16380,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.27",
     Tartarus: "1:51.28",
     Asphodel: "1:26.66",
@@ -14902,6 +16391,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.28",
     Tartarus: "1:31.01",
     Asphodel: "1:24.51",
@@ -14912,6 +16402,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:51.29",
     Tartarus: "1:39.84",
     Asphodel: "1:05.82",
@@ -14922,6 +16413,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:51.30",
     Tartarus: "1:54.69",
     Asphodel: "1:20.51",
@@ -14932,6 +16424,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.31",
     Tartarus: "1:23.02",
     Asphodel: "1:26.10",
@@ -14942,6 +16435,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.31",
     Tartarus: "1:42.79",
     Asphodel: "1:12.99",
@@ -14952,6 +16446,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:51.32",
     Tartarus: "1:31.75",
     Asphodel: "1:12.47",
@@ -14962,6 +16457,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.32",
     Tartarus: "1:40.66",
     Asphodel: "1:22.18",
@@ -14972,6 +16468,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.32",
     Tartarus: "1:31.85",
     Asphodel: "1:34.72",
@@ -14982,6 +16479,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.33",
     Tartarus: "1:27.78",
     Asphodel: "1:06.67",
@@ -14992,6 +16490,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:51.34",
     Tartarus: "1:36.70",
     Asphodel: "1:32.60",
@@ -15002,6 +16501,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:51.35",
     Tartarus: "1:37.83",
     Asphodel: "1:21.07",
@@ -15012,6 +16512,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:51.35",
     Tartarus: "1:35.13",
     Asphodel: "0:56.08",
@@ -15022,6 +16523,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:51.37",
     Tartarus: "1:33.88",
     Asphodel: "1:20.45",
@@ -15032,6 +16534,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:51.38",
     Tartarus: "2:01.35",
     Asphodel: "1:29.58",
@@ -15042,6 +16545,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Lucifer",
+    Ring: "yellow",
     Clear: "5:51.39",
     Tartarus: "1:30.93",
     Asphodel: "1:43.70",
@@ -15052,6 +16556,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.39",
     Tartarus: "1:39.52",
     Asphodel: "1:10.83",
@@ -15062,6 +16567,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.39",
     Tartarus: "1:46.35",
     Asphodel: "1:02.02",
@@ -15072,6 +16578,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.40",
     Tartarus: "1:54.39",
     Asphodel: "1:13.66",
@@ -15082,6 +16589,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.42",
     Tartarus: "1:40.16",
     Asphodel: "1:21.80",
@@ -15092,6 +16600,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:51.43",
     Tartarus: "1:45.00",
     Asphodel: "1:22.00",
@@ -15102,6 +16611,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.45",
     Tartarus: "1:45.76",
     Asphodel: "1:16.00",
@@ -15112,6 +16622,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.46",
     Tartarus: "1:39.45",
     Asphodel: "1:38.06",
@@ -15122,6 +16633,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.46",
     Tartarus: "1:32.90",
     Asphodel: "1:07.47",
@@ -15132,6 +16644,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:51.47",
     Tartarus: "1:30.87",
     Asphodel: "1:16.34",
@@ -15142,6 +16655,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.48",
     Tartarus: "1:40.67",
     Asphodel: "1:25.22",
@@ -15152,6 +16666,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:51.49",
     Tartarus: "1:44.63",
     Asphodel: "1:26.89",
@@ -15162,6 +16677,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.49",
     Tartarus: "1:49.85",
     Asphodel: "1:00.61",
@@ -15172,6 +16688,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.49",
     Tartarus: "1:56.22",
     Asphodel: "1:14.98",
@@ -15182,6 +16699,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:51.50",
     Tartarus: "1:41.76",
     Asphodel: "1:14.33",
@@ -15192,6 +16710,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.51",
     Tartarus: "1:46.82",
     Asphodel: "1:33.01",
@@ -15202,6 +16721,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.53",
     Tartarus: "1:37.76",
     Asphodel: "1:16.25",
@@ -15212,6 +16732,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.53",
     Tartarus: "1:54.82",
     Asphodel: "1:21.43",
@@ -15222,6 +16743,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:51.54",
     Tartarus: "1:52.32",
     Asphodel: "1:18.25",
@@ -15232,6 +16754,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.56",
     Tartarus: "1:47.68",
     Asphodel: "1:29.40",
@@ -15242,6 +16765,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.56",
     Tartarus: "1:52.42",
     Asphodel: "1:12.88",
@@ -15252,6 +16776,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.56",
     Tartarus: "1:24.58",
     Asphodel: "1:12.20",
@@ -15262,6 +16787,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.56",
     Tartarus: "1:46.17",
     Asphodel: "1:08.42",
@@ -15272,6 +16798,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.56",
     Tartarus: "1:42.97",
     Asphodel: "1:31.03",
@@ -15282,6 +16809,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.59",
     Tartarus: "1:53.71",
     Asphodel: "1:20.86",
@@ -15292,6 +16820,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.59",
     Tartarus: "1:36.84",
     Asphodel: "1:27.46",
@@ -15302,6 +16831,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.61",
     Tartarus: "1:33.83",
     Asphodel: "1:29.19",
@@ -15312,6 +16842,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.62",
     Tartarus: "1:46.77",
     Asphodel: "1:16.25",
@@ -15322,6 +16853,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.63",
     Tartarus: "1:41.11",
     Asphodel: "1:18.91",
@@ -15332,6 +16864,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:51.63",
     Tartarus: "1:44.69",
     Asphodel: "1:15.53",
@@ -15342,6 +16875,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.64",
     Tartarus: "1:46.42",
     Asphodel: "1:29.57",
@@ -15352,6 +16886,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.67",
     Tartarus: "1:43.82",
     Asphodel: "1:13.10",
@@ -15362,6 +16897,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.67",
     Tartarus: "2:00.34",
     Asphodel: "1:34.50",
@@ -15372,6 +16908,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.68",
     Tartarus: "1:39.67",
     Asphodel: "1:13.59",
@@ -15382,6 +16919,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.70",
     Tartarus: "1:32.25",
     Asphodel: "1:16.45",
@@ -15392,6 +16930,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.70",
     Tartarus: "1:52.93",
     Asphodel: "1:05.49",
@@ -15402,6 +16941,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.71",
     Tartarus: "1:47.49",
     Asphodel: "1:27.19",
@@ -15412,6 +16952,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.72",
     Tartarus: "1:48.90",
     Asphodel: "1:22.82",
@@ -15422,6 +16963,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:51.73",
     Tartarus: "1:53.67",
     Asphodel: "1:28.43",
@@ -15432,6 +16974,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:51.74",
     Tartarus: "1:37.58",
     Asphodel: "1:13.85",
@@ -15442,6 +16985,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.74",
     Tartarus: "1:34.82",
     Asphodel: "1:25.98",
@@ -15452,6 +16996,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.77",
     Tartarus: "1:49.80",
     Asphodel: "1:01.25",
@@ -15462,6 +17007,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:51.78",
     Tartarus: "1:32.21",
     Asphodel: "1:24.37",
@@ -15472,6 +17018,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.78",
     Tartarus: "1:45.78",
     Asphodel: "1:10.74",
@@ -15482,6 +17029,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:51.78",
     Tartarus: "1:32.10",
     Asphodel: "1:07.07",
@@ -15492,6 +17040,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.80",
     Tartarus: "1:44.68",
     Asphodel: "1:07.33",
@@ -15502,6 +17051,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.80",
     Tartarus: "1:55.27",
     Asphodel: "1:20.41",
@@ -15512,6 +17062,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.86",
     Tartarus: "1:23.53",
     Asphodel: "1:36.08",
@@ -15522,6 +17073,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.87",
     Tartarus: "1:33.39",
     Asphodel: "1:26.04",
@@ -15532,6 +17084,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.87",
     Tartarus: "1:39.86",
     Asphodel: "1:12.13",
@@ -15542,6 +17095,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.89",
     Tartarus: "1:33.00",
     Asphodel: "1:00.65",
@@ -15552,6 +17106,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.89",
     Tartarus: "1:38.86",
     Asphodel: "1:19.09",
@@ -15562,6 +17117,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.89",
     Tartarus: "1:49.96",
     Asphodel: "1:10.84",
@@ -15572,6 +17128,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.90",
     Tartarus: "1:34.36",
     Asphodel: "1:19.57",
@@ -15582,6 +17139,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.91",
     Tartarus: "1:29.34",
     Asphodel: "1:16.18",
@@ -15592,6 +17150,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.92",
     Tartarus: "1:39.04",
     Asphodel: "1:24.26",
@@ -15602,6 +17161,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.94",
     Tartarus: "1:25.66",
     Asphodel: "1:13.86",
@@ -15612,6 +17172,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.95",
     Tartarus: "2:01.29",
     Asphodel: "1:15.97",
@@ -15622,6 +17183,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.96",
     Tartarus: "1:33.81",
     Asphodel: "1:11.02",
@@ -15632,6 +17194,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:51.97",
     Tartarus: "1:30.08",
     Asphodel: "1:17.55",
@@ -15642,6 +17205,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.98",
     Tartarus: "1:36.67",
     Asphodel: "1:35.16",
@@ -15652,6 +17216,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:51.99",
     Tartarus: "1:46.11",
     Asphodel: "1:28.43",
@@ -15662,6 +17227,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.00",
     Tartarus: "1:40.09",
     Asphodel: "1:26.01",
@@ -15672,6 +17238,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.01",
     Tartarus: "1:51.42",
     Asphodel: "1:25.17",
@@ -15682,6 +17249,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.01",
     Tartarus: "1:30.30",
     Asphodel: "1:27.17",
@@ -15692,6 +17260,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.02",
     Tartarus: "1:30.25",
     Asphodel: "1:21.32",
@@ -15702,6 +17271,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.04",
     Tartarus: "1:37.66",
     Asphodel: "1:36.85",
@@ -15712,6 +17282,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:52.04",
     Tartarus: "1:24.30",
     Asphodel: "1:16.61",
@@ -15722,6 +17293,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:52.07",
     Tartarus: "1:43.53",
     Asphodel: "1:23.36",
@@ -15732,6 +17304,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.07",
     Tartarus: "1:37.40",
     Asphodel: "1:26.28",
@@ -15742,6 +17315,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.08",
     Tartarus: "1:30.84",
     Asphodel: "1:30.29",
@@ -15752,6 +17326,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.09",
     Tartarus: "1:37.01",
     Asphodel: "1:24.17",
@@ -15762,6 +17337,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.10",
     Tartarus: "1:31.09",
     Asphodel: "1:15.75",
@@ -15772,6 +17348,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:52.12",
     Tartarus: "1:40.98",
     Asphodel: "1:21.58",
@@ -15782,6 +17359,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.13",
     Tartarus: "1:36.57",
     Asphodel: "1:22.33",
@@ -15792,6 +17370,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:52.14",
     Tartarus: "1:38.77",
     Asphodel: "1:33.34",
@@ -15802,6 +17381,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.14",
     Tartarus: "1:47.15",
     Asphodel: "1:10.22",
@@ -15812,6 +17392,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.15",
     Tartarus: "1:54.40",
     Asphodel: "1:17.53",
@@ -15822,6 +17403,7 @@ export const rawData2 = [
   {
     Player: "Oshimia",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.16",
     Tartarus: "1:28.28",
     Asphodel: "1:27.41",
@@ -15832,6 +17414,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:52.18",
     Tartarus: "1:42.30",
     Asphodel: "1:00.28",
@@ -15842,6 +17425,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.21",
     Tartarus: "1:35.72",
     Asphodel: "1:40.51",
@@ -15852,6 +17436,7 @@ export const rawData2 = [
   {
     Player: "oldmcjonald",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.23",
     Tartarus: "1:44.99",
     Asphodel: "1:18.68",
@@ -15862,6 +17447,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.24",
     Tartarus: "1:34.27",
     Asphodel: "1:28.53",
@@ -15872,6 +17458,7 @@ export const rawData2 = [
   {
     Player: "EinsteinsBarber",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.24",
     Tartarus: "1:40.15",
     Asphodel: "1:20.34",
@@ -15882,6 +17469,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.28",
     Tartarus: "1:43.61",
     Asphodel: "1:03.01",
@@ -15892,6 +17480,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:52.30",
     Tartarus: "1:53.20",
     Asphodel: "1:14.71",
@@ -15902,6 +17491,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:52.33",
     Tartarus: "1:47.46",
     Asphodel: "1:18.40",
@@ -15912,6 +17502,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.33",
     Tartarus: "1:39.42",
     Asphodel: "1:09.36",
@@ -15922,6 +17513,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:52.34",
     Tartarus: "1:52.89",
     Asphodel: "1:14.79",
@@ -15932,6 +17524,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:52.35",
     Tartarus: "1:33.90",
     Asphodel: "1:37.46",
@@ -15942,6 +17535,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:52.35",
     Tartarus: "1:34.40",
     Asphodel: "1:23.68",
@@ -15952,6 +17546,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.36",
     Tartarus: "1:39.78",
     Asphodel: "1:35.72",
@@ -15962,6 +17557,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.37",
     Tartarus: "1:45.69",
     Asphodel: "1:16.00",
@@ -15972,6 +17568,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.37",
     Tartarus: "1:41.53",
     Asphodel: "1:26.63",
@@ -15982,6 +17579,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.38",
     Tartarus: "1:41.16",
     Asphodel: "1:16.16",
@@ -15992,6 +17590,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.38",
     Tartarus: "1:35.02",
     Asphodel: "1:21.49",
@@ -16002,6 +17601,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.40",
     Tartarus: "1:40.40",
     Asphodel: "1:12.39",
@@ -16012,6 +17612,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.42",
     Tartarus: "1:58.48",
     Asphodel: "1:26.48",
@@ -16022,6 +17623,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.44",
     Tartarus: "1:30.29",
     Asphodel: "1:44.20",
@@ -16032,6 +17634,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:52.45",
     Tartarus: "1:37.27",
     Asphodel: "1:28.65",
@@ -16042,6 +17645,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:52.45",
     Tartarus: "1:46.82",
     Asphodel: "1:20.29",
@@ -16052,6 +17656,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.45",
     Tartarus: "1:28.42",
     Asphodel: "1:35.85",
@@ -16062,6 +17667,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.47",
     Tartarus: "1:48.41",
     Asphodel: "0:58.64",
@@ -16072,6 +17678,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.47",
     Tartarus: "1:50.81",
     Asphodel: "1:16.93",
@@ -16082,6 +17689,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:52.49",
     Tartarus: "2:02.11",
     Asphodel: "1:14.16",
@@ -16092,6 +17700,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.49",
     Tartarus: "1:40.95",
     Asphodel: "1:10.09",
@@ -16102,6 +17711,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.52",
     Tartarus: "1:39.36",
     Asphodel: "1:21.36",
@@ -16112,6 +17722,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.54",
     Tartarus: "1:47.78",
     Asphodel: "1:21.95",
@@ -16122,6 +17733,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.54",
     Tartarus: "1:42.88",
     Asphodel: "1:40.87",
@@ -16132,6 +17744,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.56",
     Tartarus: "1:31.24",
     Asphodel: "1:36.50",
@@ -16142,6 +17755,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:52.56",
     Tartarus: "1:39.42",
     Asphodel: "1:26.00",
@@ -16152,6 +17766,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.56",
     Tartarus: "1:39.97",
     Asphodel: "1:30.35",
@@ -16162,6 +17777,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.56",
     Tartarus: "1:39.97",
     Asphodel: "1:18.31",
@@ -16172,6 +17788,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.58",
     Tartarus: "1:50.32",
     Asphodel: "1:13.79",
@@ -16182,6 +17799,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:52.60",
     Tartarus: "1:49.44",
     Asphodel: "1:23.70",
@@ -16192,6 +17810,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.60",
     Tartarus: "1:35.47",
     Asphodel: "1:29.14",
@@ -16202,6 +17821,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.63",
     Tartarus: "1:54.63",
     Asphodel: "1:13.52",
@@ -16212,6 +17832,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.66",
     Tartarus: "1:33.81",
     Asphodel: "1:17.36",
@@ -16222,6 +17843,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:52.66",
     Tartarus: "",
     Asphodel: "",
@@ -16232,6 +17854,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:52.66",
     Tartarus: "1:41.14",
     Asphodel: "1:23.49",
@@ -16242,6 +17865,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.67",
     Tartarus: "1:56.43",
     Asphodel: "1:24.95",
@@ -16252,6 +17876,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.68",
     Tartarus: "1:40.68",
     Asphodel: "1:24.55",
@@ -16262,6 +17887,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.68",
     Tartarus: "1:46.30",
     Asphodel: "1:24.06",
@@ -16272,6 +17898,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.69",
     Tartarus: "1:39.91",
     Asphodel: "1:20.79",
@@ -16282,6 +17909,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:52.70",
     Tartarus: "1:29.98",
     Asphodel: "1:22.60",
@@ -16292,6 +17920,7 @@ export const rawData2 = [
   {
     Player: "_sev",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:52.70",
     Tartarus: "1:28.29",
     Asphodel: "1:09.97",
@@ -16302,6 +17931,7 @@ export const rawData2 = [
   {
     Player: "hooly",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:52.71",
     Tartarus: "1:51.69",
     Asphodel: "1:00.31",
@@ -16312,6 +17942,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.71",
     Tartarus: "1:27.88",
     Asphodel: "1:25.79",
@@ -16322,6 +17953,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.72",
     Tartarus: "1:31.67",
     Asphodel: "1:47.61",
@@ -16332,6 +17964,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.73",
     Tartarus: "2:07.07",
     Asphodel: "1:05.26",
@@ -16342,6 +17975,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:52.74",
     Tartarus: "1:44.15",
     Asphodel: "1:14.33",
@@ -16352,6 +17986,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.74",
     Tartarus: "1:45.28",
     Asphodel: "1:20.21",
@@ -16362,6 +17997,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.76",
     Tartarus: "1:36.60",
     Asphodel: "0:47.91",
@@ -16372,6 +18008,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.78",
     Tartarus: "1:37.22",
     Asphodel: "1:21.45",
@@ -16382,6 +18019,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.79",
     Tartarus: "1:29.19",
     Asphodel: "1:39.57",
@@ -16392,6 +18030,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.80",
     Tartarus: "1:27.39",
     Asphodel: "1:26.86",
@@ -16402,6 +18041,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.80",
     Tartarus: "1:46.32",
     Asphodel: "1:14.14",
@@ -16412,6 +18052,7 @@ export const rawData2 = [
   {
     Player: "Timothy_Lincecum",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.82",
     Tartarus: "1:32.61",
     Asphodel: "1:31.85",
@@ -16422,6 +18063,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.82",
     Tartarus: "1:49.41",
     Asphodel: "1:16.80",
@@ -16432,6 +18074,7 @@ export const rawData2 = [
   {
     Player: "Nuhai",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:52.83",
     Tartarus: "1:45.67",
     Asphodel: "1:02.62",
@@ -16442,6 +18085,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.86",
     Tartarus: "1:49.67",
     Asphodel: "1:11.40",
@@ -16452,6 +18096,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.87",
     Tartarus: "1:27.17",
     Asphodel: "1:32.18",
@@ -16462,6 +18107,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.92",
     Tartarus: "1:37.18",
     Asphodel: "1:24.35",
@@ -16472,6 +18118,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.94",
     Tartarus: "1:41.87",
     Asphodel: "1:08.17",
@@ -16482,6 +18129,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.95",
     Tartarus: "1:40.96",
     Asphodel: "1:08.71",
@@ -16492,6 +18140,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.96",
     Tartarus: "1:33.73",
     Asphodel: "1:25.94",
@@ -16502,6 +18151,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.97",
     Tartarus: "1:28.74",
     Asphodel: "1:22.09",
@@ -16512,6 +18162,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.97",
     Tartarus: "1:34.30",
     Asphodel: "1:05.96",
@@ -16522,6 +18173,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:52.97",
     Tartarus: "1:46.08",
     Asphodel: "1:31.16",
@@ -16532,6 +18184,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.00",
     Tartarus: "1:46.64",
     Asphodel: "1:24.96",
@@ -16542,6 +18195,7 @@ export const rawData2 = [
   {
     Player: "orangesya",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.01",
     Tartarus: "1:54.68",
     Asphodel: "1:18.16",
@@ -16552,6 +18206,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.05",
     Tartarus: "1:40.43",
     Asphodel: "1:27.82",
@@ -16562,6 +18217,7 @@ export const rawData2 = [
   {
     Player: "ghostyboyy97",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:53.06",
     Tartarus: "1:28.37",
     Asphodel: "1:22.40",
@@ -16572,6 +18228,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.07",
     Tartarus: "1:42.85",
     Asphodel: "1:22.48",
@@ -16582,6 +18239,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:53.08",
     Tartarus: "1:43.13",
     Asphodel: "1:14.91",
@@ -16592,6 +18250,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.09",
     Tartarus: "1:33.24",
     Asphodel: "1:29.40",
@@ -16602,6 +18261,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.10",
     Tartarus: "1:32.16",
     Asphodel: "1:05.97",
@@ -16612,6 +18272,7 @@ export const rawData2 = [
   {
     Player: "Nuhai",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:53.13",
     Tartarus: "1:29.84",
     Asphodel: "1:24.13",
@@ -16622,6 +18283,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.17",
     Tartarus: "1:49.19",
     Asphodel: "1:17.12",
@@ -16632,6 +18294,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.17",
     Tartarus: "1:51.79",
     Asphodel: "1:35.62",
@@ -16642,6 +18305,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:53.18",
     Tartarus: "1:37.04",
     Asphodel: "1:27.16",
@@ -16652,6 +18316,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.18",
     Tartarus: "1:44.33",
     Asphodel: "1:18.58",
@@ -16662,6 +18327,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:53.18",
     Tartarus: "1:35.82",
     Asphodel: "1:29.23",
@@ -16672,6 +18338,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.19",
     Tartarus: "1:38.13",
     Asphodel: "1:06.72",
@@ -16682,6 +18349,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:53.19",
     Tartarus: "1:48.17",
     Asphodel: "1:11.44",
@@ -16692,6 +18360,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.20",
     Tartarus: "1:23.94",
     Asphodel: "1:16.59",
@@ -16702,6 +18371,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:53.21",
     Tartarus: "1:46.23",
     Asphodel: "1:19.63",
@@ -16712,6 +18382,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:53.22",
     Tartarus: "1:35.44",
     Asphodel: "1:29.29",
@@ -16722,6 +18393,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:53.23",
     Tartarus: "1:44.66",
     Asphodel: "1:11.12",
@@ -16732,6 +18404,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.24",
     Tartarus: "1:45.16",
     Asphodel: "1:21.45",
@@ -16742,6 +18415,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.27",
     Tartarus: "1:31.89",
     Asphodel: "1:22.19",
@@ -16752,6 +18426,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.28",
     Tartarus: "1:58.80",
     Asphodel: "1:03.73",
@@ -16762,6 +18437,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.31",
     Tartarus: "1:48.41",
     Asphodel: "1:10.11",
@@ -16772,6 +18448,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.31",
     Tartarus: "1:34.85",
     Asphodel: "1:26.36",
@@ -16782,6 +18459,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.32",
     Tartarus: "1:49.72",
     Asphodel: "1:25.24",
@@ -16792,6 +18470,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.33",
     Tartarus: "1:35.49",
     Asphodel: "1:16.64",
@@ -16801,7 +18480,8 @@ export const rawData2 = [
   },
   {
     Player: "Zyruvias",
-    Aspect: "Zag Fists",
+    Aspect: "Zagreus-Fists",
+    Ring: "pink",
     Clear: "5:53.33",
     Tartarus: "1:39.90",
     Asphodel: "1:21.16",
@@ -16812,6 +18492,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.34",
     Tartarus: "1:21.44",
     Asphodel: "1:29.90",
@@ -16822,6 +18503,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.35",
     Tartarus: "1:52.63",
     Asphodel: "1:15.54",
@@ -16832,6 +18514,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:53.37",
     Tartarus: "1:38.59",
     Asphodel: "1:04.92",
@@ -16842,6 +18525,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.37",
     Tartarus: "1:44.79",
     Asphodel: "1:12.64",
@@ -16852,6 +18536,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.38",
     Tartarus: "1:50.33",
     Asphodel: "1:23.94",
@@ -16862,6 +18547,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.38",
     Tartarus: "1:42.79",
     Asphodel: "1:26.84",
@@ -16872,6 +18558,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.39",
     Tartarus: "1:44.22",
     Asphodel: "1:19.52",
@@ -16882,6 +18569,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.39",
     Tartarus: "1:42.12",
     Asphodel: "1:19.63",
@@ -16892,6 +18580,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.40",
     Tartarus: "1:34.51",
     Asphodel: "1:19.06",
@@ -16902,6 +18591,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.42",
     Tartarus: "1:37.43",
     Asphodel: "1:32.84",
@@ -16912,6 +18602,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.42",
     Tartarus: "1:41.31",
     Asphodel: "1:19.56",
@@ -16922,6 +18613,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.42",
     Tartarus: "1:42.71",
     Asphodel: "1:11.08",
@@ -16932,6 +18624,7 @@ export const rawData2 = [
   {
     Player: "ocaml_ocaml",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:53.43",
     Tartarus: "1:41.67",
     Asphodel: "1:15.98",
@@ -16942,6 +18635,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:53.44",
     Tartarus: "1:46.07",
     Asphodel: "1:08.20",
@@ -16952,6 +18646,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.44",
     Tartarus: "1:30.87",
     Asphodel: "1:25.59",
@@ -16962,6 +18657,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.46",
     Tartarus: "1:43.35",
     Asphodel: "1:20.51",
@@ -16972,6 +18668,7 @@ export const rawData2 = [
   {
     Player: "eappleton1",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.48",
     Tartarus: "1:32.68",
     Asphodel: "1:21.35",
@@ -16982,6 +18679,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:53.48",
     Tartarus: "1:30.46",
     Asphodel: "1:11.33",
@@ -16992,6 +18690,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:53.48",
     Tartarus: "1:34.69",
     Asphodel: "1:27.05",
@@ -17002,6 +18701,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.49",
     Tartarus: "1:49.77",
     Asphodel: "1:12.16",
@@ -17012,6 +18712,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.52",
     Tartarus: "1:33.60",
     Asphodel: "1:24.22",
@@ -17022,6 +18723,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.53",
     Tartarus: "1:35.40",
     Asphodel: "1:11.42",
@@ -17032,6 +18734,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:53.53",
     Tartarus: "1:40.92",
     Asphodel: "1:16.79",
@@ -17042,6 +18745,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:53.55",
     Tartarus: "1:30.07",
     Asphodel: "1:33.46",
@@ -17052,6 +18756,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:53.55",
     Tartarus: "1:48.92",
     Asphodel: "1:11.60",
@@ -17062,6 +18767,7 @@ export const rawData2 = [
   {
     Player: "Nuhai",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:53.61",
     Tartarus: "2:03.38",
     Asphodel: "1:10.09",
@@ -17072,6 +18778,7 @@ export const rawData2 = [
   {
     Player: "Nalei",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.61",
     Tartarus: "1:49.67",
     Asphodel: "1:25.16",
@@ -17082,6 +18789,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.61",
     Tartarus: "1:55.26",
     Asphodel: "1:15.20",
@@ -17092,6 +18800,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.62",
     Tartarus: "1:44.41",
     Asphodel: "1:12.58",
@@ -17102,6 +18811,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:53.63",
     Tartarus: "1:59.59",
     Asphodel: "1:11.09",
@@ -17112,6 +18822,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.64",
     Tartarus: "1:43.01",
     Asphodel: "1:22.42",
@@ -17122,6 +18833,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.64",
     Tartarus: "1:33.63",
     Asphodel: "1:28.44",
@@ -17132,6 +18844,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.65",
     Tartarus: "1:41.27",
     Asphodel: "1:26.77",
@@ -17141,7 +18854,8 @@ export const rawData2 = [
   },
   {
     Player: "Zyruvias",
-    Aspect: "Zag Spear",
+    Aspect: "Zagreus-Spear",
+    Ring: "purple",
     Clear: "5:53.66",
     Tartarus: "1:51.44",
     Asphodel: "1:21.22",
@@ -17152,6 +18866,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:53.68",
     Tartarus: "1:37.60",
     Asphodel: "1:46.90",
@@ -17162,6 +18877,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.69",
     Tartarus: "1:35.85",
     Asphodel: "1:04.37",
@@ -17172,6 +18888,7 @@ export const rawData2 = [
   {
     Player: "bright01",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.69",
     Tartarus: "1:44.47",
     Asphodel: "1:32.91",
@@ -17182,6 +18899,7 @@ export const rawData2 = [
   {
     Player: "Pancake",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.69",
     Tartarus: "1:42.36",
     Asphodel: "1:44.40",
@@ -17192,6 +18910,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.70",
     Tartarus: "1:36.85",
     Asphodel: "1:12.71",
@@ -17202,6 +18921,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.70",
     Tartarus: "1:46.78",
     Asphodel: "1:31.34",
@@ -17212,6 +18932,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.71",
     Tartarus: "1:56.19",
     Asphodel: "1:28.12",
@@ -17222,6 +18943,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.71",
     Tartarus: "2:00.33",
     Asphodel: "1:16.57",
@@ -17232,6 +18954,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:53.71",
     Tartarus: "1:47.98",
     Asphodel: "1:09.00",
@@ -17242,6 +18965,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.73",
     Tartarus: "1:59.87",
     Asphodel: "1:13.79",
@@ -17252,6 +18976,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.76",
     Tartarus: "1:29.52",
     Asphodel: "1:19.91",
@@ -17262,6 +18987,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:53.78",
     Tartarus: "1:45.64",
     Asphodel: "1:11.05",
@@ -17272,6 +18998,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.78",
     Tartarus: "1:50.66",
     Asphodel: "1:15.67",
@@ -17282,6 +19009,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:53.80",
     Tartarus: "1:42.92",
     Asphodel: "1:09.74",
@@ -17292,6 +19020,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.80",
     Tartarus: "1:28.61",
     Asphodel: "1:40.13",
@@ -17302,6 +19031,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.80",
     Tartarus: "1:43.64",
     Asphodel: "1:15.12",
@@ -17312,6 +19042,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.81",
     Tartarus: "1:37.56",
     Asphodel: "1:21.80",
@@ -17321,7 +19052,8 @@ export const rawData2 = [
   },
   {
     Player: "Zyruvias",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus-Sword",
+    Ring: "red",
     Clear: "5:53.82",
     Tartarus: "1:38.30",
     Asphodel: "1:10.55",
@@ -17332,6 +19064,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.82",
     Tartarus: "1:40.65",
     Asphodel: "1:41.31",
@@ -17342,6 +19075,7 @@ export const rawData2 = [
   {
     Player: "Nalei",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.82",
     Tartarus: "1:55.70",
     Asphodel: "1:04.40",
@@ -17352,6 +19086,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.83",
     Tartarus: "1:36.55",
     Asphodel: "1:20.46",
@@ -17362,6 +19097,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.83",
     Tartarus: "1:35.42",
     Asphodel: "1:04.85",
@@ -17372,6 +19108,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.83",
     Tartarus: "1:44.50",
     Asphodel: "1:24.75",
@@ -17382,6 +19119,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.84",
     Tartarus: "1:36.26",
     Asphodel: "1:20.84",
@@ -17392,6 +19130,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.85",
     Tartarus: "1:44.13",
     Asphodel: "1:24.78",
@@ -17402,6 +19141,7 @@ export const rawData2 = [
   {
     Player: "grizz141",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.85",
     Tartarus: "2:01.57",
     Asphodel: "1:12.56",
@@ -17412,6 +19152,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:53.86",
     Tartarus: "1:37.66",
     Asphodel: "1:24.85",
@@ -17422,6 +19163,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.86",
     Tartarus: "1:35.54",
     Asphodel: "1:34.94",
@@ -17432,6 +19174,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.86",
     Tartarus: "1:52.61",
     Asphodel: "1:19.99",
@@ -17442,6 +19185,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.88",
     Tartarus: "1:54.19",
     Asphodel: "1:18.39",
@@ -17452,6 +19196,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.88",
     Tartarus: "1:46.88",
     Asphodel: "1:16.88",
@@ -17462,6 +19207,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.90",
     Tartarus: "1:30.12",
     Asphodel: "1:17.64",
@@ -17472,6 +19218,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.91",
     Tartarus: "1:47.90",
     Asphodel: "1:34.02",
@@ -17482,6 +19229,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:53.91",
     Tartarus: "1:36.38",
     Asphodel: "1:24.90",
@@ -17492,6 +19240,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.94",
     Tartarus: "1:42.51",
     Asphodel: "1:29.03",
@@ -17502,6 +19251,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.94",
     Tartarus: "1:41.78",
     Asphodel: "1:02.93",
@@ -17512,6 +19262,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.96",
     Tartarus: "1:41.36",
     Asphodel: "1:28.13",
@@ -17522,6 +19273,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:53.96",
     Tartarus: "1:53.36",
     Asphodel: "1:28.90",
@@ -17532,6 +19284,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.97",
     Tartarus: "1:41.31",
     Asphodel: "1:05.80",
@@ -17542,6 +19295,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.98",
     Tartarus: "1:33.93",
     Asphodel: "1:24.16",
@@ -17552,6 +19306,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.98",
     Tartarus: "1:41.81",
     Asphodel: "1:17.12",
@@ -17562,6 +19317,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:53.99",
     Tartarus: "1:50.94",
     Asphodel: "1:26.65",
@@ -17572,6 +19328,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:54.00",
     Tartarus: "1:45.00",
     Asphodel: "1:18.00",
@@ -17582,6 +19339,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.00",
     Tartarus: "1:39.29",
     Asphodel: "1:13.80",
@@ -17592,6 +19350,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.03",
     Tartarus: "1:42.74",
     Asphodel: "1:11.49",
@@ -17602,6 +19361,7 @@ export const rawData2 = [
   {
     Player: "arcalena",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:54.04",
     Tartarus: "1:34.39",
     Asphodel: "1:27.45",
@@ -17612,6 +19372,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.04",
     Tartarus: "1:32.01",
     Asphodel: "1:14.96",
@@ -17622,6 +19383,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:54.06",
     Tartarus: "2:00.14",
     Asphodel: "1:03.99",
@@ -17632,6 +19394,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.06",
     Tartarus: "1:31.50",
     Asphodel: "1:02.22",
@@ -17642,6 +19405,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:54.06",
     Tartarus: "1:51.14",
     Asphodel: "1:10.07",
@@ -17652,6 +19416,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:54.07",
     Tartarus: "1:39.73",
     Asphodel: "1:06.50",
@@ -17662,6 +19427,7 @@ export const rawData2 = [
   {
     Player: "Dicealot",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.07",
     Tartarus: "1:56.96",
     Asphodel: "1:21.49",
@@ -17672,6 +19438,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.10",
     Tartarus: "1:36.30",
     Asphodel: "1:24.46",
@@ -17682,6 +19449,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.11",
     Tartarus: "1:34.98",
     Asphodel: "1:08.97",
@@ -17692,6 +19460,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.13",
     Tartarus: "1:44.69",
     Asphodel: "1:17.63",
@@ -17702,6 +19471,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.13",
     Tartarus: "1:43.54",
     Asphodel: "1:19.85",
@@ -17712,6 +19482,7 @@ export const rawData2 = [
   {
     Player: "bright01",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:54.14",
     Tartarus: "1:37.05",
     Asphodel: "1:18.88",
@@ -17722,6 +19493,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:54.14",
     Tartarus: "1:40.79",
     Asphodel: "1:25.71",
@@ -17732,6 +19504,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.14",
     Tartarus: "1:43.98",
     Asphodel: "1:26.01",
@@ -17742,6 +19515,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:54.15",
     Tartarus: "1:39.19",
     Asphodel: "1:03.98",
@@ -17752,6 +19526,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Talos",
+    Ring: "purple",
     Clear: "5:54.15",
     Tartarus: "1:33.79",
     Asphodel: "1:17.39",
@@ -17761,7 +19536,8 @@ export const rawData2 = [
   },
   {
     Player: "Croven",
-    Aspect: "Zag Bow",
+    Aspect: "Zagreus-Bow",
+    Ring: "blue",
     Clear: "5:54.16",
     Tartarus: "1:36.36",
     Asphodel: "1:08.53",
@@ -17772,6 +19548,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.17",
     Tartarus: "2:06.40",
     Asphodel: "1:01.94",
@@ -17782,6 +19559,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.17",
     Tartarus: "1:52.56",
     Asphodel: "1:19.45",
@@ -17792,6 +19570,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.18",
     Tartarus: "1:39.78",
     Asphodel: "1:29.23",
@@ -17802,6 +19581,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.18",
     Tartarus: "1:29.35",
     Asphodel: "1:28.80",
@@ -17812,6 +19592,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.18",
     Tartarus: "1:22.52",
     Asphodel: "1:24.00",
@@ -17822,6 +19603,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.19",
     Tartarus: "1:32.68",
     Asphodel: "1:40.28",
@@ -17832,6 +19614,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:54.20",
     Tartarus: "1:40.56",
     Asphodel: "1:22.68",
@@ -17842,6 +19625,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:54.22",
     Tartarus: "1:40.95",
     Asphodel: "1:22.09",
@@ -17852,6 +19636,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:54.23",
     Tartarus: "1:52.10",
     Asphodel: "1:18.26",
@@ -17862,6 +19647,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:54.24",
     Tartarus: "1:26.87",
     Asphodel: "1:06.97",
@@ -17872,6 +19658,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.25",
     Tartarus: "1:49.94",
     Asphodel: "1:27.05",
@@ -17882,6 +19669,7 @@ export const rawData2 = [
   {
     Player: "dunkindio",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.25",
     Tartarus: "1:57.51",
     Asphodel: "1:03.14",
@@ -17892,6 +19680,7 @@ export const rawData2 = [
   {
     Player: "EinsteinsBarber",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.27",
     Tartarus: "1:48.42",
     Asphodel: "1:40.52",
@@ -17902,6 +19691,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.28",
     Tartarus: "1:40.21",
     Asphodel: "1:25.01",
@@ -17912,6 +19702,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.28",
     Tartarus: "1:45.18",
     Asphodel: "1:19.73",
@@ -17922,6 +19713,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.29",
     Tartarus: "1:39.85",
     Asphodel: "1:15.26",
@@ -17932,6 +19724,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:54.30",
     Tartarus: "1:46.81",
     Asphodel: "1:23.98",
@@ -17942,6 +19735,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.31",
     Tartarus: "1:42.14",
     Asphodel: "1:32.78",
@@ -17952,6 +19746,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Poseidon",
+    Ring: "green",
     Clear: "5:54.32",
     Tartarus: "1:40.42",
     Asphodel: "1:19.69",
@@ -17962,6 +19757,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:54.34",
     Tartarus: "1:54.09",
     Asphodel: "1:16.44",
@@ -17972,6 +19768,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.36",
     Tartarus: "1:39.04",
     Asphodel: "0:58.76",
@@ -17982,6 +19779,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.37",
     Tartarus: "1:40.55",
     Asphodel: "1:37.37",
@@ -17992,6 +19790,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.37",
     Tartarus: "1:59.71",
     Asphodel: "1:16.87",
@@ -18002,6 +19801,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:54.37",
     Tartarus: "1:37.12",
     Asphodel: "1:19.00",
@@ -18012,6 +19812,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:54.38",
     Tartarus: "1:56.08",
     Asphodel: "1:16.22",
@@ -18022,6 +19823,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.38",
     Tartarus: "1:43.11",
     Asphodel: "1:29.02",
@@ -18032,6 +19834,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.38",
     Tartarus: "1:40.16",
     Asphodel: "1:33.24",
@@ -18042,6 +19845,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.41",
     Tartarus: "1:28.46",
     Asphodel: "1:29.66",
@@ -18052,6 +19856,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.42",
     Tartarus: "1:48.75",
     Asphodel: "1:16.84",
@@ -18062,6 +19867,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:54.43",
     Tartarus: "1:43.36",
     Asphodel: "1:13.93",
@@ -18072,6 +19878,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.43",
     Tartarus: "1:51.38",
     Asphodel: "1:29.39",
@@ -18082,6 +19889,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.44",
     Tartarus: "1:43.93",
     Asphodel: "1:19.80",
@@ -18092,6 +19900,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.44",
     Tartarus: "1:39.62",
     Asphodel: "1:36.18",
@@ -18102,6 +19911,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.45",
     Tartarus: "1:40.25",
     Asphodel: "1:17.85",
@@ -18112,6 +19922,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:54.48",
     Tartarus: "1:31.61",
     Asphodel: "1:24.30",
@@ -18122,6 +19933,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.49",
     Tartarus: "1:38.33",
     Asphodel: "1:18.59",
@@ -18132,6 +19944,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.49",
     Tartarus: "1:57.14",
     Asphodel: "1:13.98",
@@ -18142,6 +19955,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:54.51",
     Tartarus: "1:51.33",
     Asphodel: "0:57.90",
@@ -18152,6 +19966,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Chiron",
+    Ring: "yellow",
     Clear: "5:54.51",
     Tartarus: "1:21.03",
     Asphodel: "1:27.67",
@@ -18162,6 +19977,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.55",
     Tartarus: "1:55.30",
     Asphodel: "1:25.26",
@@ -18172,6 +19988,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:54.56",
     Tartarus: "1:36.49",
     Asphodel: "1:14.77",
@@ -18182,6 +19999,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.57",
     Tartarus: "1:41.10",
     Asphodel: "1:13.94",
@@ -18192,6 +20010,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.61",
     Tartarus: "1:28.60",
     Asphodel: "1:40.50",
@@ -18202,6 +20021,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:54.61",
     Tartarus: "1:49.70",
     Asphodel: "1:32.37",
@@ -18212,6 +20032,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.62",
     Tartarus: "1:38.88",
     Asphodel: "1:31.10",
@@ -18222,6 +20043,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.62",
     Tartarus: "1:37.85",
     Asphodel: "1:11.28",
@@ -18232,6 +20054,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.62",
     Tartarus: "1:39.39",
     Asphodel: "0:52.67",
@@ -18242,6 +20065,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.64",
     Tartarus: "1:41.03",
     Asphodel: "1:18.78",
@@ -18252,6 +20076,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:54.64",
     Tartarus: "1:56.19",
     Asphodel: "1:32.07",
@@ -18262,6 +20087,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:54.65",
     Tartarus: "1:33.11",
     Asphodel: "1:25.76",
@@ -18272,6 +20098,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.65",
     Tartarus: "1:37.43",
     Asphodel: "1:12.44",
@@ -18282,6 +20109,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.67",
     Tartarus: "1:48.96",
     Asphodel: "1:25.69",
@@ -18292,6 +20120,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.67",
     Tartarus: "1:43.27",
     Asphodel: "1:25.09",
@@ -18302,6 +20131,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.68",
     Tartarus: "1:36.84",
     Asphodel: "1:17.05",
@@ -18312,6 +20142,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.70",
     Tartarus: "1:41.88",
     Asphodel: "1:08.48",
@@ -18322,6 +20153,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:54.71",
     Tartarus: "1:30.73",
     Asphodel: "1:32.99",
@@ -18332,6 +20164,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.71",
     Tartarus: "1:34.31",
     Asphodel: "1:25.51",
@@ -18342,6 +20175,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:54.72",
     Tartarus: "1:59.21",
     Asphodel: "1:10.12",
@@ -18352,6 +20186,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:54.72",
     Tartarus: "1:49.02",
     Asphodel: "1:12.89",
@@ -18362,6 +20197,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.72",
     Tartarus: "1:42.07",
     Asphodel: "1:18.16",
@@ -18372,6 +20208,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.74",
     Tartarus: "1:43.35",
     Asphodel: "1:24.95",
@@ -18382,6 +20219,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.77",
     Tartarus: "1:55.47",
     Asphodel: "1:12.23",
@@ -18392,6 +20230,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.77",
     Tartarus: "1:46.31",
     Asphodel: "1:11.13",
@@ -18402,6 +20241,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:54.78",
     Tartarus: "1:33.22",
     Asphodel: "1:10.74",
@@ -18412,6 +20252,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.79",
     Tartarus: "1:31.49",
     Asphodel: "1:09.28",
@@ -18422,6 +20263,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:54.81",
     Tartarus: "1:38.42",
     Asphodel: "1:02.82",
@@ -18432,6 +20274,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:54.81",
     Tartarus: "1:41.74",
     Asphodel: "1:08.24",
@@ -18442,6 +20285,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.81",
     Tartarus: "1:48.84",
     Asphodel: "1:10.90",
@@ -18452,6 +20296,7 @@ export const rawData2 = [
   {
     Player: "Timothy_Lincecum",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.83",
     Tartarus: "1:31.36",
     Asphodel: "1:28.72",
@@ -18462,6 +20307,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:54.84",
     Tartarus: "1:37.75",
     Asphodel: "1:30.31",
@@ -18472,6 +20318,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:54.84",
     Tartarus: "1:41.54",
     Asphodel: "1:16.70",
@@ -18482,6 +20329,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Lucifer",
+    Ring: "yellow",
     Clear: "5:54.85",
     Tartarus: "1:33.25",
     Asphodel: "1:21.66",
@@ -18492,6 +20340,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.86",
     Tartarus: "2:04.82",
     Asphodel: "1:14.69",
@@ -18502,6 +20351,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.87",
     Tartarus: "1:48.27",
     Asphodel: "1:28.62",
@@ -18511,7 +20361,8 @@ export const rawData2 = [
   },
   {
     Player: "DrkFrst",
-    Aspect: "Zag Fists",
+    Aspect: "Zagreus-Fists",
+    Ring: "pink",
     Clear: "5:54.88",
     Tartarus: "1:52.43",
     Asphodel: "1:22.19",
@@ -18522,6 +20373,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.88",
     Tartarus: "1:44.57",
     Asphodel: "1:18.12",
@@ -18532,6 +20384,7 @@ export const rawData2 = [
   {
     Player: "Wriste13",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.90",
     Tartarus: "1:24.32",
     Asphodel: "1:14.72",
@@ -18542,6 +20395,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.91",
     Tartarus: "2:25.53",
     Asphodel: "1:01.45",
@@ -18552,6 +20406,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.91",
     Tartarus: "1:34.48",
     Asphodel: "1:10.50",
@@ -18562,6 +20417,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.92",
     Tartarus: "1:51.31",
     Asphodel: "1:12.77",
@@ -18572,6 +20428,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.92",
     Tartarus: "1:46.28",
     Asphodel: "1:04.51",
@@ -18582,6 +20439,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.92",
     Tartarus: "1:29.72",
     Asphodel: "1:32.53",
@@ -18592,6 +20450,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:54.97",
     Tartarus: "1:35.02",
     Asphodel: "1:16.33",
@@ -18602,6 +20461,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.02",
     Tartarus: "1:39.01",
     Asphodel: "1:27.96",
@@ -18612,6 +20472,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:55.04",
     Tartarus: "1:36.95",
     Asphodel: "1:11.96",
@@ -18622,6 +20483,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.04",
     Tartarus: "1:46.86",
     Asphodel: "1:15.75",
@@ -18632,6 +20494,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.07",
     Tartarus: "1:38.77",
     Asphodel: "1:21.15",
@@ -18642,6 +20505,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:55.09",
     Tartarus: "1:53.95",
     Asphodel: "1:23.08",
@@ -18652,6 +20516,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.09",
     Tartarus: "1:28.24",
     Asphodel: "1:17.09",
@@ -18662,6 +20527,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.10",
     Tartarus: "1:43.72",
     Asphodel: "1:34.99",
@@ -18672,6 +20538,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.10",
     Tartarus: "1:39.39",
     Asphodel: "1:39.25",
@@ -18682,6 +20549,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.11",
     Tartarus: "1:35.78",
     Asphodel: "1:20.97",
@@ -18692,6 +20560,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.11",
     Tartarus: "1:33.24",
     Asphodel: "1:30.00",
@@ -18702,6 +20571,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.11",
     Tartarus: "1:36.78",
     Asphodel: "1:20.50",
@@ -18712,6 +20582,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.16",
     Tartarus: "1:47.33",
     Asphodel: "1:21.19",
@@ -18722,6 +20593,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:55.21",
     Tartarus: "1:48.00",
     Asphodel: "1:40.00",
@@ -18732,6 +20604,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.25",
     Tartarus: "1:32.83",
     Asphodel: "1:04.54",
@@ -18742,6 +20615,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.25",
     Tartarus: "1:35.39",
     Asphodel: "1:00.71",
@@ -18752,6 +20626,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.27",
     Tartarus: "1:26.31",
     Asphodel: "1:26.96",
@@ -18762,6 +20637,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.27",
     Tartarus: "1:36.38",
     Asphodel: "1:30.06",
@@ -18772,6 +20648,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.27",
     Tartarus: "1:40.55",
     Asphodel: "1:34.70",
@@ -18782,6 +20659,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.27",
     Tartarus: "1:19.25",
     Asphodel: "1:30.48",
@@ -18792,6 +20670,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.29",
     Tartarus: "1:31.65",
     Asphodel: "1:24.56",
@@ -18802,6 +20681,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.31",
     Tartarus: "1:48.06",
     Asphodel: "1:22.56",
@@ -18812,6 +20692,7 @@ export const rawData2 = [
   {
     Player: "kontra",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.32",
     Tartarus: "1:40.14",
     Asphodel: "1:25.67",
@@ -18822,6 +20703,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.33",
     Tartarus: "1:34.92",
     Asphodel: "1:15.61",
@@ -18832,6 +20714,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:55.33",
     Tartarus: "1:38.56",
     Asphodel: "1:01.76",
@@ -18842,6 +20725,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.34",
     Tartarus: "1:41.57",
     Asphodel: "1:25.86",
@@ -18852,6 +20736,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:55.34",
     Tartarus: "1:38.55",
     Asphodel: "1:16.98",
@@ -18862,6 +20747,7 @@ export const rawData2 = [
   {
     Player: "arcalena",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:55.34",
     Tartarus: "1:28.58",
     Asphodel: "1:32.17",
@@ -18872,6 +20758,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.35",
     Tartarus: "1:29.12",
     Asphodel: "1:23.20",
@@ -18882,6 +20769,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.36",
     Tartarus: "1:42.99",
     Asphodel: "1:05.93",
@@ -18892,6 +20780,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.37",
     Tartarus: "1:45.42",
     Asphodel: "1:28.81",
@@ -18902,6 +20791,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.39",
     Tartarus: "1:38.54",
     Asphodel: "1:20.25",
@@ -18912,6 +20802,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.40",
     Tartarus: "1:55.16",
     Asphodel: "1:20.78",
@@ -18922,6 +20813,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.40",
     Tartarus: "1:38.04",
     Asphodel: "1:25.00",
@@ -18932,6 +20824,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:55.40",
     Tartarus: "1:37.83",
     Asphodel: "1:17.03",
@@ -18942,6 +20835,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:55.42",
     Tartarus: "1:41.11",
     Asphodel: "1:18.94",
@@ -18952,6 +20846,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.42",
     Tartarus: "1:37.63",
     Asphodel: "1:19.63",
@@ -18962,6 +20857,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.45",
     Tartarus: "1:56.27",
     Asphodel: "1:30.13",
@@ -18972,6 +20868,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.47",
     Tartarus: "1:46.94",
     Asphodel: "1:21.87",
@@ -18982,6 +20879,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.47",
     Tartarus: "1:45.54",
     Asphodel: "1:33.74",
@@ -18992,6 +20890,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:55.48",
     Tartarus: "1:46.88",
     Asphodel: "1:25.97",
@@ -19002,6 +20901,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.48",
     Tartarus: "1:54.16",
     Asphodel: "1:21.64",
@@ -19012,6 +20912,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:55.49",
     Tartarus: "1:38.45",
     Asphodel: "1:04.38",
@@ -19022,6 +20923,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.49",
     Tartarus: "1:32.47",
     Asphodel: "1:23.56",
@@ -19032,6 +20934,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:55.49",
     Tartarus: "1:59.08",
     Asphodel: "1:07.22",
@@ -19042,6 +20945,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:55.50",
     Tartarus: "1:49.11",
     Asphodel: "1:26.13",
@@ -19052,6 +20956,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.50",
     Tartarus: "1:54.68",
     Asphodel: "1:18.63",
@@ -19062,6 +20967,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.51",
     Tartarus: "1:54.53",
     Asphodel: "1:11.93",
@@ -19072,6 +20978,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.52",
     Tartarus: "1:31.78",
     Asphodel: "1:15.44",
@@ -19082,6 +20989,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:55.52",
     Tartarus: "1:32.04",
     Asphodel: "1:14.01",
@@ -19092,6 +21000,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.52",
     Tartarus: "1:36.09",
     Asphodel: "1:23.17",
@@ -19102,6 +21011,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:55.53",
     Tartarus: "1:44.75",
     Asphodel: "1:23.13",
@@ -19112,6 +21022,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.53",
     Tartarus: "1:35.53",
     Asphodel: "1:16.11",
@@ -19122,6 +21033,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.55",
     Tartarus: "1:48.48",
     Asphodel: "1:21.95",
@@ -19132,6 +21044,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.57",
     Tartarus: "1:44.36",
     Asphodel: "1:09.86",
@@ -19142,6 +21055,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.59",
     Tartarus: "1:42.85",
     Asphodel: "1:22.85",
@@ -19152,6 +21066,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:55.61",
     Tartarus: "1:29.35",
     Asphodel: "1:17.75",
@@ -19162,6 +21077,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.61",
     Tartarus: "1:26.26",
     Asphodel: "1:11.89",
@@ -19172,6 +21088,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.61",
     Tartarus: "1:47.87",
     Asphodel: "1:09.36",
@@ -19182,6 +21099,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.64",
     Tartarus: "1:52.23",
     Asphodel: "1:07.02",
@@ -19192,6 +21110,7 @@ export const rawData2 = [
   {
     Player: "Nuhai",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:55.66",
     Tartarus: "1:55.73",
     Asphodel: "1:02.18",
@@ -19202,6 +21121,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.67",
     Tartarus: "1:28.86",
     Asphodel: "1:33.40",
@@ -19212,6 +21132,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.68",
     Tartarus: "1:44.54",
     Asphodel: "1:04.76",
@@ -19222,6 +21143,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.69",
     Tartarus: "1:40.11",
     Asphodel: "1:24.45",
@@ -19232,6 +21154,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.69",
     Tartarus: "1:42.87",
     Asphodel: "1:08.85",
@@ -19242,6 +21165,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.70",
     Tartarus: "1:45.79",
     Asphodel: "1:17.08",
@@ -19252,6 +21176,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.70",
     Tartarus: "1:52.17",
     Asphodel: "1:24.33",
@@ -19262,6 +21187,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.70",
     Tartarus: "1:43.67",
     Asphodel: "1:08.97",
@@ -19272,6 +21198,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.70",
     Tartarus: "1:48.69",
     Asphodel: "1:08.68",
@@ -19282,6 +21209,7 @@ export const rawData2 = [
   {
     Player: "eappleton1",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:55.72",
     Tartarus: "1:50.23",
     Asphodel: "0:54.49",
@@ -19292,6 +21220,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:55.72",
     Tartarus: "1:16.44",
     Asphodel: "1:05.67",
@@ -19302,6 +21231,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.72",
     Tartarus: "1:29.85",
     Asphodel: "1:32.45",
@@ -19312,6 +21242,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.73",
     Tartarus: "1:46.74",
     Asphodel: "1:09.42",
@@ -19322,6 +21253,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.74",
     Tartarus: "1:43.04",
     Asphodel: "1:31.25",
@@ -19332,6 +21264,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.76",
     Tartarus: "1:35.53",
     Asphodel: "1:13.79",
@@ -19342,6 +21275,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.78",
     Tartarus: "1:21.41",
     Asphodel: "1:21.11",
@@ -19352,6 +21286,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:55.78",
     Tartarus: "1:46.18",
     Asphodel: "1:01.71",
@@ -19362,6 +21297,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.81",
     Tartarus: "1:48.09",
     Asphodel: "1:31.27",
@@ -19372,6 +21308,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.81",
     Tartarus: "1:26.96",
     Asphodel: "1:22.83",
@@ -19382,6 +21319,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:55.81",
     Tartarus: "1:40.75",
     Asphodel: "1:29.40",
@@ -19392,6 +21330,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:55.82",
     Tartarus: "1:36.16",
     Asphodel: "1:17.19",
@@ -19402,6 +21341,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:55.83",
     Tartarus: "1:43.66",
     Asphodel: "1:12.00",
@@ -19412,6 +21352,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:55.84",
     Tartarus: "1:52.99",
     Asphodel: "1:13.09",
@@ -19422,6 +21363,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.84",
     Tartarus: "1:31.96",
     Asphodel: "1:18.81",
@@ -19432,6 +21374,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.84",
     Tartarus: "1:47.11",
     Asphodel: "1:04.51",
@@ -19442,6 +21385,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.87",
     Tartarus: "1:48.00",
     Asphodel: "1:21.62",
@@ -19452,6 +21396,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:55.87",
     Tartarus: "1:54.40",
     Asphodel: "1:24.55",
@@ -19462,6 +21407,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.89",
     Tartarus: "1:49.30",
     Asphodel: "1:12.67",
@@ -19472,6 +21418,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.89",
     Tartarus: "1:27.03",
     Asphodel: "1:13.64",
@@ -19482,6 +21429,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.90",
     Tartarus: "1:38.90",
     Asphodel: "1:17.91",
@@ -19492,6 +21440,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.92",
     Tartarus: "1:44.93",
     Asphodel: "1:08.05",
@@ -19502,6 +21451,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.93",
     Tartarus: "1:40.35",
     Asphodel: "1:11.41",
@@ -19512,6 +21462,7 @@ export const rawData2 = [
   {
     Player: "alexballoon",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.93",
     Tartarus: "1:25.17",
     Asphodel: "1:39.49",
@@ -19522,6 +21473,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.93",
     Tartarus: "1:26.75",
     Asphodel: "1:23.81",
@@ -19532,6 +21484,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.94",
     Tartarus: "1:48.56",
     Asphodel: "1:06.37",
@@ -19542,6 +21495,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:55.94",
     Tartarus: "1:24.56",
     Asphodel: "1:10.40",
@@ -19552,6 +21506,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.95",
     Tartarus: "1:57.72",
     Asphodel: "1:14.93",
@@ -19562,6 +21517,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.96",
     Tartarus: "1:42.56",
     Asphodel: "1:25.56",
@@ -19572,6 +21528,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.96",
     Tartarus: "1:50.90",
     Asphodel: "1:21.78",
@@ -19582,6 +21539,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:55.98",
     Tartarus: "1:41.82",
     Asphodel: "1:06.86",
@@ -19592,6 +21550,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:55.99",
     Tartarus: "1:56.31",
     Asphodel: "1:11.87",
@@ -19602,6 +21561,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.00",
     Tartarus: "1:55.00",
     Asphodel: "1:13.00",
@@ -19612,6 +21572,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.00",
     Tartarus: "1:41.00",
     Asphodel: "1:25.00",
@@ -19622,6 +21583,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.00",
     Tartarus: "1:48.71",
     Asphodel: "1:13.85",
@@ -19632,6 +21594,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.00",
     Tartarus: "1:44.91",
     Asphodel: "1:05.45",
@@ -19642,6 +21605,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.00",
     Tartarus: "1:37.57",
     Asphodel: "1:27.23",
@@ -19652,6 +21616,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.01",
     Tartarus: "1:38.44",
     Asphodel: "1:47.58",
@@ -19662,6 +21627,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.01",
     Tartarus: "1:53.76",
     Asphodel: "1:21.48",
@@ -19672,6 +21638,7 @@ export const rawData2 = [
   {
     Player: "Nitrostarch",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.02",
     Tartarus: "1:27.57",
     Asphodel: "1:37.77",
@@ -19682,6 +21649,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:56.02",
     Tartarus: "1:45.17",
     Asphodel: "1:19.34",
@@ -19692,6 +21660,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:56.03",
     Tartarus: "1:20.16",
     Asphodel: "1:37.08",
@@ -19702,6 +21671,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.03",
     Tartarus: "2:05.81",
     Asphodel: "1:22.28",
@@ -19712,6 +21682,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.03",
     Tartarus: "1:46.54",
     Asphodel: "1:27.97",
@@ -19722,6 +21693,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:56.04",
     Tartarus: "1:36.64",
     Asphodel: "1:25.17",
@@ -19732,6 +21704,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:56.09",
     Tartarus: "1:42.67",
     Asphodel: "1:25.22",
@@ -19742,6 +21715,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.10",
     Tartarus: "1:51.70",
     Asphodel: "1:17.02",
@@ -19752,6 +21726,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.13",
     Tartarus: "1:59.98",
     Asphodel: "1:11.06",
@@ -19762,6 +21737,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.13",
     Tartarus: "1:37.95",
     Asphodel: "1:12.74",
@@ -19772,6 +21748,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.13",
     Tartarus: "1:51.83",
     Asphodel: "1:16.15",
@@ -19782,6 +21759,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.16",
     Tartarus: "1:41.37",
     Asphodel: "1:26.40",
@@ -19792,6 +21770,7 @@ export const rawData2 = [
   {
     Player: "_sev",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:56.17",
     Tartarus: "1:25.77",
     Asphodel: "1:14.04",
@@ -19802,6 +21781,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.17",
     Tartarus: "2:01.80",
     Asphodel: "1:16.33",
@@ -19812,6 +21792,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.17",
     Tartarus: "1:58.57",
     Asphodel: "1:19.24",
@@ -19822,6 +21803,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.19",
     Tartarus: "1:42.36",
     Asphodel: "1:32.06",
@@ -19832,6 +21814,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:56.20",
     Tartarus: "1:45.89",
     Asphodel: "1:26.87",
@@ -19842,6 +21825,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.20",
     Tartarus: "1:44.98",
     Asphodel: "1:06.62",
@@ -19852,6 +21836,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:56.20",
     Tartarus: "1:45.00",
     Asphodel: "1:06.28",
@@ -19862,6 +21847,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.21",
     Tartarus: "1:54.35",
     Asphodel: "1:26.15",
@@ -19872,6 +21858,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.21",
     Tartarus: "1:31.46",
     Asphodel: "1:20.97",
@@ -19882,6 +21869,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.21",
     Tartarus: "1:43.80",
     Asphodel: "1:13.35",
@@ -19892,6 +21880,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.21",
     Tartarus: "1:46.87",
     Asphodel: "1:34.88",
@@ -19902,6 +21891,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:56.22",
     Tartarus: "1:38.50",
     Asphodel: "1:16.63",
@@ -19912,6 +21902,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.24",
     Tartarus: "1:45.97",
     Asphodel: "1:03.67",
@@ -19922,6 +21913,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:56.25",
     Tartarus: "1:41.25",
     Asphodel: "1:08.72",
@@ -19932,6 +21924,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.26",
     Tartarus: "1:36.04",
     Asphodel: "1:23.50",
@@ -19942,6 +21935,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.27",
     Tartarus: "1:43.85",
     Asphodel: "1:24.42",
@@ -19952,6 +21946,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:56.28",
     Tartarus: "1:56.94",
     Asphodel: "1:16.60",
@@ -19962,6 +21957,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.28",
     Tartarus: "1:34.58",
     Asphodel: "1:38.04",
@@ -19972,6 +21968,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:56.29",
     Tartarus: "1:53.76",
     Asphodel: "1:13.13",
@@ -19982,6 +21979,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.29",
     Tartarus: "1:44.82",
     Asphodel: "1:02.77",
@@ -19992,6 +21990,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:56.30",
     Tartarus: "1:15.06",
     Asphodel: "1:21.88",
@@ -20002,6 +22001,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.31",
     Tartarus: "1:45.32",
     Asphodel: "0:59.89",
@@ -20012,6 +22012,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:56.32",
     Tartarus: "1:35.70",
     Asphodel: "1:21.00",
@@ -20021,7 +22022,8 @@ export const rawData2 = [
   },
   {
     Player: "bablo",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus-Sword",
+    Ring: "red",
     Clear: "5:56.33",
     Tartarus: "1:43.00",
     Asphodel: "1:18.50",
@@ -20032,6 +22034,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.33",
     Tartarus: "1:41.48",
     Asphodel: "1:15.56",
@@ -20042,6 +22045,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:56.34",
     Tartarus: "1:44.13",
     Asphodel: "1:16.87",
@@ -20052,6 +22056,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.36",
     Tartarus: "1:44.82",
     Asphodel: "1:08.70",
@@ -20062,6 +22067,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:56.37",
     Tartarus: "1:39.17",
     Asphodel: "1:08.28",
@@ -20072,6 +22078,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:56.37",
     Tartarus: "1:38.45",
     Asphodel: "1:14.97",
@@ -20082,6 +22089,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.38",
     Tartarus: "1:36.15",
     Asphodel: "1:20.24",
@@ -20092,6 +22100,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.39",
     Tartarus: "1:40.50",
     Asphodel: "1:18.10",
@@ -20102,6 +22111,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.39",
     Tartarus: "1:47.27",
     Asphodel: "1:12.59",
@@ -20112,6 +22122,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.39",
     Tartarus: "1:35.26",
     Asphodel: "1:36.27",
@@ -20122,6 +22133,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.43",
     Tartarus: "1:49.52",
     Asphodel: "1:23.24",
@@ -20132,6 +22144,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.46",
     Tartarus: "1:27.74",
     Asphodel: "1:29.48",
@@ -20142,6 +22155,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.46",
     Tartarus: "1:37.16",
     Asphodel: "1:18.33",
@@ -20152,6 +22166,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.47",
     Tartarus: "1:41.95",
     Asphodel: "1:17.01",
@@ -20162,6 +22177,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.47",
     Tartarus: "1:37.63",
     Asphodel: "1:13.35",
@@ -20172,6 +22188,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.48",
     Tartarus: "1:53.44",
     Asphodel: "1:18.44",
@@ -20182,6 +22199,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.49",
     Tartarus: "1:48.48",
     Asphodel: "1:32.95",
@@ -20192,6 +22210,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.51",
     Tartarus: "1:52.00",
     Asphodel: "1:17.11",
@@ -20202,6 +22221,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:56.53",
     Tartarus: "1:36.33",
     Asphodel: "1:03.40",
@@ -20212,6 +22232,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:56.53",
     Tartarus: "1:40.67",
     Asphodel: "1:23.73",
@@ -20222,6 +22243,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.53",
     Tartarus: "2:07.62",
     Asphodel: "1:21.94",
@@ -20232,6 +22254,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.53",
     Tartarus: "1:34.47",
     Asphodel: "1:27.54",
@@ -20242,6 +22265,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:56.54",
     Tartarus: "1:28.78",
     Asphodel: "1:22.02",
@@ -20252,6 +22276,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:56.55",
     Tartarus: "1:32.33",
     Asphodel: "1:19.49",
@@ -20262,6 +22287,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.55",
     Tartarus: "1:23.78",
     Asphodel: "1:15.00",
@@ -20272,6 +22298,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.57",
     Tartarus: "1:40.41",
     Asphodel: "1:18.05",
@@ -20282,6 +22309,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.57",
     Tartarus: "1:53.40",
     Asphodel: "1:19.10",
@@ -20292,6 +22320,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.58",
     Tartarus: "1:55.28",
     Asphodel: "1:14.79",
@@ -20302,6 +22331,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:56.58",
     Tartarus: "1:53.26",
     Asphodel: "1:15.37",
@@ -20312,6 +22342,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.60",
     Tartarus: "1:22.97",
     Asphodel: "1:35.58",
@@ -20322,6 +22353,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.61",
     Tartarus: "1:38.22",
     Asphodel: "1:14.84",
@@ -20332,6 +22364,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.62",
     Tartarus: "1:36.61",
     Asphodel: "1:39.50",
@@ -20342,6 +22375,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.62",
     Tartarus: "1:39.25",
     Asphodel: "1:12.26",
@@ -20352,6 +22386,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:56.63",
     Tartarus: "1:33.93",
     Asphodel: "1:22.56",
@@ -20362,6 +22397,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.63",
     Tartarus: "1:57.17",
     Asphodel: "1:14.99",
@@ -20372,6 +22408,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.63",
     Tartarus: "1:34.67",
     Asphodel: "1:18.51",
@@ -20382,6 +22419,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:56.64",
     Tartarus: "1:55.95",
     Asphodel: "1:09.09",
@@ -20392,6 +22430,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.64",
     Tartarus: "1:54.00",
     Asphodel: "1:36.64",
@@ -20402,6 +22441,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:56.65",
     Tartarus: "1:28.94",
     Asphodel: "1:27.13",
@@ -20412,6 +22452,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.66",
     Tartarus: "1:33.81",
     Asphodel: "1:36.30",
@@ -20422,6 +22463,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.67",
     Tartarus: "1:48.33",
     Asphodel: "1:13.87",
@@ -20432,6 +22474,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.68",
     Tartarus: "1:47.27",
     Asphodel: "1:12.56",
@@ -20442,6 +22485,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.68",
     Tartarus: "1:37.66",
     Asphodel: "1:23.33",
@@ -20452,6 +22496,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.69",
     Tartarus: "2:01.12",
     Asphodel: "1:12.85",
@@ -20462,6 +22507,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:56.69",
     Tartarus: "1:36.82",
     Asphodel: "1:18.08",
@@ -20472,6 +22518,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.70",
     Tartarus: "1:34.58",
     Asphodel: "1:09.26",
@@ -20482,6 +22529,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.71",
     Tartarus: "1:32.68",
     Asphodel: "1:37.65",
@@ -20492,6 +22540,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.73",
     Tartarus: "1:37.95",
     Asphodel: "1:21.36",
@@ -20502,6 +22551,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:56.73",
     Tartarus: "1:35.38",
     Asphodel: "1:17.72",
@@ -20512,6 +22562,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.74",
     Tartarus: "1:50.69",
     Asphodel: "1:14.54",
@@ -20522,6 +22573,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.74",
     Tartarus: "1:36.00",
     Asphodel: "1:23.55",
@@ -20532,6 +22584,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.75",
     Tartarus: "1:34.83",
     Asphodel: "1:04.17",
@@ -20542,6 +22595,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.75",
     Tartarus: "1:57.84",
     Asphodel: "0:59.07",
@@ -20552,6 +22606,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.75",
     Tartarus: "1:51.16",
     Asphodel: "1:15.86",
@@ -20562,6 +22617,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:56.75",
     Tartarus: "1:22.13",
     Asphodel: "1:19.47",
@@ -20572,6 +22628,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.78",
     Tartarus: "1:45.84",
     Asphodel: "1:09.97",
@@ -20582,6 +22639,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.78",
     Tartarus: "1:50.67",
     Asphodel: "1:11.11",
@@ -20592,6 +22650,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.78",
     Tartarus: "1:55.11",
     Asphodel: "1:10.12",
@@ -20602,6 +22661,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:56.79",
     Tartarus: "1:37.74",
     Asphodel: "1:20.61",
@@ -20612,6 +22672,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.79",
     Tartarus: "1:41.73",
     Asphodel: "1:41.25",
@@ -20622,6 +22683,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.79",
     Tartarus: "1:46.86",
     Asphodel: "1:23.21",
@@ -20632,6 +22694,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.79",
     Tartarus: "1:53.59",
     Asphodel: "1:17.33",
@@ -20642,6 +22705,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.80",
     Tartarus: "1:41.80",
     Asphodel: "1:48.86",
@@ -20652,6 +22716,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:56.80",
     Tartarus: "1:28.60",
     Asphodel: "1:21.51",
@@ -20662,6 +22727,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.80",
     Tartarus: "1:56.30",
     Asphodel: "1:22.46",
@@ -20672,6 +22738,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.81",
     Tartarus: "1:54.77",
     Asphodel: "1:11.69",
@@ -20681,7 +22748,8 @@ export const rawData2 = [
   },
   {
     Player: "Ananke",
-    Aspect: "Zag Fists",
+    Aspect: "Zagreus-Fists",
+    Ring: "pink",
     Clear: "5:56.82",
     Tartarus: "1:57.58",
     Asphodel: "1:06.76",
@@ -20692,6 +22760,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.83",
     Tartarus: "1:32.61",
     Asphodel: "1:17.33",
@@ -20702,6 +22771,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:56.85",
     Tartarus: "1:28.22",
     Asphodel: "1:13.56",
@@ -20712,6 +22782,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.85",
     Tartarus: "1:47.06",
     Asphodel: "1:22.27",
@@ -20722,6 +22793,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:56.86",
     Tartarus: "1:33.17",
     Asphodel: "1:25.32",
@@ -20732,6 +22804,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:56.86",
     Tartarus: "1:40.75",
     Asphodel: "1:10.10",
@@ -20742,6 +22815,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.87",
     Tartarus: "1:59.43",
     Asphodel: "1:22.83",
@@ -20752,6 +22826,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:56.87",
     Tartarus: "1:45.79",
     Asphodel: "1:20.92",
@@ -20762,6 +22837,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.88",
     Tartarus: "1:38.03",
     Asphodel: "1:29.43",
@@ -20772,6 +22848,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.88",
     Tartarus: "1:52.97",
     Asphodel: "1:09.31",
@@ -20782,6 +22859,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.90",
     Tartarus: "1:57.01",
     Asphodel: "1:11.24",
@@ -20792,6 +22870,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.94",
     Tartarus: "1:34.15",
     Asphodel: "1:33.59",
@@ -20802,6 +22881,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.94",
     Tartarus: "1:19.48",
     Asphodel: "1:41.48",
@@ -20812,6 +22892,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:56.96",
     Tartarus: "1:42.97",
     Asphodel: "1:32.70",
@@ -20822,6 +22903,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:56.97",
     Tartarus: "1:41.53",
     Asphodel: "1:39.70",
@@ -20832,6 +22914,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.98",
     Tartarus: "1:36.65",
     Asphodel: "1:13.18",
@@ -20842,6 +22925,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:56.98",
     Tartarus: "1:44.89",
     Asphodel: "1:30.41",
@@ -20852,6 +22936,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:57.01",
     Tartarus: "1:30.35",
     Asphodel: "1:30.41",
@@ -20862,6 +22947,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:57.01",
     Tartarus: "1:44.58",
     Asphodel: "1:02.54",
@@ -20872,6 +22958,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.01",
     Tartarus: "1:34.03",
     Asphodel: "1:21.54",
@@ -20882,6 +22969,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.02",
     Tartarus: "1:26.09",
     Asphodel: "1:22.32",
@@ -20892,6 +22980,7 @@ export const rawData2 = [
   {
     Player: "Lili",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:57.03",
     Tartarus: "1:36.87",
     Asphodel: "1:37.70",
@@ -20902,6 +22991,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.03",
     Tartarus: "1:38.98",
     Asphodel: "1:19.18",
@@ -20912,6 +23002,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.03",
     Tartarus: "1:52.73",
     Asphodel: "1:18.37",
@@ -20922,6 +23013,7 @@ export const rawData2 = [
   {
     Player: "violetblight",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.03",
     Tartarus: "1:31.27",
     Asphodel: "1:17.55",
@@ -20932,6 +23024,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:57.05",
     Tartarus: "1:39.61",
     Asphodel: "1:29.35",
@@ -20942,6 +23035,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:57.06",
     Tartarus: "1:38.97",
     Asphodel: "1:17.46",
@@ -20952,6 +23046,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.07",
     Tartarus: "1:47.13",
     Asphodel: "1:21.98",
@@ -20962,6 +23057,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.08",
     Tartarus: "1:52.85",
     Asphodel: "1:21.41",
@@ -20972,6 +23068,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:57.08",
     Tartarus: "1:42.92",
     Asphodel: "1:16.95",
@@ -20982,6 +23079,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.08",
     Tartarus: "1:38.53",
     Asphodel: "1:30.83",
@@ -20992,6 +23090,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.08",
     Tartarus: "1:46.52",
     Asphodel: "1:03.82",
@@ -21002,6 +23101,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:57.09",
     Tartarus: "1:50.70",
     Asphodel: "0:56.93",
@@ -21012,6 +23112,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.09",
     Tartarus: "1:35.69",
     Asphodel: "1:31.34",
@@ -21022,6 +23123,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.10",
     Tartarus: "1:38.28",
     Asphodel: "1:26.23",
@@ -21032,6 +23134,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:57.12",
     Tartarus: "1:22.52",
     Asphodel: "1:35.71",
@@ -21042,6 +23145,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.13",
     Tartarus: "1:30.53",
     Asphodel: "1:15.72",
@@ -21052,6 +23156,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:57.14",
     Tartarus: "1:46.23",
     Asphodel: "1:01.55",
@@ -21062,6 +23167,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.14",
     Tartarus: "1:54.10",
     Asphodel: "1:25.81",
@@ -21072,6 +23178,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.16",
     Tartarus: "1:34.30",
     Asphodel: "1:24.93",
@@ -21082,6 +23189,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.17",
     Tartarus: "1:40.34",
     Asphodel: "1:29.68",
@@ -21092,6 +23200,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.19",
     Tartarus: "1:32.72",
     Asphodel: "1:07.92",
@@ -21102,6 +23211,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.22",
     Tartarus: "1:46.88",
     Asphodel: "1:14.18",
@@ -21112,6 +23222,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:57.23",
     Tartarus: "1:51.25",
     Asphodel: "1:15.93",
@@ -21122,6 +23233,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.23",
     Tartarus: "1:45.76",
     Asphodel: "1:18.62",
@@ -21132,6 +23244,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:57.24",
     Tartarus: "1:36.87",
     Asphodel: "1:25.74",
@@ -21142,6 +23255,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.24",
     Tartarus: "1:43.51",
     Asphodel: "1:09.94",
@@ -21152,6 +23266,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:57.25",
     Tartarus: "1:54.18",
     Asphodel: "1:15.47",
@@ -21162,6 +23277,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.26",
     Tartarus: "1:41.68",
     Asphodel: "1:39.95",
@@ -21172,6 +23288,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.27",
     Tartarus: "1:47.67",
     Asphodel: "1:11.07",
@@ -21182,6 +23299,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.27",
     Tartarus: "1:46.06",
     Asphodel: "1:24.73",
@@ -21192,6 +23310,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.28",
     Tartarus: "1:48.74",
     Asphodel: "1:13.11",
@@ -21202,6 +23321,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.33",
     Tartarus: "1:59.06",
     Asphodel: "1:31.07",
@@ -21212,6 +23332,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.33",
     Tartarus: "1:49.89",
     Asphodel: "1:01.56",
@@ -21222,6 +23343,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.33",
     Tartarus: "1:37.12",
     Asphodel: "1:25.34",
@@ -21232,6 +23354,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.33",
     Tartarus: "1:32.55",
     Asphodel: "1:15.14",
@@ -21242,6 +23365,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.34",
     Tartarus: "1:51.75",
     Asphodel: "1:23.82",
@@ -21252,6 +23376,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.34",
     Tartarus: "1:33.66",
     Asphodel: "1:15.98",
@@ -21262,6 +23387,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.36",
     Tartarus: "1:53.43",
     Asphodel: "1:17.44",
@@ -21272,6 +23398,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.37",
     Tartarus: "1:45.55",
     Asphodel: "1:17.99",
@@ -21282,6 +23409,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.37",
     Tartarus: "1:52.80",
     Asphodel: "1:07.82",
@@ -21292,6 +23420,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.38",
     Tartarus: "1:40.28",
     Asphodel: "1:05.95",
@@ -21302,6 +23431,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:57.42",
     Tartarus: "1:36.48",
     Asphodel: "1:20.19",
@@ -21312,6 +23442,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.44",
     Tartarus: "1:38.94",
     Asphodel: "1:23.98",
@@ -21322,6 +23453,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.45",
     Tartarus: "1:36.70",
     Asphodel: "1:28.28",
@@ -21332,6 +23464,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.45",
     Tartarus: "1:42.31",
     Asphodel: "1:11.93",
@@ -21342,6 +23475,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.48",
     Tartarus: "1:32.02",
     Asphodel: "1:12.46",
@@ -21352,6 +23486,7 @@ export const rawData2 = [
   {
     Player: "Latt_Millard",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:57.53",
     Tartarus: "1:58.66",
     Asphodel: "1:29.51",
@@ -21362,6 +23497,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Arthur",
+    Ring: "blue",
     Clear: "5:57.54",
     Tartarus: "1:43.35",
     Asphodel: "1:16.38",
@@ -21372,6 +23508,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.56",
     Tartarus: "2:06.89",
     Asphodel: "1:31.57",
@@ -21382,6 +23519,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.57",
     Tartarus: "1:42.66",
     Asphodel: "1:07.00",
@@ -21392,6 +23530,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:57.58",
     Tartarus: "1:50.86",
     Asphodel: "1:12.30",
@@ -21402,6 +23541,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.58",
     Tartarus: "1:49.70",
     Asphodel: "1:07.08",
@@ -21412,6 +23552,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.59",
     Tartarus: "1:40.47",
     Asphodel: "1:23.82",
@@ -21422,6 +23563,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.59",
     Tartarus: "1:53.40",
     Asphodel: "1:12.08",
@@ -21432,6 +23574,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:57.61",
     Tartarus: "1:37.56",
     Asphodel: "1:34.20",
@@ -21442,6 +23585,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.64",
     Tartarus: "1:38.42",
     Asphodel: "1:38.06",
@@ -21452,6 +23596,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.65",
     Tartarus: "1:28.21",
     Asphodel: "1:10.87",
@@ -21462,6 +23607,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.65",
     Tartarus: "2:01.66",
     Asphodel: "1:06.27",
@@ -21472,6 +23618,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.65",
     Tartarus: "1:32.59",
     Asphodel: "1:24.67",
@@ -21482,6 +23629,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.66",
     Tartarus: "1:33.30",
     Asphodel: "1:08.56",
@@ -21492,6 +23640,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.67",
     Tartarus: "1:54.35",
     Asphodel: "1:14.56",
@@ -21502,6 +23651,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.67",
     Tartarus: "1:31.06",
     Asphodel: "1:29.55",
@@ -21512,6 +23662,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:57.67",
     Tartarus: "1:42.49",
     Asphodel: "1:09.80",
@@ -21522,6 +23673,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:57.67",
     Tartarus: "1:42.76",
     Asphodel: "1:31.66",
@@ -21532,6 +23684,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:57.70",
     Tartarus: "1:38.98",
     Asphodel: "1:11.53",
@@ -21542,6 +23695,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.70",
     Tartarus: "1:34.07",
     Asphodel: "1:27.68",
@@ -21552,6 +23706,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.71",
     Tartarus: "1:44.61",
     Asphodel: "1:15.34",
@@ -21562,6 +23717,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.71",
     Tartarus: "1:30.55",
     Asphodel: "1:30.43",
@@ -21572,6 +23728,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.71",
     Tartarus: "1:29.22",
     Asphodel: "1:20.45",
@@ -21582,6 +23739,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.72",
     Tartarus: "1:33.70",
     Asphodel: "1:27.43",
@@ -21592,6 +23750,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:57.75",
     Tartarus: "1:28.87",
     Asphodel: "1:17.55",
@@ -21602,6 +23761,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.76",
     Tartarus: "1:30.19",
     Asphodel: "1:35.87",
@@ -21612,6 +23772,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.76",
     Tartarus: "1:26.87",
     Asphodel: "1:27.88",
@@ -21622,6 +23783,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.77",
     Tartarus: "1:35.99",
     Asphodel: "1:25.07",
@@ -21632,6 +23794,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.77",
     Tartarus: "1:52.99",
     Asphodel: "1:21.00",
@@ -21642,6 +23805,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.78",
     Tartarus: "1:39.14",
     Asphodel: "1:33.65",
@@ -21652,6 +23816,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:57.79",
     Tartarus: "1:23.64",
     Asphodel: "1:22.74",
@@ -21662,6 +23827,7 @@ export const rawData2 = [
   {
     Player: "Timothy_Lincecum",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.80",
     Tartarus: "1:47.19",
     Asphodel: "1:10.94",
@@ -21672,6 +23838,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:57.81",
     Tartarus: "1:39.53",
     Asphodel: "1:00.30",
@@ -21682,6 +23849,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.81",
     Tartarus: "1:35.11",
     Asphodel: "1:13.29",
@@ -21692,6 +23860,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.81",
     Tartarus: "1:50.75",
     Asphodel: "1:15.98",
@@ -21702,6 +23871,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.82",
     Tartarus: "1:58.57",
     Asphodel: "1:19.92",
@@ -21712,6 +23882,7 @@ export const rawData2 = [
   {
     Player: "SleepSoul",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:57.83",
     Tartarus: "1:52.22",
     Asphodel: "1:28.26",
@@ -21722,6 +23893,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.83",
     Tartarus: "1:48.62",
     Asphodel: "1:08.04",
@@ -21732,6 +23904,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.86",
     Tartarus: "1:45.67",
     Asphodel: "1:18.64",
@@ -21742,6 +23915,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.86",
     Tartarus: "1:42.79",
     Asphodel: "1:34.21",
@@ -21752,6 +23926,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:57.87",
     Tartarus: "1:29.00",
     Asphodel: "1:29.35",
@@ -21762,6 +23937,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.89",
     Tartarus: "1:47.09",
     Asphodel: "1:43.81",
@@ -21772,6 +23948,7 @@ export const rawData2 = [
   {
     Player: "oldmcjonald",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.89",
     Tartarus: "1:54.83",
     Asphodel: "1:19.04",
@@ -21782,6 +23959,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.90",
     Tartarus: "1:50.76",
     Asphodel: "1:25.91",
@@ -21792,6 +23970,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:57.93",
     Tartarus: "1:46.84",
     Asphodel: "1:15.60",
@@ -21802,6 +23981,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.94",
     Tartarus: "1:34.86",
     Asphodel: "1:22.69",
@@ -21811,7 +23991,8 @@ export const rawData2 = [
   },
   {
     Player: "K33p0ut",
-    Aspect: "Zag Shield",
+    Aspect: "Zagreus-Shield",
+    Ring: "orange",
     Clear: "5:57.94",
     Tartarus: "1:54.82",
     Asphodel: "1:25.53",
@@ -21822,6 +24003,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Lucifer",
+    Ring: "yellow",
     Clear: "5:57.95",
     Tartarus: "1:46.30",
     Asphodel: "1:19.92",
@@ -21832,6 +24014,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:57.96",
     Tartarus: "1:43.34",
     Asphodel: "1:12.45",
@@ -21842,6 +24025,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.98",
     Tartarus: "1:46.48",
     Asphodel: "1:26.33",
@@ -21852,6 +24036,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:57.98",
     Tartarus: "1:38.32",
     Asphodel: "1:10.81",
@@ -21862,6 +24047,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:57.99",
     Tartarus: "1:38.09",
     Asphodel: "1:19.08",
@@ -21872,6 +24058,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:58.01",
     Tartarus: "1:36.86",
     Asphodel: "1:17.84",
@@ -21882,6 +24069,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.01",
     Tartarus: "1:32.49",
     Asphodel: "1:20.82",
@@ -21892,6 +24080,7 @@ export const rawData2 = [
   {
     Player: "DQ11Fan",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.03",
     Tartarus: "1:42.18",
     Asphodel: "1:08.70",
@@ -21902,6 +24091,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:58.04",
     Tartarus: "1:37.92",
     Asphodel: "1:11.54",
@@ -21912,6 +24102,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.04",
     Tartarus: "1:36.50",
     Asphodel: "1:13.66",
@@ -21922,6 +24113,7 @@ export const rawData2 = [
   {
     Player: "arcalena",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.04",
     Tartarus: "1:40.53",
     Asphodel: "1:12.29",
@@ -21932,6 +24124,7 @@ export const rawData2 = [
   {
     Player: "arcalena",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.04",
     Tartarus: "1:40.53",
     Asphodel: "1:12.29",
@@ -21942,6 +24135,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.05",
     Tartarus: "1:41.50",
     Asphodel: "1:36.74",
@@ -21952,6 +24146,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.08",
     Tartarus: "1:38.91",
     Asphodel: "1:13.54",
@@ -21962,6 +24157,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.10",
     Tartarus: "1:26.52",
     Asphodel: "1:27.56",
@@ -21972,6 +24168,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.11",
     Tartarus: "1:51.41",
     Asphodel: "1:27.16",
@@ -21982,6 +24179,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:58.13",
     Tartarus: "1:34.95",
     Asphodel: "1:38.78",
@@ -21992,6 +24190,7 @@ export const rawData2 = [
   {
     Player: "violetblight",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.13",
     Tartarus: "1:56.39",
     Asphodel: "1:08.17",
@@ -22002,6 +24201,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.13",
     Tartarus: "1:44.79",
     Asphodel: "1:12.69",
@@ -22012,6 +24212,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.14",
     Tartarus: "1:51.82",
     Asphodel: "1:22.19",
@@ -22022,6 +24223,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.15",
     Tartarus: "1:44.22",
     Asphodel: "1:14.23",
@@ -22032,6 +24234,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.16",
     Tartarus: "1:43.91",
     Asphodel: "1:05.76",
@@ -22042,6 +24245,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.16",
     Tartarus: "1:46.28",
     Asphodel: "1:10.69",
@@ -22052,6 +24256,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.16",
     Tartarus: "1:35.27",
     Asphodel: "1:17.34",
@@ -22062,6 +24267,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.16",
     Tartarus: "1:59.02",
     Asphodel: "1:18.03",
@@ -22072,6 +24278,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.20",
     Tartarus: "1:52.51",
     Asphodel: "0:58.91",
@@ -22082,6 +24289,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.20",
     Tartarus: "1:33.62",
     Asphodel: "1:27.72",
@@ -22092,6 +24300,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:58.20",
     Tartarus: "1:29.30",
     Asphodel: "1:45.57",
@@ -22102,6 +24311,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.20",
     Tartarus: "1:42.88",
     Asphodel: "1:22.71",
@@ -22112,6 +24322,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.20",
     Tartarus: "1:48.55",
     Asphodel: "1:16.69",
@@ -22122,6 +24333,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Poseidon",
+    Ring: "green",
     Clear: "5:58.21",
     Tartarus: "1:49.62",
     Asphodel: "1:06.36",
@@ -22132,6 +24344,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.21",
     Tartarus: "1:43.15",
     Asphodel: "1:28.67",
@@ -22142,6 +24355,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.21",
     Tartarus: "1:39.52",
     Asphodel: "1:42.63",
@@ -22152,6 +24366,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.21",
     Tartarus: "1:33.25",
     Asphodel: "1:16.86",
@@ -22162,6 +24377,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.24",
     Tartarus: "1:34.19",
     Asphodel: "0:54.66",
@@ -22172,6 +24388,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.25",
     Tartarus: "1:31.59",
     Asphodel: "1:23.84",
@@ -22182,6 +24399,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.26",
     Tartarus: "1:50.13",
     Asphodel: "1:28.88",
@@ -22192,6 +24410,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.27",
     Tartarus: "1:47.93",
     Asphodel: "1:30.17",
@@ -22202,6 +24421,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.27",
     Tartarus: "1:48.41",
     Asphodel: "1:23.48",
@@ -22212,6 +24432,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.27",
     Tartarus: "1:53.00",
     Asphodel: "1:22.48",
@@ -22222,6 +24443,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.27",
     Tartarus: "1:37.97",
     Asphodel: "1:22.82",
@@ -22232,6 +24454,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.27",
     Tartarus: "1:40.91",
     Asphodel: "1:21.52",
@@ -22242,6 +24465,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:58.29",
     Tartarus: "1:37.29",
     Asphodel: "1:34.81",
@@ -22252,6 +24476,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.33",
     Tartarus: "1:44.06",
     Asphodel: "1:27.34",
@@ -22262,6 +24487,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.33",
     Tartarus: "2:03.62",
     Asphodel: "1:21.77",
@@ -22272,6 +24498,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.34",
     Tartarus: "1:23.66",
     Asphodel: "1:16.39",
@@ -22282,6 +24509,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.34",
     Tartarus: "1:40.80",
     Asphodel: "1:39.78",
@@ -22292,6 +24520,7 @@ export const rawData2 = [
   {
     Player: "Latt_Millard",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.34",
     Tartarus: "1:47.91",
     Asphodel: "1:26.71",
@@ -22302,6 +24531,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.34",
     Tartarus: "1:36.63",
     Asphodel: "1:18.19",
@@ -22312,6 +24542,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.34",
     Tartarus: "1:57.13",
     Asphodel: "1:24.43",
@@ -22322,6 +24553,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.34",
     Tartarus: "1:46.99",
     Asphodel: "1:23.63",
@@ -22332,6 +24564,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.35",
     Tartarus: "1:34.81",
     Asphodel: "1:42.61",
@@ -22342,6 +24575,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:58.37",
     Tartarus: "1:43.58",
     Asphodel: "1:27.09",
@@ -22351,7 +24585,8 @@ export const rawData2 = [
   },
   {
     Player: "Latt_Millard",
-    Aspect: "Zag Bow",
+    Aspect: "Zagreus-Bow",
+    Ring: "blue",
     Clear: "5:58.38",
     Tartarus: "1:36.82",
     Asphodel: "1:28.60",
@@ -22362,6 +24597,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:58.38",
     Tartarus: "1:30.59",
     Asphodel: "1:29.72",
@@ -22372,6 +24608,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:58.39",
     Tartarus: "1:22.08",
     Asphodel: "1:45.68",
@@ -22382,6 +24619,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:58.39",
     Tartarus: "1:36.56",
     Asphodel: "1:22.41",
@@ -22392,6 +24630,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.39",
     Tartarus: "1:48.91",
     Asphodel: "1:16.71",
@@ -22402,6 +24641,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.39",
     Tartarus: "1:33.53",
     Asphodel: "1:17.33",
@@ -22412,6 +24652,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.40",
     Tartarus: "1:19.57",
     Asphodel: "1:20.59",
@@ -22422,6 +24663,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.40",
     Tartarus: "1:38.52",
     Asphodel: "1:32.76",
@@ -22432,6 +24674,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.40",
     Tartarus: "1:40.05",
     Asphodel: "1:21.73",
@@ -22442,6 +24685,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.41",
     Tartarus: "1:40.91",
     Asphodel: "1:11.50",
@@ -22452,6 +24696,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.41",
     Tartarus: "1:51.72",
     Asphodel: "1:15.50",
@@ -22462,6 +24707,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:58.42",
     Tartarus: "1:37.72",
     Asphodel: "1:21.75",
@@ -22472,6 +24718,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:58.42",
     Tartarus: "1:40.28",
     Asphodel: "1:19.02",
@@ -22482,6 +24729,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.45",
     Tartarus: "1:45.66",
     Asphodel: "1:27.83",
@@ -22492,6 +24740,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.47",
     Tartarus: "1:57.74",
     Asphodel: "1:35.73",
@@ -22502,6 +24751,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.47",
     Tartarus: "1:27.31",
     Asphodel: "1:49.80",
@@ -22512,6 +24762,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:58.49",
     Tartarus: "1:40.59",
     Asphodel: "1:15.45",
@@ -22522,6 +24773,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.49",
     Tartarus: "1:50.66",
     Asphodel: "1:22.21",
@@ -22532,6 +24784,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.50",
     Tartarus: "1:59.46",
     Asphodel: "1:19.31",
@@ -22542,6 +24795,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.50",
     Tartarus: "1:49.88",
     Asphodel: "1:24.77",
@@ -22552,6 +24806,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.50",
     Tartarus: "1:55.72",
     Asphodel: "1:19.47",
@@ -22562,6 +24817,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.53",
     Tartarus: "1:47.48",
     Asphodel: "1:14.15",
@@ -22572,6 +24828,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.53",
     Tartarus: "1:25.87",
     Asphodel: "1:28.61",
@@ -22582,6 +24839,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.54",
     Tartarus: "1:40.65",
     Asphodel: "1:24.48",
@@ -22592,6 +24850,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.55",
     Tartarus: "1:33.73",
     Asphodel: "1:25.50",
@@ -22602,6 +24861,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.55",
     Tartarus: "1:28.73",
     Asphodel: "1:22.40",
@@ -22612,6 +24872,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.55",
     Tartarus: "1:51.09",
     Asphodel: "1:22.86",
@@ -22622,6 +24883,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.58",
     Tartarus: "1:39.95",
     Asphodel: "1:33.21",
@@ -22632,6 +24894,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.61",
     Tartarus: "1:48.60",
     Asphodel: "1:24.89",
@@ -22642,6 +24905,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:58.61",
     Tartarus: "1:33.09",
     Asphodel: "1:14.19",
@@ -22652,6 +24916,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.62",
     Tartarus: "1:45.31",
     Asphodel: "1:31.73",
@@ -22662,6 +24927,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:58.63",
     Tartarus: "1:50.63",
     Asphodel: "1:11.39",
@@ -22672,6 +24938,7 @@ export const rawData2 = [
   {
     Player: "orangesya",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.63",
     Tartarus: "1:43.79",
     Asphodel: "1:12.50",
@@ -22682,6 +24949,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:58.63",
     Tartarus: "1:38.29",
     Asphodel: "1:11.76",
@@ -22692,6 +24960,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.63",
     Tartarus: "1:31.52",
     Asphodel: "1:15.53",
@@ -22702,6 +24971,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:58.64",
     Tartarus: "1:40.96",
     Asphodel: "1:12.26",
@@ -22712,6 +24982,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:58.64",
     Tartarus: "1:28.72",
     Asphodel: "1:13.43",
@@ -22722,6 +24993,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.64",
     Tartarus: "2:08.18",
     Asphodel: "1:06.53",
@@ -22732,6 +25004,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:58.65",
     Tartarus: "1:51.14",
     Asphodel: "1:17.72",
@@ -22742,6 +25015,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.66",
     Tartarus: "1:52.31",
     Asphodel: "1:15.60",
@@ -22752,6 +25026,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.67",
     Tartarus: "1:51.54",
     Asphodel: "1:18.13",
@@ -22762,6 +25037,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.67",
     Tartarus: "1:40.43",
     Asphodel: "1:39.94",
@@ -22772,6 +25048,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.67",
     Tartarus: "1:55.86",
     Asphodel: "0:55.15",
@@ -22782,6 +25059,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.69",
     Tartarus: "1:45.11",
     Asphodel: "1:11.14",
@@ -22792,6 +25070,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.69",
     Tartarus: "1:35.23",
     Asphodel: "1:13.76",
@@ -22802,6 +25081,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:58.70",
     Tartarus: "1:36.80",
     Asphodel: "1:37.31",
@@ -22812,6 +25092,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:58.71",
     Tartarus: "1:41.78",
     Asphodel: "1:27.95",
@@ -22822,6 +25103,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hades",
+    Ring: "pink",
     Clear: "5:58.72",
     Tartarus: "1:52.20",
     Asphodel: "1:38.57",
@@ -22832,6 +25114,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.72",
     Tartarus: "1:42.31",
     Asphodel: "1:32.23",
@@ -22842,6 +25125,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.72",
     Tartarus: "1:45.21",
     Asphodel: "1:19.11",
@@ -22852,6 +25136,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.72",
     Tartarus: "1:35.98",
     Asphodel: "1:29.30",
@@ -22862,6 +25147,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:58.75",
     Tartarus: "1:33.50",
     Asphodel: "1:23.74",
@@ -22872,6 +25158,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:58.75",
     Tartarus: "1:49.78",
     Asphodel: "1:16.93",
@@ -22882,6 +25169,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.75",
     Tartarus: "1:49.75",
     Asphodel: "0:58.12",
@@ -22892,6 +25180,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:58.76",
     Tartarus: "1:27.54",
     Asphodel: "1:16.39",
@@ -22902,6 +25191,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.76",
     Tartarus: "1:31.91",
     Asphodel: "1:28.07",
@@ -22912,6 +25202,7 @@ export const rawData2 = [
   {
     Player: "M1KE998",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.79",
     Tartarus: "1:33.75",
     Asphodel: "1:14.62",
@@ -22922,6 +25213,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.79",
     Tartarus: "1:51.52",
     Asphodel: "1:22.48",
@@ -22932,6 +25224,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.80",
     Tartarus: "1:49.98",
     Asphodel: "1:19.06",
@@ -22942,6 +25235,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.80",
     Tartarus: "1:36.25",
     Asphodel: "1:16.35",
@@ -22952,6 +25246,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.81",
     Tartarus: "1:43.82",
     Asphodel: "1:10.99",
@@ -22962,6 +25257,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.81",
     Tartarus: "1:47.95",
     Asphodel: "1:32.31",
@@ -22972,6 +25268,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.81",
     Tartarus: "1:43.85",
     Asphodel: "1:34.77",
@@ -22982,6 +25279,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:58.82",
     Tartarus: "1:59.73",
     Asphodel: "1:06.88",
@@ -22992,6 +25290,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.82",
     Tartarus: "1:50.84",
     Asphodel: "1:13.49",
@@ -23002,6 +25301,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:58.83",
     Tartarus: "1:42.64",
     Asphodel: "1:05.99",
@@ -23011,7 +25311,8 @@ export const rawData2 = [
   },
   {
     Player: "tounis",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus-Sword",
+    Ring: "red",
     Clear: "5:58.83",
     Tartarus: "1:45.52",
     Asphodel: "1:05.41",
@@ -23022,6 +25323,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:58.83",
     Tartarus: "1:39.77",
     Asphodel: "1:25.26",
@@ -23032,6 +25334,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.85",
     Tartarus: "1:47.76",
     Asphodel: "1:27.25",
@@ -23042,6 +25345,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.86",
     Tartarus: "1:42.34",
     Asphodel: "1:26.38",
@@ -23052,6 +25356,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.87",
     Tartarus: "1:56.34",
     Asphodel: "1:14.36",
@@ -23062,6 +25367,7 @@ export const rawData2 = [
   {
     Player: "hooly",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.88",
     Tartarus: "2:00.89",
     Asphodel: "1:24.80",
@@ -23072,6 +25378,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.88",
     Tartarus: "1:53.53",
     Asphodel: "1:04.36",
@@ -23082,6 +25389,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.89",
     Tartarus: "1:29.78",
     Asphodel: "1:23.67",
@@ -23092,6 +25400,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.89",
     Tartarus: "1:37.18",
     Asphodel: "1:36.93",
@@ -23102,6 +25411,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.90",
     Tartarus: "1:34.07",
     Asphodel: "1:11.01",
@@ -23112,6 +25422,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.90",
     Tartarus: "1:39.09",
     Asphodel: "1:42.56",
@@ -23122,6 +25433,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:58.91",
     Tartarus: "1:36.66",
     Asphodel: "0:53.40",
@@ -23132,6 +25444,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:58.92",
     Tartarus: "1:47.03",
     Asphodel: "1:21.23",
@@ -23142,6 +25455,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.92",
     Tartarus: "1:34.80",
     Asphodel: "1:21.51",
@@ -23152,6 +25466,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:58.93",
     Tartarus: "1:32.59",
     Asphodel: "1:21.93",
@@ -23162,6 +25477,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.95",
     Tartarus: "1:54.70",
     Asphodel: "1:10.09",
@@ -23172,6 +25488,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.95",
     Tartarus: "1:40.17",
     Asphodel: "1:27.87",
@@ -23182,6 +25499,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:58.96",
     Tartarus: "1:24.64",
     Asphodel: "1:17.77",
@@ -23192,6 +25510,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.96",
     Tartarus: "1:48.94",
     Asphodel: "1:16.98",
@@ -23202,6 +25521,7 @@ export const rawData2 = [
   {
     Player: "185in",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:58.97",
     Tartarus: "1:28.30",
     Asphodel: "1:16.06",
@@ -23212,6 +25532,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.97",
     Tartarus: "1:48.03",
     Asphodel: "1:17.80",
@@ -23222,6 +25543,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:58.98",
     Tartarus: "1:42.85",
     Asphodel: "1:25.95",
@@ -23232,6 +25554,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.98",
     Tartarus: "1:21.14",
     Asphodel: "1:54.37",
@@ -23242,6 +25565,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:58.99",
     Tartarus: "1:59.37",
     Asphodel: "1:22.87",
@@ -23252,6 +25576,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.00",
     Tartarus: "1:47.72",
     Asphodel: "1:38.85",
@@ -23262,6 +25587,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.01",
     Tartarus: "1:40.41",
     Asphodel: "1:22.72",
@@ -23272,6 +25598,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.03",
     Tartarus: "1:28.08",
     Asphodel: "1:26.00",
@@ -23282,6 +25609,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.03",
     Tartarus: "1:34.47",
     Asphodel: "1:28.87",
@@ -23292,6 +25620,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.03",
     Tartarus: "1:48.57",
     Asphodel: "1:16.98",
@@ -23302,6 +25631,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:59.04",
     Tartarus: "1:32.45",
     Asphodel: "1:26.69",
@@ -23312,6 +25642,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.04",
     Tartarus: "1:46.37",
     Asphodel: "1:16.58",
@@ -23322,6 +25653,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:59.05",
     Tartarus: "1:45.15",
     Asphodel: "1:16.51",
@@ -23332,6 +25664,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.05",
     Tartarus: "1:39.50",
     Asphodel: "1:29.39",
@@ -23342,6 +25675,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.06",
     Tartarus: "1:43.76",
     Asphodel: "1:18.16",
@@ -23352,6 +25686,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.07",
     Tartarus: "1:43.05",
     Asphodel: "1:14.43",
@@ -23362,6 +25697,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.07",
     Tartarus: "1:51.41",
     Asphodel: "1:06.23",
@@ -23372,6 +25708,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.07",
     Tartarus: "1:34.22",
     Asphodel: "1:12.64",
@@ -23382,6 +25719,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Lucifer",
+    Ring: "yellow",
     Clear: "5:59.08",
     Tartarus: "1:53.04",
     Asphodel: "1:10.67",
@@ -23392,6 +25730,7 @@ export const rawData2 = [
   {
     Player: "violetblight",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.08",
     Tartarus: "1:37.45",
     Asphodel: "1:30.85",
@@ -23402,6 +25741,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.12",
     Tartarus: "1:31.76",
     Asphodel: "1:27.46",
@@ -23412,6 +25752,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.13",
     Tartarus: "1:50.18",
     Asphodel: "1:09.23",
@@ -23421,7 +25762,8 @@ export const rawData2 = [
   },
   {
     Player: "K33p0ut",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus-Sword",
+    Ring: "red",
     Clear: "5:59.13",
     Tartarus: "1:40.95",
     Asphodel: "1:08.97",
@@ -23432,6 +25774,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.14",
     Tartarus: "1:57.97",
     Asphodel: "1:07.49",
@@ -23442,6 +25785,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.15",
     Tartarus: "1:33.83",
     Asphodel: "1:26.23",
@@ -23452,6 +25796,7 @@ export const rawData2 = [
   {
     Player: "DrkFrst",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:59.20",
     Tartarus: "1:29.06",
     Asphodel: "1:21.45",
@@ -23462,6 +25807,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.20",
     Tartarus: "1:29.42",
     Asphodel: "1:34.87",
@@ -23472,6 +25818,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.22",
     Tartarus: "1:41.13",
     Asphodel: "1:14.42",
@@ -23482,6 +25829,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:59.23",
     Tartarus: "1:32.47",
     Asphodel: "1:25.81",
@@ -23492,6 +25840,7 @@ export const rawData2 = [
   {
     Player: "Wmic",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:59.26",
     Tartarus: "1:48.62",
     Asphodel: "1:13.65",
@@ -23502,6 +25851,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:59.27",
     Tartarus: "1:42.74",
     Asphodel: "1:09.95",
@@ -23512,6 +25862,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.28",
     Tartarus: "1:58.28",
     Asphodel: "1:13.65",
@@ -23522,6 +25873,7 @@ export const rawData2 = [
   {
     Player: "RT95",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.28",
     Tartarus: "1:55.65",
     Asphodel: "1:23.34",
@@ -23532,6 +25884,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.29",
     Tartarus: "1:43.99",
     Asphodel: "1:33.37",
@@ -23542,6 +25895,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.29",
     Tartarus: "1:30.69",
     Asphodel: "1:22.53",
@@ -23552,6 +25906,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.30",
     Tartarus: "1:34.52",
     Asphodel: "1:31.15",
@@ -23562,6 +25917,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Poseidon",
+    Ring: "green",
     Clear: "5:59.31",
     Tartarus: "1:59.21",
     Asphodel: "1:20.15",
@@ -23572,6 +25928,7 @@ export const rawData2 = [
   {
     Player: "closererer",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.31",
     Tartarus: "1:16.71",
     Asphodel: "1:35.02",
@@ -23582,6 +25939,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.31",
     Tartarus: "1:30.75",
     Asphodel: "1:17.86",
@@ -23592,6 +25950,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.31",
     Tartarus: "2:03.90",
     Asphodel: "1:06.20",
@@ -23602,6 +25961,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.34",
     Tartarus: "1:36.64",
     Asphodel: "1:23.91",
@@ -23612,6 +25972,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.35",
     Tartarus: "1:36.34",
     Asphodel: "1:15.07",
@@ -23622,6 +25983,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.36",
     Tartarus: "1:28.91",
     Asphodel: "1:18.63",
@@ -23632,6 +25994,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:59.37",
     Tartarus: "1:33.36",
     Asphodel: "1:06.24",
@@ -23642,6 +26005,7 @@ export const rawData2 = [
   {
     Player: "perfectengrish",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.37",
     Tartarus: "1:39.29",
     Asphodel: "1:21.33",
@@ -23652,6 +26016,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.38",
     Tartarus: "1:39.64",
     Asphodel: "1:31.05",
@@ -23662,6 +26027,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.39",
     Tartarus: "1:55.69",
     Asphodel: "1:40.42",
@@ -23672,6 +26038,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:59.39",
     Tartarus: "1:43.51",
     Asphodel: "1:11.27",
@@ -23682,6 +26049,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:59.40",
     Tartarus: "1:43.39",
     Asphodel: "0:59.51",
@@ -23692,6 +26060,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:59.42",
     Tartarus: "1:42.03",
     Asphodel: "1:16.73",
@@ -23702,6 +26071,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.42",
     Tartarus: "1:36.09",
     Asphodel: "1:24.47",
@@ -23712,6 +26082,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.45",
     Tartarus: "1:44.53",
     Asphodel: "1:20.96",
@@ -23722,6 +26093,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.45",
     Tartarus: "1:20.17",
     Asphodel: "1:09.58",
@@ -23732,6 +26104,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.46",
     Tartarus: "1:41.11",
     Asphodel: "1:18.01",
@@ -23742,6 +26115,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.46",
     Tartarus: "1:48.66",
     Asphodel: "1:10.84",
@@ -23752,6 +26126,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.46",
     Tartarus: "1:28.31",
     Asphodel: "1:20.18",
@@ -23762,6 +26137,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:59.47",
     Tartarus: "1:49.21",
     Asphodel: "1:29.81",
@@ -23772,6 +26148,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.48",
     Tartarus: "1:33.12",
     Asphodel: "1:22.59",
@@ -23782,6 +26159,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:59.48",
     Tartarus: "2:06.05",
     Asphodel: "1:15.49",
@@ -23792,6 +26170,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.48",
     Tartarus: "1:20.76",
     Asphodel: "1:19.57",
@@ -23802,6 +26181,7 @@ export const rawData2 = [
   {
     Player: "oldmcjonald",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:59.49",
     Tartarus: "1:44.08",
     Asphodel: "1:11.96",
@@ -23812,6 +26192,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.49",
     Tartarus: "1:40.14",
     Asphodel: "1:23.02",
@@ -23821,7 +26202,8 @@ export const rawData2 = [
   },
   {
     Player: "bablo",
-    Aspect: "Zag Bow",
+    Aspect: "Zagreus-Bow",
+    Ring: "blue",
     Clear: "5:59.49",
     Tartarus: "1:35.30",
     Asphodel: "1:25.33",
@@ -23832,6 +26214,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.51",
     Tartarus: "1:46.24",
     Asphodel: "1:11.17",
@@ -23842,6 +26225,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.52",
     Tartarus: "1:27.10",
     Asphodel: "1:12.90",
@@ -23852,6 +26236,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.52",
     Tartarus: "2:10.60",
     Asphodel: "1:11.21",
@@ -23862,6 +26247,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.52",
     Tartarus: "1:52.28",
     Asphodel: "1:23.30",
@@ -23872,6 +26258,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.52",
     Tartarus: "1:44.26",
     Asphodel: "1:15.70",
@@ -23882,6 +26269,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:59.52",
     Tartarus: "1:42.61",
     Asphodel: "1:34.13",
@@ -23892,6 +26280,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:59.54",
     Tartarus: "1:29.91",
     Asphodel: "1:10.25",
@@ -23902,6 +26291,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.55",
     Tartarus: "1:58.90",
     Asphodel: "1:03.77",
@@ -23912,6 +26302,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.55",
     Tartarus: "1:52.99",
     Asphodel: "1:23.48",
@@ -23922,6 +26313,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.56",
     Tartarus: "1:49.40",
     Asphodel: "1:07.28",
@@ -23932,6 +26324,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.57",
     Tartarus: "1:42.39",
     Asphodel: "1:18.05",
@@ -23942,6 +26335,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.58",
     Tartarus: "1:37.11",
     Asphodel: "1:18.56",
@@ -23951,7 +26345,8 @@ export const rawData2 = [
   },
   {
     Player: "Croven",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus-Sword",
+    Ring: "red",
     Clear: "5:59.60",
     Tartarus: "2:06.84",
     Asphodel: "1:21.86",
@@ -23962,6 +26357,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:59.61",
     Tartarus: "1:45.89",
     Asphodel: "1:39.18",
@@ -23972,6 +26368,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.61",
     Tartarus: "1:43.39",
     Asphodel: "1:35.75",
@@ -23982,6 +26379,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:59.61",
     Tartarus: "1:42.79",
     Asphodel: "1:11.62",
@@ -23992,6 +26390,7 @@ export const rawData2 = [
   {
     Player: "BIGPthegoat",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.62",
     Tartarus: "1:41.38",
     Asphodel: "1:26.54",
@@ -24002,6 +26401,7 @@ export const rawData2 = [
   {
     Player: "violetblight",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.63",
     Tartarus: "1:40.00",
     Asphodel: "1:12.00",
@@ -24012,6 +26412,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:59.63",
     Tartarus: "1:39.18",
     Asphodel: "1:26.03",
@@ -24022,6 +26423,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.63",
     Tartarus: "1:46.21",
     Asphodel: "1:10.59",
@@ -24032,6 +26434,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.64",
     Tartarus: "1:25.00",
     Asphodel: "1:18.00",
@@ -24042,6 +26445,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.64",
     Tartarus: "1:22.91",
     Asphodel: "1:07.29",
@@ -24052,6 +26456,7 @@ export const rawData2 = [
   {
     Player: "webs2d",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:59.65",
     Tartarus: "1:50.50",
     Asphodel: "1:34.07",
@@ -24062,6 +26467,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.65",
     Tartarus: "1:52.89",
     Asphodel: "1:15.18",
@@ -24072,6 +26478,7 @@ export const rawData2 = [
   {
     Player: "trash_lapras",
     Aspect: "Nemesis",
+    Ring: "violet",
     Clear: "5:59.66",
     Tartarus: "1:52.25",
     Asphodel: "1:30.36",
@@ -24081,7 +26488,8 @@ export const rawData2 = [
   },
   {
     Player: "bablo",
-    Aspect: "Zag Bow",
+    Aspect: "Zagreus-Bow",
+    Ring: "blue",
     Clear: "5:59.66",
     Tartarus: "1:40.82",
     Asphodel: "1:18.33",
@@ -24092,6 +26500,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.66",
     Tartarus: "1:32.82",
     Asphodel: "1:08.20",
@@ -24102,6 +26511,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.67",
     Tartarus: "1:12.53",
     Asphodel: "1:19.30",
@@ -24112,6 +26522,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:59.67",
     Tartarus: "1:42.87",
     Asphodel: "1:31.30",
@@ -24122,6 +26533,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.68",
     Tartarus: "1:44.38",
     Asphodel: "1:10.38",
@@ -24131,7 +26543,8 @@ export const rawData2 = [
   },
   {
     Player: "BIGPthegoat",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus-Sword",
+    Ring: "red",
     Clear: "5:59.68",
     Tartarus: "1:39.53",
     Asphodel: "1:25.05",
@@ -24142,6 +26555,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.69",
     Tartarus: "1:45.23",
     Asphodel: "1:11.37",
@@ -24152,6 +26566,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.70",
     Tartarus: "1:45.55",
     Asphodel: "1:12.07",
@@ -24162,6 +26577,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.70",
     Tartarus: "1:41.77",
     Asphodel: "1:17.81",
@@ -24172,6 +26588,7 @@ export const rawData2 = [
   {
     Player: "nnevic",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.70",
     Tartarus: "1:42.59",
     Asphodel: "1:27.48",
@@ -24182,6 +26599,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.71",
     Tartarus: "1:53.68",
     Asphodel: "1:22.70",
@@ -24192,6 +26610,7 @@ export const rawData2 = [
   {
     Player: "Vorime",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.72",
     Tartarus: "1:47.97",
     Asphodel: "1:06.62",
@@ -24202,6 +26621,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:59.73",
     Tartarus: "1:53.18",
     Asphodel: "1:06.97",
@@ -24212,6 +26632,7 @@ export const rawData2 = [
   {
     Player: "MrKoiCarp",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.73",
     Tartarus: "1:54.90",
     Asphodel: "1:12.28",
@@ -24222,6 +26643,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.74",
     Tartarus: "1:59.07",
     Asphodel: "1:24.36",
@@ -24232,6 +26654,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.77",
     Tartarus: "1:44.43",
     Asphodel: "1:12.65",
@@ -24242,6 +26665,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.77",
     Tartarus: "1:33.85",
     Asphodel: "1:17.46",
@@ -24252,6 +26676,7 @@ export const rawData2 = [
   {
     Player: "Baj",
     Aspect: "Zeus",
+    Ring: "yellow",
     Clear: "5:59.77",
     Tartarus: "1:53.83",
     Asphodel: "1:11.83",
@@ -24262,6 +26687,7 @@ export const rawData2 = [
   {
     Player: "tounis",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.78",
     Tartarus: "1:37.12",
     Asphodel: "1:01.00",
@@ -24272,6 +26698,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.78",
     Tartarus: "1:58.32",
     Asphodel: "1:14.37",
@@ -24282,6 +26709,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:59.78",
     Tartarus: "1:34.92",
     Asphodel: "1:31.07",
@@ -24292,6 +26720,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.78",
     Tartarus: "1:44.74",
     Asphodel: "1:15.49",
@@ -24302,6 +26731,7 @@ export const rawData2 = [
   {
     Player: "c_gull",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.80",
     Tartarus: "1:36.84",
     Asphodel: "1:30.74",
@@ -24312,6 +26742,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.82",
     Tartarus: "1:42.42",
     Asphodel: "1:20.68",
@@ -24322,6 +26753,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:59.82",
     Tartarus: "1:34.54",
     Asphodel: "1:07.89",
@@ -24332,6 +26764,7 @@ export const rawData2 = [
   {
     Player: "bright01",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.83",
     Tartarus: "1:49.04",
     Asphodel: "1:14.16",
@@ -24342,6 +26775,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:59.86",
     Tartarus: "1:37.33",
     Asphodel: "1:22.64",
@@ -24352,6 +26786,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Achilles",
+    Ring: "yellow",
     Clear: "5:59.86",
     Tartarus: "1:32.85",
     Asphodel: "1:18.12",
@@ -24362,6 +26797,7 @@ export const rawData2 = [
   {
     Player: "Mystic1337",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.86",
     Tartarus: "1:44.81",
     Asphodel: "1:07.78",
@@ -24372,6 +26808,7 @@ export const rawData2 = [
   {
     Player: "Ananke",
     Aspect: "Eris",
+    Ring: "darkblue",
     Clear: "5:59.87",
     Tartarus: "1:35.61",
     Asphodel: "1:26.43",
@@ -24382,6 +26819,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:59.87",
     Tartarus: "1:42.56",
     Asphodel: "1:13.35",
@@ -24392,6 +26830,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.88",
     Tartarus: "1:45.22",
     Asphodel: "1:18.61",
@@ -24402,6 +26841,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.88",
     Tartarus: "1:34.50",
     Asphodel: "1:13.59",
@@ -24412,6 +26852,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:59.88",
     Tartarus: "1:41.72",
     Asphodel: "1:15.59",
@@ -24422,6 +26863,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.90",
     Tartarus: "1:39.81",
     Asphodel: "1:36.01",
@@ -24432,6 +26874,7 @@ export const rawData2 = [
   {
     Player: "kirrbyy",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.90",
     Tartarus: "1:36.11",
     Asphodel: "1:28.44",
@@ -24442,6 +26885,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.91",
     Tartarus: "1:27.49",
     Asphodel: "1:22.40",
@@ -24452,6 +26896,7 @@ export const rawData2 = [
   {
     Player: "jazz",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.92",
     Tartarus: "1:42.98",
     Asphodel: "1:07.19",
@@ -24462,6 +26907,7 @@ export const rawData2 = [
   {
     Player: "Zyruvias",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.93",
     Tartarus: "1:37.07",
     Asphodel: "1:23.07",
@@ -24472,6 +26918,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.93",
     Tartarus: "1:53.17",
     Asphodel: "1:23.29",
@@ -24482,6 +26929,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.94",
     Tartarus: "1:33.27",
     Asphodel: "1:32.34",
@@ -24492,6 +26940,7 @@ export const rawData2 = [
   {
     Player: "CardDweeb",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.97",
     Tartarus: "1:33.85",
     Asphodel: "1:27.57",
@@ -24502,6 +26951,7 @@ export const rawData2 = [
   {
     Player: "OckE",
     Aspect: "Beowulf",
+    Ring: "red",
     Clear: "5:59.98",
     Tartarus: "1:47.88",
     Asphodel: "1:27.32",
@@ -24512,6 +26962,7 @@ export const rawData2 = [
   {
     Player: "bablo",
     Aspect: "Hestia",
+    Ring: "pink",
     Clear: "5:59.99",
     Tartarus: "1:45.59",
     Asphodel: "1:05.99",
@@ -24522,6 +26973,7 @@ export const rawData2 = [
   {
     Player: "Croven",
     Aspect: "Hera",
+    Ring: "purple",
     Clear: "5:59.99",
     Tartarus: "1:47.19",
     Asphodel: "1:06.64",
@@ -24532,6 +26984,7 @@ export const rawData2 = [
   {
     Player: "K33p0ut",
     Aspect: "Demeter",
+    Ring: "green",
     Clear: "5:59.99",
     Tartarus: "1:45.74",
     Asphodel: "1:21.35",

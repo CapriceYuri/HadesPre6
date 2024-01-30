@@ -31,18 +31,18 @@ export function BreakList(arr) {
   // Find Page Amount
   let totalPages = [];
   let eachPages = [];
-  let pageNeeded = Math.ceil(arr.length / 25);
+  let pageNeeded = Math.ceil(arr.length / 21);
   for (let j = 1; j <= pageNeeded; j++) {
     let temp = j;
     totalPages.push(temp);
   }
   // Assign runs
-  eachPages[0] = arr.slice(0, 25);
+  eachPages[0] = arr.slice(0, 21);
   for (let i = 1; i < pageNeeded - 1; i++) {
-    eachPages[i] = arr.slice(i * 25, (i + 1) * 25);
+    eachPages[i] = arr.slice(i * 21, (i + 1) * 21);
   }
   eachPages[totalPages.length - 1] = arr.slice(
-    (pageNeeded - 1) * 25,
+    (pageNeeded - 1) * 21,
     arr.length
   );
   return { eachPages, totalPages };

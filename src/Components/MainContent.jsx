@@ -69,7 +69,7 @@ export default function MainContent() {
                 color="purple"
                 className="p-2 text-center font-[monospace]"
               >
-                {"Hades Pre-6"}
+                {"Hades Sub-6"}
               </Typography>
             </div>
             {sortDisplay.map((player, index) => (
@@ -77,98 +77,143 @@ export default function MainContent() {
                 className="hover:bg-black focus:bg-black flex"
                 key={index}
               >
+                <div className="me-4">
+                  <Typography
+                    variant="h6"
+                    color="white"
+                    className="font-semibold font-[serif]"
+                  >
+                    {`${index + 1}.`}
+                  </Typography>
+                </div>
                 <div className="flex-1">
                   <div className="flex flex-col items-center">
                     <Typography
                       variant="h6"
                       color="white"
-                      className="font-bold"
+                      className="font-bold font-[monospace]"
                     >
                       {player.Player}
                     </Typography>
                   </div>
                 </div>
 
-                {/* <div>
-                  <div className="relative mx-auto">
-                    <Avatar
-                      src={`arms/${player.Weapon}-${player.Aspect}.png`}
-                      withBorder={true}
-                    />
-                    <Avatar
-                      src={`rings/discord-${player.Ring}.gif`}
-                      className="absolute top-0 start-0"
-                    />
-                  </div>
-                </div> */}
-
-                <div className="text-center px-2 md:flex-1 md:px-0">
+                <div className="flex-1 text-center">
                   <Typography
-                    variant="small"
+                    variant="h6"
                     color="orange"
-                    className="font-semibold"
+                    className="font-semibold font-[monospace]"
                   >
                     {`${player.Aspect}`}
                   </Typography>
                 </div>
 
-                <div className="flex-1 text-center align-top hidden md:block">
-                  <Typography variant="h5" color="white">
-                    {`${player.Clear}`}
-                  </Typography>
+                <div>
+                  <div className=" flex-1 relative mx-auto">
+                    <Avatar
+                      src={`arms/${player.Aspect}.png`}
+                      withBorder={true}
+                      size="xl"
+                    />
+                    <Avatar
+                      src={`rings/discord-${player.Ring}.gif`}
+                      className="absolute top-0 start-0"
+                      size="xl"
+                    />
+                  </div>
                 </div>
 
-                <div className="text-center px-2 md:flex-1 md:px-0">
+                <div className="flex-1 text-center hidden md:block">
                   <Typography
                     variant="small"
                     color="green"
                     className="font-semibold"
                   >
-                    {`Tartarus: `}
+                    {`Tartarus`}
+                  </Typography>
+                  <Typography
+                    variant="small"
+                    color="green"
+                    className="font-semibold"
+                  >
                     {`${player.Tartarus}`}
                   </Typography>
                 </div>
 
-                <div className="text-center px-2 md:flex-1 md:px-0">
+                <div className="flex-1 text-center hidden md:block">
                   <Typography
                     variant="small"
                     color="orange"
                     className="font-semibold"
                   >
-                    {`Asphodel: `}
+                    {`Asphodel`}
+                  </Typography>
+                  <Typography
+                    variant="small"
+                    color="orange"
+                    className="font-semibold"
+                  >
                     {`${player.Asphodel}`}
                   </Typography>
                 </div>
 
-                <div className="text-center px-2 md:flex-1 md:px-0">
+                <div className="flex-1 text-center hidden md:block">
                   <Typography
                     variant="small"
                     color="blue"
                     className="font-semibold"
                   >
-                    {`Elysium: `}
+                    {`Elysium}`}
+                  </Typography>
+                  <Typography
+                    variant="small"
+                    color="blue"
+                    className="font-semibold"
+                  >
                     {`${player.Elysium}`}
                   </Typography>
                 </div>
 
-                <div className="text-center px-2 md:flex-1 md:px-0">
+                <div className="flex-1 text-center hidden md:block">
                   <Typography
                     variant="small"
                     color="red"
                     className="font-semibold"
                   >
-                    {`Styx: `}
+                    {`Styx`}
+                  </Typography>
+                  <Typography
+                    variant="small"
+                    color="red"
+                    className="font-semibold"
+                  >
                     {`${player.Styx}`}
                   </Typography>
                 </div>
-                <div className="text-center px-2 md:flex-1 md:px-0">
+                <div className="flex-1 text-center hidden md:block">
                   <Typography
                     variant="small"
                     color="yellow"
                     className="font-semibold"
                   >
-                    {`Dad: `}
+                    {`Daddy`}
+                  </Typography>
+                  <Typography
+                    variant="small"
+                    color="yellow"
+                    className="font-semibold"
+                  >
                     {`${player.Dad}`}
+                  </Typography>
+                </div>
+
+                <div className="flex-1 text-center">
+                  <Typography
+                    variant="h5"
+                    color="white"
+                    className="font-[monospace]"
+                  >
+                    {`${player.Clear}`}
                   </Typography>
                 </div>
               </ListItem>
