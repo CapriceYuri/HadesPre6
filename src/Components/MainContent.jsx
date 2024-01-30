@@ -80,16 +80,16 @@ export default function MainContent() {
                 <div className="flex-1">
                   <div className="flex flex-col items-center">
                     <Typography
-                      variant="small"
+                      variant="h6"
                       color="white"
-                      className="font-normal"
+                      className="font-bold"
                     >
-                      {player.Runner}
+                      {player.Player}
                     </Typography>
                   </div>
                 </div>
 
-                <div>
+                {/* <div>
                   <div className="relative mx-auto">
                     <Avatar
                       src={`arms/${player.Weapon}-${player.Aspect}.png`}
@@ -100,16 +100,9 @@ export default function MainContent() {
                       className="absolute top-0 start-0"
                     />
                   </div>
-                </div>
+                </div> */}
 
                 <div className="text-center px-2 md:flex-1 md:px-0">
-                  <Typography
-                    variant="small"
-                    color="orange"
-                    className="font-semibold"
-                  >
-                    {`${player.Weapon}`}
-                  </Typography>
                   <Typography
                     variant="small"
                     color="orange"
@@ -121,102 +114,62 @@ export default function MainContent() {
 
                 <div className="flex-1 text-center align-top hidden md:block">
                   <Typography variant="h5" color="white">
-                    {`${player.IGTR}`}
+                    {`${player.Clear}`}
                   </Typography>
                 </div>
 
                 <div className="text-center px-2 md:flex-1 md:px-0">
                   <Typography
                     variant="small"
-                    color="cyan"
+                    color="green"
                     className="font-semibold"
                   >
-                    {`Furies: `}
-                    {`${player.Furies}`}
-                  </Typography>
-                  <Typography
-                    variant="small"
-                    color="cyan"
-                    className="font-semibold"
-                  >
-                    {`Lernie: `}
-                    {`${player.Lernie}`}
+                    {`Tartarus: `}
+                    {`${player.Tartarus}`}
                   </Typography>
                 </div>
 
                 <div className="text-center px-2 md:flex-1 md:px-0">
                   <Typography
                     variant="small"
-                    color="cyan"
+                    color="orange"
                     className="font-semibold"
                   >
-                    {`Heroes: `}
-                    {`${player.Heroes}`}
-                  </Typography>
-                  <Typography
-                    variant="small"
-                    color="cyan"
-                    className="font-semibold"
-                  >
-                    {`Father: `}
-                    {`${player.Father}`}
+                    {`Asphodel: `}
+                    {`${player.Asphodel}`}
                   </Typography>
                 </div>
+
                 <div className="text-center px-2 md:flex-1 md:px-0">
                   <Typography
                     variant="small"
-                    color="amber"
+                    color="blue"
                     className="font-semibold"
                   >
-                    {`Total Boss Time`}
+                    {`Elysium: `}
+                    {`${player.Elysium}`}
                   </Typography>
+                </div>
+
+                <div className="text-center px-2 md:flex-1 md:px-0">
                   <Typography
                     variant="small"
                     color="red"
                     className="font-semibold"
                   >
-                    {`${player.BossesT}`}
+                    {`Styx: `}
+                    {`${player.Styx}`}
                   </Typography>
                 </div>
                 <div className="text-center px-2 md:flex-1 md:px-0">
                   <Typography
                     variant="small"
-                    color="amber"
+                    color="yellow"
                     className="font-semibold"
                   >
-                    {`Non Boss Rooms`}
+                    {`Dad: `}
+                    {`${player.Dad}`}
                   </Typography>
-                  <Typography
-                    variant="small"
-                    color="red"
-                    className="font-semibold"
-                  >
-                    {`${player.NBR}`}
-                  </Typography>
-                </div>
-
-                <div className="flex-1 text-center">
-                  <Typography variant="h6" color="white">
-                    {`${player.IGTA}`}
-                  </Typography>
-                </div>
-
-                <div className="flex justify-center">
-                  <a href={player.Link} target="_blank">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 24 24"
-                      fill="currentColor"
-                      color="red"
-                      className="w-6 h-6 z-10 animate-bounce"
-                    >
-                      <path
-                        fillRule="evenodd"
-                        d="M4.5 5.653c0-1.427 1.529-2.33 2.779-1.643l11.54 6.347c1.295.712 1.295 2.573 0 3.286L7.28 19.99c-1.25.687-2.779-.217-2.779-1.643V5.653Z"
-                        clipRule="evenodd"
-                      />
-                    </svg>
-                  </a>
                 </div>
               </ListItem>
             ))}

@@ -1,22 +1,31 @@
-import { rawData } from "./DataImport";
+import { rawData2 } from "./DataSet2";
+
+let ogData = [];
+let seenCombinations = new Set();
+
+for (let obj of rawData2) {
+  let combination = obj.Player + "-" + obj.Aspect;
+  if (!seenCombinations.has(combination)) {
+    seenCombinations.add(combination);
+    ogData.push(obj);
+  }
+}
+
+const allData = [ogData];
 
 let tempPlayerArr = [];
 
 function findTotalPlayer() {
-  for (let i = 0; i < rawData.length; i++) {
-    if (tempPlayerArr.indexOf(rawData[i].Runner) === -1) {
-      tempPlayerArr.push(rawData[i].Runner);
+  for (let i = 0; i < ogData.length; i++) {
+    if (tempPlayerArr.indexOf(ogData[i].Player) === -1) {
+      tempPlayerArr.push(ogData[i].Player);
     }
   }
 }
-
 findTotalPlayer();
 
 const uniquePlayers = tempPlayerArr.length;
-const totalRuns = rawData.length;
-
-const ogData = rawData;
-const allData = [ogData];
+const totalRuns = ogData.length;
 
 export function BreakList(arr) {
   // Find Page Amount
