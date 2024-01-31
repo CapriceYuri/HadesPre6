@@ -91,16 +91,6 @@ export default function MainContent() {
                 className="hover:bg-black focus:bg-black flex"
                 key={index}
               >
-                <div className="me-4">
-                  <Typography
-                    variant="h6"
-                    color="white"
-                    className="font-semibold font-[serif]"
-                  >
-                    {`${index + 1}.`}
-                  </Typography>
-                </div>
-
                 <div className="flex-1">
                   <Typography
                     variant="h6"
