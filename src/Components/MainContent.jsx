@@ -66,11 +66,25 @@ export default function MainContent() {
             <div>
               <Typography
                 variant="h3"
-                color="purple"
-                className="p-2 text-center font-[monospace]"
+                className="p-2 text-center font-[monospace] text-[#D8BFD8]"
               >
                 {"Hades Sub-6"}
               </Typography>
+            </div>
+            <div className="flex justify-center">
+              <div>
+                <img src="lighting.gif" />
+              </div>
+              <Typography
+                variant="h3"
+                color="yellow"
+                className="p-2 text-center font-[monospace]"
+              >
+                {"HERMES"}
+              </Typography>
+              <div>
+                <img src="lighting.gif" />
+              </div>
             </div>
             {sortDisplay.map((player, index) => (
               <ListItem
@@ -86,39 +100,38 @@ export default function MainContent() {
                     {`${index + 1}.`}
                   </Typography>
                 </div>
+
                 <div className="flex-1">
-                  <div className="flex flex-col items-center">
-                    <Typography
-                      variant="h6"
-                      color="white"
-                      className="font-bold font-[monospace]"
-                    >
-                      {player.Player}
-                    </Typography>
-                  </div>
+                  <Typography
+                    variant="h6"
+                    color="white"
+                    className="font-[monospace]"
+                  >
+                    {player.Player}
+                  </Typography>
                 </div>
 
                 <div className="flex-1 text-center">
                   <Typography
                     variant="h6"
                     color="orange"
-                    className="font-semibold font-[monospace]"
+                    className="font-[monospace]"
                   >
                     {`${player.Aspect}`}
                   </Typography>
                 </div>
 
                 <div>
-                  <div className=" flex-1 relative mx-auto">
+                  <div className="flex-1 relative mx-auto">
                     <Avatar
                       src={`arms/${player.Aspect}.png`}
                       withBorder={true}
-                      size="xl"
+                      size="lg"
                     />
                     <Avatar
                       src={`rings/discord-${player.Ring}.gif`}
                       className="absolute top-0 start-0"
-                      size="xl"
+                      size="lg"
                     />
                   </div>
                 </div>
@@ -209,7 +222,7 @@ export default function MainContent() {
 
                 <div className="flex-1 text-center">
                   <Typography
-                    variant="h5"
+                    variant="h6"
                     color="white"
                     className="font-[monospace]"
                   >
