@@ -18,11 +18,11 @@ export default function MainContent() {
   const [active, setActive] = useState(1);
   const [pageInfo, setPageInfo] = useState(0);
 
-  function handleDataChange(num) {
-    setCategory(num);
-    setPageInfo(0);
-    setActive(1);
-  }
+  // function handleDataChange(num) {
+  //   setCategory(num);
+  //   setPageInfo(0);
+  //   setActive(1);
+  // }
   function handleChangePage(arr) {
     setPageInfo(arr);
   }
@@ -48,13 +48,19 @@ export default function MainContent() {
         alt="cover-bg"
         className="fixed h-lvh w-full object-cover -z-10"
       />
+      <video
+        src="Hades2.mp4"
+        className="-z-10 fixed h-lvh w-full object-cover 3xl:object-fill"
+        muted
+        autoPlay
+        loop
+      ></video>
       <section>
         <div className="flex justify-center px-2 mx-auto w-[100%] py-5 gap-x-2 2xl:w-3/4">
           <TotalRunsCard />
           <TotalPlayerCard />
         </div>
       </section>
-      {/* COVER BG */}
       <section className="w-full flex justify-center pt-5 pb-10">
         <Card className="w-[100%] backdrop-blur-lg bg-transparent shadow-[0_0_50px_cyan] 2xl:w-3/4">
           <img

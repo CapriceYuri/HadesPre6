@@ -11,21 +11,21 @@ for (let obj of rawData2) {
   }
 }
 
-const allData = [ogData];
+const allData = [rawData2];
 
 let tempPlayerArr = [];
 
 function findTotalPlayer() {
-  for (let i = 0; i < ogData.length; i++) {
-    if (tempPlayerArr.indexOf(ogData[i].Player) === -1) {
-      tempPlayerArr.push(ogData[i].Player);
+  for (let i = 0; i < rawData2.length; i++) {
+    if (tempPlayerArr.indexOf(rawData2[i].Player) === -1) {
+      tempPlayerArr.push(rawData2[i].Player);
     }
   }
 }
 findTotalPlayer();
 
 const uniquePlayers = tempPlayerArr.length;
-const totalRuns = ogData.length;
+const totalRuns = rawData2.length;
 
 export function BreakList(arr) {
   // Find Page Amount
