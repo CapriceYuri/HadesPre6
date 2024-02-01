@@ -1,4 +1,5 @@
 import { rawData2 } from "./DataSet2";
+rawData2.sort((a, b) => (a.Clear > b.Clear ? 1 : -1));
 
 let ogData = [];
 let seenCombinations = new Set();
@@ -11,10 +12,9 @@ for (let obj of rawData2) {
   }
 }
 
-const allData = [rawData2];
+const allData = [rawData2, ogData];
 
 let tempPlayerArr = [];
-
 function findTotalPlayer() {
   for (let i = 0; i < rawData2.length; i++) {
     if (tempPlayerArr.indexOf(rawData2[i].Player) === -1) {

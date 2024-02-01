@@ -1,5 +1,16 @@
 export const rawData2 = [
   {
+    Player: "Banana7890",
+    Aspect: "Beowulf",
+    Ring: "red",
+    Clear: "5:32.83",
+    Tartarus: "2:00.23",
+    Asphodel: "0:57.81",
+    Elysium: "1:24.35",
+    Styx: "0:39.53",
+    Dad: "0:30.91",
+  },
+  {
     Player: "Vorime",
     Aspect: "Beowulf",
     Ring: "red",
