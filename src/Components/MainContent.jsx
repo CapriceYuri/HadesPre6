@@ -172,7 +172,7 @@ export default function MainContent() {
                     color="blue"
                     className="font-semibold"
                   >
-                    {`Elysium}`}
+                    {`Elysium`}
                   </Typography>
                   <Typography
                     variant="small"
