@@ -19,11 +19,15 @@ export default function MainContent() {
   const [active, setActive] = useState(1);
   const [pageInfo, setPageInfo] = useState(0);
 
-  function handleDataChange(num) {
-    setCategory(num);
-    setPageInfo(0);
-    setActive(1);
-  }
+  const handleDataChange = (num) => ({
+    variant: category === num ? "underlined" : "text",
+    onClick: () => {
+      setCategory(num);
+      setPageInfo(0);
+      setActive(1);
+    },
+  });
+
   function handleChangePage(arr) {
     setPageInfo(arr);
   }
@@ -71,18 +75,10 @@ export default function MainContent() {
           <div className="absolute h-full w-full bg-gradient-to-r from-purple-800 via-black to-purple-600 rounded-xl opacity-60" />
           <List className="z-40">
             <div className="flex justify-center gap-x-4 pt-4">
-              <Button
-                onClick={() => handleDataChange(0)}
-                variant="outlined"
-                color="red"
-              >
+              <Button {...handleDataChange(0)} color="red">
                 All Runs
               </Button>
-              <Button
-                onClick={() => handleDataChange(1)}
-                variant="outlined"
-                color="blue"
-              >
+              <Button {...handleDataChange(1)} color="blue">
                 Unique RUns
               </Button>
             </div>
