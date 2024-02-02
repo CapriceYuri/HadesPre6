@@ -10,7 +10,7 @@ import {
 } from "@material-tailwind/react";
 
 import { useState } from "react";
-import { allData, BreakList } from "../Data/DataLogic";
+import { allData, BreakList, addRankProperty } from "../Data/DataLogic";
 import TotalPlayerCard from "./TotalUniquePlayers";
 import TotalRunsCard from "./TotalRuns";
 
@@ -20,8 +20,9 @@ export default function MainContent() {
   const [pageInfo, setPageInfo] = useState(0);
 
   const handleDataChange = (num) => ({
-    variant: category === num ? "underlined" : "text",
+    variant: category === num ? "gradient" : "outlined",
     onClick: () => {
+      addRankProperty(allData[num]);
       setCategory(num);
       setPageInfo(0);
       setActive(1);
@@ -82,6 +83,17 @@ export default function MainContent() {
                 Unique RUns
               </Button>
             </div>
+            <div className="flex justify-center gap-x-4 pt-4">
+              <Button {...handleDataChange(2)} color="pink">
+                #1 History
+              </Button>
+              <Button {...handleDataChange(3)} color="cyan">
+                #2 History
+              </Button>
+              <Button {...handleDataChange(4)} color="light-green">
+                #3 History
+              </Button>
+            </div>
             <div>
               <Typography
                 variant="h3"
@@ -110,6 +122,15 @@ export default function MainContent() {
                 className="hover:bg-black focus:bg-black flex"
                 key={index}
               >
+                <div className="text-center">
+                  <Typography
+                    variant="h6"
+                    color="pink"
+                    className="font-[monospace]"
+                  >
+                    {`#${player.rank}. `}
+                  </Typography>
+                </div>
                 <div className="flex-1">
                   <Typography
                     variant="h6"

@@ -1,6 +1,16 @@
 import { rawData2 } from "./DataSet2";
 rawData2.sort((a, b) => (a.Clear > b.Clear ? 1 : -1));
 
+const firstPlaceHistory = rawData2.filter(
+  (arr) => rawData2[0].Player === arr.Player
+);
+const secondPlaceHistory = rawData2.filter(
+  (arr) => rawData2[1].Player === arr.Player
+);
+const thirdPlaceHistory = rawData2.filter(
+  (arr) => rawData2[2].Player === arr.Player
+);
+
 let ogData = [];
 let seenCombinations = new Set();
 
@@ -12,7 +22,20 @@ for (let obj of rawData2) {
   }
 }
 
-const allData = [rawData2, ogData];
+const allData = [
+  rawData2,
+  ogData,
+  firstPlaceHistory,
+  secondPlaceHistory,
+  thirdPlaceHistory,
+];
+
+export function addRankProperty(arr) {
+  for (let i = 0; i < arr.length; i++) {
+    arr[i].rank = i + 1;
+  }
+}
+addRankProperty(rawData2);
 
 let tempPlayerArr = [];
 function findTotalPlayer() {
