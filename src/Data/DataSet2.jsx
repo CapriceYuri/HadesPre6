@@ -2441,7 +2441,7 @@ export const rawData2 = [
   },
   {
     Player: "bablo",
-    Aspect: "Zag Spear",
+    Aspect: "Zagreus Spear",
     Clear: "5:25.80",
     Tartarus: "1:36.57",
     Asphodel: "1:06.74",
@@ -6081,7 +6081,7 @@ export const rawData2 = [
   },
   {
     Player: "Wmic",
-    Aspect: "Zag Rail",
+    Aspect: "Zagreus Rail",
     Clear: "5:37.75",
     Tartarus: "1:40.17",
     Asphodel: "1:17.21",
@@ -7601,7 +7601,7 @@ export const rawData2 = [
   },
   {
     Player: "c_gull",
-    Aspect: "Zag Rail",
+    Aspect: "Zagreus Rail",
     Clear: "5:40.86",
     Tartarus: "1:36.49",
     Asphodel: "1:24.14",
@@ -11751,7 +11751,7 @@ export const rawData2 = [
   },
   {
     Player: "Zyruvias",
-    Aspect: "Zag Rail",
+    Aspect: "Zagreus Rail",
     Clear: "5:47.39",
     Tartarus: "1:20.31",
     Asphodel: "1:32.54",
@@ -12231,7 +12231,7 @@ export const rawData2 = [
   },
   {
     Player: "Zyruvias",
-    Aspect: "Zag Shield",
+    Aspect: "Zagreus Shield",
     Clear: "5:48.05",
     Tartarus: "1:44.15",
     Asphodel: "1:06.31",
@@ -13981,7 +13981,7 @@ export const rawData2 = [
   },
   {
     Player: "bablo",
-    Aspect: "Zag Shield",
+    Aspect: "Zagreus Shield",
     Clear: "5:49.96",
     Tartarus: "1:41.76",
     Asphodel: "1:11.66",
@@ -14221,7 +14221,7 @@ export const rawData2 = [
   },
   {
     Player: "Ananke",
-    Aspect: "Zag Fists",
+    Aspect: "Zagreus Fists",
     Clear: "5:50.28",
     Tartarus: "2:04.13",
     Asphodel: "1:05.55",
@@ -16981,7 +16981,7 @@ export const rawData2 = [
   },
   {
     Player: "Zyruvias",
-    Aspect: "Zag Fists",
+    Aspect: "Zagreus Fists",
     Clear: "5:53.33",
     Tartarus: "1:39.90",
     Asphodel: "1:21.16",
@@ -17321,7 +17321,7 @@ export const rawData2 = [
   },
   {
     Player: "Zyruvias",
-    Aspect: "Zag Spear",
+    Aspect: "Zagreus Spear",
     Clear: "5:53.66",
     Tartarus: "1:51.44",
     Asphodel: "1:21.22",
@@ -17501,7 +17501,7 @@ export const rawData2 = [
   },
   {
     Player: "Zyruvias",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus Sword",
     Clear: "5:53.82",
     Tartarus: "1:38.30",
     Asphodel: "1:10.55",
@@ -17941,7 +17941,7 @@ export const rawData2 = [
   },
   {
     Player: "Croven",
-    Aspect: "Zag Bow",
+    Aspect: "Zagreus Bow",
     Clear: "5:54.16",
     Tartarus: "1:36.36",
     Asphodel: "1:08.53",
@@ -18691,7 +18691,7 @@ export const rawData2 = [
   },
   {
     Player: "DrkFrst",
-    Aspect: "Zag Fists",
+    Aspect: "Zagreus Fists",
     Clear: "5:54.88",
     Tartarus: "1:52.43",
     Asphodel: "1:22.19",
@@ -20221,7 +20221,7 @@ export const rawData2 = [
   },
   {
     Player: "bablo",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus Sword",
     Clear: "5:56.33",
     Tartarus: "1:43.00",
     Asphodel: "1:18.50",
@@ -20901,7 +20901,7 @@ export const rawData2 = [
   },
   {
     Player: "Ananke",
-    Aspect: "Zag Fists",
+    Aspect: "Zagreus Fists",
     Clear: "5:56.82",
     Tartarus: "1:57.58",
     Asphodel: "1:06.76",
@@ -22051,7 +22051,7 @@ export const rawData2 = [
   },
   {
     Player: "K33p0ut",
-    Aspect: "Zag Shield",
+    Aspect: "Zagreus Shield",
     Clear: "5:57.94",
     Tartarus: "1:54.82",
     Asphodel: "1:25.53",
@@ -22591,7 +22591,7 @@ export const rawData2 = [
   },
   {
     Player: "Latt_Millard",
-    Aspect: "Zag Bow",
+    Aspect: "Zagreus Bow",
     Clear: "5:58.38",
     Tartarus: "1:36.82",
     Asphodel: "1:28.60",
@@ -23261,7 +23261,7 @@ export const rawData2 = [
   },
   {
     Player: "tounis",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus Sword",
     Clear: "5:58.83",
     Tartarus: "1:45.52",
     Asphodel: "1:05.41",
@@ -23671,7 +23671,7 @@ export const rawData2 = [
   },
   {
     Player: "K33p0ut",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus Sword",
     Clear: "5:59.13",
     Tartarus: "1:40.95",
     Asphodel: "1:08.97",
@@ -24071,7 +24071,7 @@ export const rawData2 = [
   },
   {
     Player: "bablo",
-    Aspect: "Zag Bow",
+    Aspect: "Zagreus Bow",
     Clear: "5:59.49",
     Tartarus: "1:35.30",
     Asphodel: "1:25.33",
@@ -24201,7 +24201,7 @@ export const rawData2 = [
   },
   {
     Player: "Croven",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus Sword",
     Clear: "5:59.60",
     Tartarus: "2:06.84",
     Asphodel: "1:21.86",
@@ -24331,7 +24331,7 @@ export const rawData2 = [
   },
   {
     Player: "bablo",
-    Aspect: "Zag Bow",
+    Aspect: "Zagreus Bow",
     Clear: "5:59.66",
     Tartarus: "1:40.82",
     Asphodel: "1:18.33",
@@ -24381,7 +24381,7 @@ export const rawData2 = [
   },
   {
     Player: "BIGPthegoat",
-    Aspect: "Zag Sword",
+    Aspect: "Zagreus Sword",
     Clear: "5:59.68",
     Tartarus: "1:39.53",
     Asphodel: "1:25.05",
