@@ -6,7 +6,7 @@ const SplitsBtns = ({ onButtonClick }) => {
   const buttonColors = ["green", "deep-orange", "blue", "pink", "yellow"];
 
   return (
-    <div className="flex justify-center gap-2 pt-4">
+    <div className="flex justify-center flex-wrap gap-2 pt-4">
       {buttonNumbers.map((num, index) => (
         <Button
           key={index}
