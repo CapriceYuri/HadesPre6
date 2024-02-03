@@ -15,6 +15,7 @@ import TotalPlayerCard from "./TotalUniquePlayers";
 import TotalRunsCard from "./TotalRuns";
 import HistoryButtons from "./CategoryBtns";
 import AspectButtons from "./AspectBtns";
+import SplitsBtns from "./Splits";
 
 export default function MainContent() {
   const [category, setCategory] = useState(0);
@@ -87,6 +88,7 @@ export default function MainContent() {
               </Button>
             </div>
             <HistoryButtons onButtonClick={handleDataChange} />
+            <SplitsBtns onButtonClick={handleDataChange} />
             <AspectButtons onButtonClick={handleDataChange} />
             <div>
               <Typography

@@ -16400,16 +16400,6 @@ export const rawData2 = [
     Dad: "0:30.45",
   },
   {
-    Player: "185in",
-    Aspect: "Hera",
-    Clear: "5:52.66",
-    Tartarus: "",
-    Asphodel: "",
-    Elysium: "",
-    Styx: "",
-    Dad: "5:52.66",
-  },
-  {
     Player: "DrkFrst",
     Aspect: "Hera",
     Clear: "5:52.66",

@@ -10,38 +10,7 @@ const secondPlaceHistory = rawData2.filter(
 const thirdPlaceHistory = rawData2.filter(
   (arr) => rawData2[2].Player === arr.Player
 );
-// LISTING
-const ZagreusSword = rawData2.filter((arr) => arr.Aspect === "Zagreus Sword");
-const Nemesis = rawData2.filter((arr) => arr.Aspect === "Nemesis");
-const Poseidon = rawData2.filter((arr) => arr.Aspect === "Poseidon");
-const Arthur = rawData2.filter((arr) => arr.Aspect === "Arthur");
 
-const ZagreusSpear = rawData2.filter((arr) => arr.Aspect === "Zagreus Spear");
-const Achilles = rawData2.filter((arr) => arr.Aspect === "Achilles");
-const Hades = rawData2.filter((arr) => arr.Aspect === "Hades");
-const GuanYu = rawData2.filter((arr) => arr.Aspect === "Guan Yu");
-
-const ZagreusShield = rawData2.filter((arr) => arr.Aspect === "Zagreus Shield");
-const Chaos = rawData2.filter((arr) => arr.Aspect === "Chaos");
-const Zeus = rawData2.filter((arr) => arr.Aspect === "Zeus");
-const Beowulf = rawData2.filter((arr) => arr.Aspect === "Beowulf");
-
-const ZagreusBow = rawData2.filter((arr) => arr.Aspect === "Zagreus Bow");
-const Chiron = rawData2.filter((arr) => arr.Aspect === "Chiron");
-const Hera = rawData2.filter((arr) => arr.Aspect === "Hera");
-const Rama = rawData2.filter((arr) => arr.Aspect === "Rama");
-
-const ZagreusFists = rawData2.filter((arr) => arr.Aspect === "Zagreus Fists");
-const Talos = rawData2.filter((arr) => arr.Aspect === "Talos");
-const Demeter = rawData2.filter((arr) => arr.Aspect === "Demeter");
-const Gilgamesh = rawData2.filter((arr) => arr.Aspect === "Gilgamesh");
-
-const ZagreusRail = rawData2.filter((arr) => arr.Aspect === "Zagreus Rail");
-const Eris = rawData2.filter((arr) => arr.Aspect === "Eris");
-const Hestia = rawData2.filter((arr) => arr.Aspect === "Hestia");
-const Lucifer = rawData2.filter((arr) => arr.Aspect === "Lucifer");
-
-// LISTING
 let ogData = [];
 let seenCombinations = new Set();
 
@@ -52,6 +21,52 @@ for (let obj of rawData2) {
     ogData.push(obj);
   }
 }
+
+// LISTING
+const ZagreusSword = ogData.filter((arr) => arr.Aspect === "Zagreus Sword");
+const Nemesis = ogData.filter((arr) => arr.Aspect === "Nemesis");
+const Poseidon = ogData.filter((arr) => arr.Aspect === "Poseidon");
+const Arthur = ogData.filter((arr) => arr.Aspect === "Arthur");
+
+const ZagreusSpear = ogData.filter((arr) => arr.Aspect === "Zagreus Spear");
+const Achilles = ogData.filter((arr) => arr.Aspect === "Achilles");
+const Hades = ogData.filter((arr) => arr.Aspect === "Hades");
+const GuanYu = ogData.filter((arr) => arr.Aspect === "Guan Yu");
+
+const ZagreusShield = ogData.filter((arr) => arr.Aspect === "Zagreus Shield");
+const Chaos = ogData.filter((arr) => arr.Aspect === "Chaos");
+const Zeus = ogData.filter((arr) => arr.Aspect === "Zeus");
+const Beowulf = ogData.filter((arr) => arr.Aspect === "Beowulf");
+
+const ZagreusBow = ogData.filter((arr) => arr.Aspect === "Zagreus Bow");
+const Chiron = ogData.filter((arr) => arr.Aspect === "Chiron");
+const Hera = ogData.filter((arr) => arr.Aspect === "Hera");
+const Rama = ogData.filter((arr) => arr.Aspect === "Rama");
+
+const ZagreusFists = ogData.filter((arr) => arr.Aspect === "Zagreus Fists");
+const Talos = ogData.filter((arr) => arr.Aspect === "Talos");
+const Demeter = ogData.filter((arr) => arr.Aspect === "Demeter");
+const Gilgamesh = ogData.filter((arr) => arr.Aspect === "Gilgamesh");
+
+const ZagreusRail = ogData.filter((arr) => arr.Aspect === "Zagreus Rail");
+const Eris = ogData.filter((arr) => arr.Aspect === "Eris");
+const Hestia = ogData.filter((arr) => arr.Aspect === "Hestia");
+const Lucifer = ogData.filter((arr) => arr.Aspect === "Lucifer");
+// LISTING
+
+const split1 = structuredClone(ogData).sort((a, b) =>
+  a.Tartarus > b.Tartarus ? 1 : -1
+);
+const split2 = structuredClone(ogData).sort((a, b) =>
+  a.Asphodel > b.Asphodel ? 1 : -1
+);
+const split3 = structuredClone(ogData).sort((a, b) =>
+  a.Elysium > b.Elysium ? 1 : -1
+);
+const split4 = structuredClone(ogData).sort((a, b) =>
+  a.Styx > b.Styx ? 1 : -1
+);
+const split5 = structuredClone(ogData).sort((a, b) => (a.Dad > b.Dad ? 1 : -1));
 
 const allData = [
   rawData2,
@@ -83,6 +98,11 @@ const allData = [
   Eris,
   Hestia,
   Lucifer,
+  split1,
+  split2,
+  split3,
+  split4,
+  split5,
 ];
 
 export function addRankProperty(arr) {
@@ -128,8 +148,8 @@ export function BreakList(arr) {
 
 export { totalRuns, uniquePlayers, allData };
 
-function getUniquePropertyValues(array, property) {
-  return Array.from(new Set(array.map((item) => item[property])));
-}
-const uniqueNames = getUniquePropertyValues(rawData2, "Aspect");
-console.log(uniqueNames);
+// function getUniquePropertyValues(array, property) {
+//   return Array.from(new Set(array.map((item) => item[property])));
+// }
+// const uniqueNames = getUniquePropertyValues(rawData2, "Aspect");
+// console.log(uniqueNames);
