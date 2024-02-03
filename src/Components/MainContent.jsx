@@ -13,6 +13,8 @@ import { useState } from "react";
 import { allData, BreakList, addRankProperty } from "../Data/DataLogic";
 import TotalPlayerCard from "./TotalUniquePlayers";
 import TotalRunsCard from "./TotalRuns";
+import HistoryButtons from "./CategoryBtns";
+import AspectButtons from "./AspectBtns";
 
 export default function MainContent() {
   const [category, setCategory] = useState(0);
@@ -21,6 +23,7 @@ export default function MainContent() {
 
   const handleDataChange = (num) => ({
     variant: category === num ? "gradient" : "outlined",
+    color: "white",
     onClick: () => {
       addRankProperty(allData[num]);
       setCategory(num);
@@ -83,17 +86,8 @@ export default function MainContent() {
                 Unique RUns
               </Button>
             </div>
-            <div className="flex justify-center gap-x-4 pt-4">
-              <Button {...handleDataChange(2)} color="pink">
-                #1 History
-              </Button>
-              <Button {...handleDataChange(3)} color="cyan">
-                #2 History
-              </Button>
-              <Button {...handleDataChange(4)} color="light-green">
-                #3 History
-              </Button>
-            </div>
+            <HistoryButtons onButtonClick={handleDataChange} />
+            <AspectButtons onButtonClick={handleDataChange} />
             <div>
               <Typography
                 variant="h3"

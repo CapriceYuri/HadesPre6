@@ -10,7 +10,38 @@ const secondPlaceHistory = rawData2.filter(
 const thirdPlaceHistory = rawData2.filter(
   (arr) => rawData2[2].Player === arr.Player
 );
+// LISTING
+const ZagreusSword = rawData2.filter((arr) => arr.Aspect === "Zagreus Sword");
+const Nemesis = rawData2.filter((arr) => arr.Aspect === "Nemesis");
+const Poseidon = rawData2.filter((arr) => arr.Aspect === "Poseidon");
+const Arthur = rawData2.filter((arr) => arr.Aspect === "Arthur");
 
+const ZagreusSpear = rawData2.filter((arr) => arr.Aspect === "Zagreus Spear");
+const Achilles = rawData2.filter((arr) => arr.Aspect === "Achilles");
+const Hades = rawData2.filter((arr) => arr.Aspect === "Hades");
+const GuanYu = rawData2.filter((arr) => arr.Aspect === "Guan Yu");
+
+const ZagreusShield = rawData2.filter((arr) => arr.Aspect === "Zagreus Shield");
+const Chaos = rawData2.filter((arr) => arr.Aspect === "Chaos");
+const Zeus = rawData2.filter((arr) => arr.Aspect === "Zeus");
+const Beowulf = rawData2.filter((arr) => arr.Aspect === "Beowulf");
+
+const ZagreusBow = rawData2.filter((arr) => arr.Aspect === "Zagreus Bow");
+const Chiron = rawData2.filter((arr) => arr.Aspect === "Chiron");
+const Hera = rawData2.filter((arr) => arr.Aspect === "Hera");
+const Rama = rawData2.filter((arr) => arr.Aspect === "Rama");
+
+const ZagreusFists = rawData2.filter((arr) => arr.Aspect === "Zagreus Fists");
+const Talos = rawData2.filter((arr) => arr.Aspect === "Talos");
+const Demeter = rawData2.filter((arr) => arr.Aspect === "Demeter");
+const Gilgamesh = rawData2.filter((arr) => arr.Aspect === "Gilgamesh");
+
+const ZagreusRail = rawData2.filter((arr) => arr.Aspect === "Zagreus Rail");
+const Eris = rawData2.filter((arr) => arr.Aspect === "Eris");
+const Hestia = rawData2.filter((arr) => arr.Aspect === "Hestia");
+const Lucifer = rawData2.filter((arr) => arr.Aspect === "Lucifer");
+
+// LISTING
 let ogData = [];
 let seenCombinations = new Set();
 
@@ -28,6 +59,30 @@ const allData = [
   firstPlaceHistory,
   secondPlaceHistory,
   thirdPlaceHistory,
+  ZagreusSword,
+  Nemesis,
+  Poseidon,
+  Arthur,
+  ZagreusSpear,
+  Achilles,
+  Hades,
+  GuanYu,
+  ZagreusShield,
+  Chaos,
+  Zeus,
+  Beowulf,
+  ZagreusBow,
+  Chiron,
+  Hera,
+  Rama,
+  ZagreusFists,
+  Talos,
+  Demeter,
+  Gilgamesh,
+  ZagreusRail,
+  Eris,
+  Hestia,
+  Lucifer,
 ];
 
 export function addRankProperty(arr) {
@@ -72,3 +127,9 @@ export function BreakList(arr) {
 }
 
 export { totalRuns, uniquePlayers, allData };
+
+function getUniquePropertyValues(array, property) {
+  return Array.from(new Set(array.map((item) => item[property])));
+}
+const uniqueNames = getUniquePropertyValues(rawData2, "Aspect");
+console.log(uniqueNames);
