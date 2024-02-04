@@ -1,7 +1,7 @@
 import { Button } from "@material-tailwind/react";
 
 const SplitsBtns = ({ onButtonClick }) => {
-  const splits = ["Tartarus", "Asphodel", "Elysium", "Styx", "Dad"];
+  const splits = ["Tartarus", "Asphodel", "Elysium", "Styx", "Hades"];
   const buttonNumbers = [29, 30, 31, 32, 33];
   const buttonColors = ["green", "deep-orange", "blue", "pink", "yellow"];
 

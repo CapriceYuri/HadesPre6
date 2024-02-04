@@ -66,7 +66,7 @@ export default function MainContent() {
         loop
       ></video>
       <section>
-        <div className="flex justify-center px-2 mx-auto w-[100%] py-5 gap-x-2 2xl:w-3/4">
+        <div className="flex justify-center px-2 mx-auto w-[100%] pt-5 gap-x-2 2xl:w-3/4">
           <TotalRunsCard />
           <TotalPlayerCard />
         </div>
@@ -87,7 +87,7 @@ export default function MainContent() {
                 All Runs
               </Button>
               <Button {...handleDataChange(1)} color="blue">
-                Unique RUns
+                Unique Runs
               </Button>
             </div>
             <HistoryButtons onButtonClick={handleDataChange} />
@@ -291,7 +291,7 @@ export default function MainContent() {
                     color="yellow"
                     className="font-semibold"
                   >
-                    {`Daddy`}
+                    {`Hades`}
                   </Typography>
                   <Typography
                     variant="small"
