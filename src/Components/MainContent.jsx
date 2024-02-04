@@ -74,7 +74,7 @@ export default function MainContent() {
       <section>
         <img src="hades-red.png" className="mx-auto" />
       </section>
-      <section className="w-full flex justify-center pt-5 pb-10">
+      <section className="w-full flex justify-center pt-5">
         <Card className="w-[100%] backdrop-blur-lg bg-transparent shadow-[0_0_50px_cyan] 2xl:w-3/4">
           <img
             src="vertical-blue.jpg"
@@ -326,6 +326,12 @@ export default function MainContent() {
             </div>
           </CardFooter>
         </Card>
+      </section>
+      <section>
+        <img
+          src="zeus-blue.png"
+          className="mx-auto border-x-8 rounded-lg border-blue-400"
+        />
       </section>
     </section>
   );
