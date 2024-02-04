@@ -54,19 +54,21 @@ const Hestia = ogData.filter((arr) => arr.Aspect === "Hestia");
 const Lucifer = ogData.filter((arr) => arr.Aspect === "Lucifer");
 // LISTING
 
-const split1 = structuredClone(ogData).sort((a, b) =>
+const split1 = structuredClone(rawData2).sort((a, b) =>
   a.Tartarus > b.Tartarus ? 1 : -1
 );
-const split2 = structuredClone(ogData).sort((a, b) =>
+const split2 = structuredClone(rawData2).sort((a, b) =>
   a.Asphodel > b.Asphodel ? 1 : -1
 );
-const split3 = structuredClone(ogData).sort((a, b) =>
+const split3 = structuredClone(rawData2).sort((a, b) =>
   a.Elysium > b.Elysium ? 1 : -1
 );
-const split4 = structuredClone(ogData).sort((a, b) =>
+const split4 = structuredClone(rawData2).sort((a, b) =>
   a.Styx > b.Styx ? 1 : -1
 );
-const split5 = structuredClone(ogData).sort((a, b) => (a.Dad > b.Dad ? 1 : -1));
+const split5 = structuredClone(rawData2).sort((a, b) =>
+  a.Dad > b.Dad ? 1 : -1
+);
 
 const allData = [
   rawData2,

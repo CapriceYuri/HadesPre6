@@ -327,12 +327,6 @@ export default function MainContent() {
           </CardFooter>
         </Card>
       </section>
-      <section>
-        <img
-          src="zeus-blue.png"
-          className="mx-auto border-x-8 rounded-lg border-blue-400"
-        />
-      </section>
     </section>
   );
 }
