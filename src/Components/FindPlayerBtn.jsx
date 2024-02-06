@@ -19,38 +19,43 @@ export default function FindPlayerBtn({ onButtonClick }) {
 
   return (
     <div className="flex justify-center p-4">
-      <div className="flex flex-row">
-        <div className="w-72">
+      <div>
+        <div className="w-[400px]">
           <Input
-            type="text"
+            type="gradient"
             color="white"
             label="Name"
             value={inputValue}
             onChange={handleInputChange}
           />
         </div>
-        <Button
-          color="white"
-          className="mx-2"
-          onClick={() => {
-            onButtonClick(0).onClick();
-            setInputValue("");
-          }}
-        >
-          Reset
-        </Button>
+
+        <div className="flex justify-start mt-1">
+          <Button
+            variant="gradient"
+            color="black"
+            className="w-[100px]"
+            onClick={() => {
+              onButtonClick(0).onClick();
+              setInputValue("");
+            }}
+          >
+            Reset
+          </Button>
+
+          {RunTypes.map((num, index) => (
+            <Button
+              key={index}
+              variant={onButtonClick(index + 34).variant}
+              onClick={onButtonClick(index + 34).onClick}
+              color="white"
+              className="w-[100px]"
+            >
+              {num}
+            </Button>
+          ))}
+        </div>
       </div>
-      {RunTypes.map((num, index) => (
-        <Button
-          key={index}
-          variant={onButtonClick(index + 34).variant}
-          onClick={onButtonClick(index + 34).onClick}
-          color="white"
-          className="p-2 w-[120px]"
-        >
-          {num}
-        </Button>
-      ))}
     </div>
   );
 }
