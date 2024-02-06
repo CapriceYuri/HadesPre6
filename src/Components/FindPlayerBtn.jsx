@@ -3,7 +3,7 @@ import { useState } from "react";
 import { rawData2 } from "../Data/DataSet2";
 import { allData } from "../Data/DataLogic";
 
-const RunTypes = ["Find Player"];
+const RunTypes = ["Search"];
 
 export default function FindPlayerBtn({ onButtonClick }) {
   const [inputValue, setInputValue] = useState("");
@@ -18,19 +18,17 @@ export default function FindPlayerBtn({ onButtonClick }) {
   allData[34] = findPlayer;
 
   return (
-    <div className="flex justify-center p-4">
-      <div>
-        <div className="w-[400px]">
-          <Input
-            type="gradient"
-            color="white"
-            label="Name"
-            value={inputValue}
-            onChange={handleInputChange}
-          />
-        </div>
+    <div className="py-8">
+      <div className=" w-[400px] mx-auto">
+        <Input
+          type="gradient"
+          color="white"
+          label="Name"
+          value={inputValue}
+          onChange={handleInputChange}
+        />
 
-        <div className="flex justify-start mt-1">
+        <div className="flex justify-between mt-2">
           <Button
             variant="gradient"
             color="black"
@@ -42,7 +40,6 @@ export default function FindPlayerBtn({ onButtonClick }) {
           >
             Reset
           </Button>
-
           {RunTypes.map((num, index) => (
             <Button
               key={index}

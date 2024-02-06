@@ -91,9 +91,10 @@ export default function MainContent() {
                 Unique Runs
               </Button>
             </div>
-            <FindPlayerBtn onButtonClick={handleDataChange} />
             <SplitsBtns onButtonClick={handleDataChange} />
             <AspectButtons onButtonClick={handleDataChange} />
+            <FindPlayerBtn onButtonClick={handleDataChange} />
+
             <div>
               <Typography
                 variant="h3"
