@@ -17,6 +17,8 @@ import AspectButtons from "./AspectBtns";
 import SplitsBtns from "./Splits";
 import FindPlayerBtn from "./FindPlayerBtn";
 import { getAspectRing } from "../Data/FunctionLogic";
+import PageFooter from "./Footer";
+import NavigationBar from "./NavigationBar";
 
 export default function MainContent() {
   const [category, setCategory] = useState(0);
@@ -66,8 +68,9 @@ export default function MainContent() {
         autoPlay
         loop
       ></video>
+      <NavigationBar />
       <section>
-        <div className="flex justify-center px-2 mx-auto w-[100%] pt-5 gap-x-2 2xl:w-3/4">
+        <div className="flex justify-center px-2 mx-auto w-[100%] pt-10 gap-x-2 2xl:w-3/4">
           <TotalRunsCard />
           <TotalPlayerCard />
         </div>
@@ -75,7 +78,7 @@ export default function MainContent() {
       <section>
         <img src="hades-red.png" className="mx-auto" />
       </section>
-      <section className="w-full flex justify-center pb-5">
+      <section className="w-full flex justify-center pb-10">
         <Card className="w-[100%] backdrop-blur-lg bg-transparent shadow-[0_0_50px_cyan] 2xl:w-3/4">
           <img
             src="vertical-blue.jpg"
@@ -276,7 +279,7 @@ export default function MainContent() {
           </CardFooter>
         </Card>
       </section>
-      <div className="text-center text-orange-500">2/5/24</div>
+      <PageFooter />
     </section>
   );
 }
