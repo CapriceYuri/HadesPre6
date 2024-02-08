@@ -61,13 +61,6 @@ export default function MainContent() {
         alt="cover-bg"
         className="fixed h-lvh w-full object-cover -z-10"
       />
-      <video
-        src="Hades2.mp4"
-        className="-z-10 fixed h-lvh w-full object-cover 3xl:object-fill"
-        muted
-        autoPlay
-        loop
-      ></video>
       <NavigationBar />
       <section>
         <div className="flex justify-center px-2 mx-auto w-[100%] pt-10 gap-x-2 2xl:w-3/4">
