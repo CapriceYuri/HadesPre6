@@ -1,12 +1,12 @@
 import { Button } from "@material-tailwind/react";
 
 const AspectButtons = ({ onButtonClick }) => {
-  const aspects = ["Zagreus Sword", "Nemesis", "Poseidon", "Arthur"];
-  const aspects1 = ["Zagreus Spear", "Achilles", "Hades", "Guan Yu"];
-  const aspects2 = ["Zagreus Shield", "Chaos", "Zeus", "Beowulf"];
-  const aspects3 = ["Zagreus Bow", "Chiron", "Hera", "Rama"];
-  const aspects4 = ["Zagreus Fists", "Talos", "Demeter", "Gilgamesh"];
-  const aspects5 = ["Zagreus Rail", "Eris", "Hestia", "Lucifer"];
+  const aspects = ["Z-Sword", "Nemesis", "Poseidon", "Arthur"];
+  const aspects1 = ["Z-Spear", "Achilles", "Hades", "Guan Yu"];
+  const aspects2 = ["Z-Shield", "Chaos", "Zeus", "Beowulf"];
+  const aspects3 = ["Z-Bow", "Chiron", "Hera", "Rama"];
+  const aspects4 = ["Z-Fists", "Talos", "Demeter", "Gilgamesh"];
+  const aspects5 = ["Z-Rail", "Eris", "Hestia", "Lucifer"];
 
   const buttonNumbers = [5, 6, 7, 8];
   const buttonNumbers1 = [9, 10, 11, 12];
