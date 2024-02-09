@@ -29,14 +29,14 @@ const bundleUnique = [
 export default function SummaryStat() {
   return (
     <Card
-      className="w-full 2xl:w-3/4 mx-auto relative bg-transparent mb-10"
+      className="w-full 2xl:w-3/4 mx-auto relative bg-transparent mb-10 shadow-[0_0_50px_teal]"
       shadow={false}
     >
       <img
         src="vertical-blue.jpg"
         className="h-full w-full object-cover rounded-2xl absolute opacity-60"
       />
-      <div className="absolute h-full w-full bg-gradient-to-tl from-pink-800 via-black to-pink-600 rounded-xl opacity-60" />
+      <div className="absolute h-full w-full bg-gradient-to-b to-indigo-500 via-black from-cyan-600 rounded-xl opacity-60" />
 
       <section className="z-20 flex justify-evenly py-4">
         <div>
