@@ -19,6 +19,7 @@ import FindPlayerBtn from "./FindPlayerBtn";
 import { getAspectRing } from "../Data/FunctionLogic";
 import PageFooter from "./Footer";
 import NavigationBar from "./NavigationBar";
+import SummaryStat from "./SummaryStat";
 
 export default function MainContent() {
   const [category, setCategory] = useState(0);
@@ -71,6 +72,9 @@ export default function MainContent() {
       <section>
         <img src="hades-red.png" className="mx-auto" />
       </section>
+      <section>
+        <SummaryStat />
+      </section>
       <section className="w-full flex justify-center pb-10">
         <Card className="w-[100%] backdrop-blur-lg bg-transparent shadow-[0_0_50px_cyan] 2xl:w-3/4">
           <img
@@ -90,7 +94,6 @@ export default function MainContent() {
             <SplitsBtns onButtonClick={handleDataChange} />
             <AspectButtons onButtonClick={handleDataChange} />
             <FindPlayerBtn onButtonClick={handleDataChange} />
-
             <div>
               <Typography
                 variant="h3"

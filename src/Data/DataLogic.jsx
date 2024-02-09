@@ -148,7 +148,7 @@ export function BreakList(arr) {
   return { eachPages, totalPages };
 }
 
-export { totalRuns, uniquePlayers, allData };
+export { totalRuns, uniquePlayers, allData, ogData };
 
 // function getUniquePropertyValues(array, property) {
 //   return Array.from(new Set(array.map((item) => item[property])));
