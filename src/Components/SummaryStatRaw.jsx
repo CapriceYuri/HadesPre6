@@ -45,7 +45,7 @@ export default function SummaryStatRaw() {
           </Typography>
         </div>
       </section>
-      <Carousel className="px-18 py-5" loop={true}>
+      <Carousel className="px-18 py-5" loop={true} autoplay={true}>
         {bundleRaw.map((uniqueArr) => (
           <List className="z-20">
             {uniqueArr.map((arr, index) => (
