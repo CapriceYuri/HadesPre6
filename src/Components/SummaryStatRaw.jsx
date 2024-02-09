@@ -7,26 +7,26 @@ import {
   Carousel,
 } from "@material-tailwind/react";
 import {
-  uniqueArrAspect,
-  uniqueArrAspect1,
-  uniqueArrAspect2,
-  uniqueArrAspect3,
-  uniqueArrAspect4,
-  uniqueArrAspect5,
-} from "../Data/AvgTimeData";
-import { allClearTime } from "../Data/AvgTimeData";
+  uniqueArrAspectRaw,
+  uniqueArrAspectRaw2,
+  uniqueArrAspectRaw3,
+  uniqueArrAspectRaw4,
+  uniqueArrAspectRaw5,
+  uniqueArrAspectRaw6,
+} from "../Data/AvgTimeDataRaw";
+import { allClearTime } from "../Data/AvgTimeDataRaw";
 import { getAspectRing } from "../Data/FunctionLogic";
 
-const bundleUnique = [
-  uniqueArrAspect,
-  uniqueArrAspect1,
-  uniqueArrAspect2,
-  uniqueArrAspect3,
-  uniqueArrAspect4,
-  uniqueArrAspect5,
+const bundleRaw = [
+  uniqueArrAspectRaw,
+  uniqueArrAspectRaw2,
+  uniqueArrAspectRaw3,
+  uniqueArrAspectRaw4,
+  uniqueArrAspectRaw5,
+  uniqueArrAspectRaw6,
 ];
 
-export default function SummaryStat() {
+export default function SummaryStatRaw() {
   return (
     <Card
       className="w-full 2xl:w-3/4 mx-auto relative bg-transparent mb-10"
@@ -36,17 +36,17 @@ export default function SummaryStat() {
         src="vertical-blue.jpg"
         className="h-full w-full object-cover rounded-2xl absolute opacity-60"
       />
-      <div className="absolute h-full w-full bg-gradient-to-tl from-pink-800 via-black to-pink-600 rounded-xl opacity-60" />
+      <div className="absolute h-full w-full bg-gradient-to-tr from-pink-800 via-black to-pink-600 rounded-xl opacity-60" />
 
       <section className="z-20 flex justify-evenly py-4">
         <div>
           <Typography color="white" className="customFont" variant="h5">
-            Unique Runs Avg Time
+            Full Runs Avg Time
           </Typography>
         </div>
       </section>
       <Carousel className="px-18 py-5" loop={true}>
-        {bundleUnique.map((uniqueArr) => (
+        {bundleRaw.map((uniqueArr) => (
           <List className="z-20">
             {uniqueArr.map((arr, index) => (
               <ListItem

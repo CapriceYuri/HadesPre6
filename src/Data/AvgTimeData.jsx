@@ -90,26 +90,43 @@ const uniqueArrAspect = [
   aspectstatNemesis,
   aspectstatPoseidon,
   aspectstatArthur,
+];
+const uniqueArrAspect1 = [
   aspectstatZagreusSpear,
   aspectstatAchilles,
   aspectstatHades,
   aspectstatGuanYu,
+];
+const uniqueArrAspect2 = [
   aspectstatZagreusShield,
   aspectstatChaos,
   aspectstatZeus,
   aspectstatBeowulf,
+];
+const uniqueArrAspect3 = [
   aspectstatZagreusBow,
   aspectstatChiron,
   aspectstatHera,
   aspectstatRama,
+];
+const uniqueArrAspect4 = [
   aspectstatZagreusFists,
   aspectstatTalos,
   aspectstatDemeter,
   aspectstatGilgamesh,
+];
+const uniqueArrAspect5 = [
   aspectstatZagreusRail,
   aspectstatEris,
   aspectstatHestia,
   aspectstatLucifer,
 ];
 
-export { uniqueArrAspect };
+export {
+  uniqueArrAspect,
+  uniqueArrAspect1,
+  uniqueArrAspect2,
+  uniqueArrAspect3,
+  uniqueArrAspect4,
+  uniqueArrAspect5,
+};

@@ -20,6 +20,7 @@ import { getAspectRing } from "../Data/FunctionLogic";
 import PageFooter from "./Footer";
 import NavigationBar from "./NavigationBar";
 import SummaryStat from "./SummaryStat";
+import SummaryStatRaw from "./SummaryStatRaw";
 
 export default function MainContent() {
   const [category, setCategory] = useState(0);
@@ -74,6 +75,7 @@ export default function MainContent() {
       </section>
       <section>
         <SummaryStat />
+        <SummaryStatRaw />
       </section>
       <section className="w-full flex justify-center pb-10">
         <Card className="w-[100%] backdrop-blur-lg bg-transparent shadow-[0_0_50px_cyan] 2xl:w-3/4">
