@@ -52,7 +52,7 @@ export default function SummaryStat() {
           </Typography>
         </div>
       </section>
-      <Carousel className="px-18 py-5" loop={true} autoplay={true}>
+      <Carousel className="px-18 py-5" loop={true} autoplay={false}>
         {bundleUnique.map((uniqueArr) => (
           <List className="z-20">
             {uniqueArr.map((arr, index) => (
