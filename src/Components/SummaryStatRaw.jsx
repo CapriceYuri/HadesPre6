@@ -32,11 +32,18 @@ export default function SummaryStatRaw() {
       className="w-full 2xl:w-3/4 mx-auto relative bg-transparent mb-10 shadow-[0_0_50px_teal]"
       shadow={false}
     >
-      <img
+      {/* <img
         src="vertical-blue.jpg"
-        className="h-full w-full object-cover rounded-2xl absolute opacity-60"
-      />
-      <div className="absolute h-full w-full bg-gradient-to-b from-indigo-500 via-black to-purple-800 rounded-xl opacity-60" />
+        className="h-full w-full object-cover rounded-2xl absolute opacity-40"
+      /> */}
+      <video
+        src="vid1.mp4"
+        className="h-full w-full absolute object-cover opacity-50 rounded-2xl"
+        muted
+        autoPlay
+        loop
+      ></video>
+      <div className="absolute h-full w-full bg-gradient-to-b from-indigo-500 via-black to-cyan-700 rounded-xl opacity-60" />
 
       <section className="z-20 flex justify-evenly py-4">
         <div>
@@ -45,7 +52,7 @@ export default function SummaryStatRaw() {
           </Typography>
         </div>
       </section>
-      <Carousel className="px-18 py-5" loop={true} autoplay={true}>
+      <Carousel className="px-18 py-5" loop={true} autoplay={false}>
         {bundleRaw.map((uniqueArr) => (
           <List className="z-20">
             {uniqueArr.map((arr, index) => (
