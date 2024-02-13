@@ -126,7 +126,7 @@ export default function MainContent() {
               >
                 <div
                   className={
-                    player.Clear < "5"
+                    player.rank < "22"
                       ? "absolute w-full h-full opacity-40 top-0 left-0 rounded-2xl bg-[url(/playerBG.png)] border-2 bg-black -z-10 bg-cover"
                       : ""
                   }
