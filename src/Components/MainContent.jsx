@@ -127,7 +127,7 @@ export default function MainContent() {
                 <div
                   className={
                     player.Clear < "5"
-                      ? "absolute w-full h-full opacity-40 top-0 left-0 rounded-2xl bg-[url(/longpurple-fire.gif)] border-2 bg-black -z-10 bg-contain"
+                      ? "absolute w-full h-full opacity-40 top-0 left-0 rounded-2xl bg-[url(/playerBG.png)] border-2 bg-black -z-10 bg-cover"
                       : ""
                   }
                 />
