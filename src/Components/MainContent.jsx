@@ -127,7 +127,7 @@ export default function MainContent() {
                 <div
                   className={
                     player.rank <= 3
-                      ? "absolute w-full h-full opacity-50 top-0 left-0 rounded-2xl bg-[url(rain-edit.gif)] border-2 border-white bg-cyan-900 -z-10"
+                      ? "absolute w-full h-full opacity-50 top-0 left-0 rounded-2xl bg-[url(/rain-edit.gif)] border-2 border-white bg-black -z-10"
                       : ""
                   }
                 />
