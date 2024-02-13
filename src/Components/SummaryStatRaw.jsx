@@ -60,7 +60,7 @@ export default function SummaryStatRaw() {
                 className="hover:bg-transparent focus:bg-transparent flex justify-evenly"
                 key={index}
               >
-                <div className="flex-1">
+                <div className="flex-1 text-center">
                   <Typography
                     variant="h6"
                     color="white"
@@ -70,7 +70,7 @@ export default function SummaryStatRaw() {
                   </Typography>
                 </div>
 
-                <div className="flex-1 relative ms-6">
+                <div className="flex-1 relative text-center">
                   <Avatar
                     src={`arms/${arr[0].Aspect}.png`}
                     withBorder={true}
@@ -78,7 +78,7 @@ export default function SummaryStatRaw() {
                   />
                   <Avatar
                     src={getAspectRing(arr[0].Aspect)}
-                    className="absolute top-0 start-0"
+                    className="absolute top-0 start-50 transform -translate-x-full"
                     size="lg"
                   />
                 </div>
