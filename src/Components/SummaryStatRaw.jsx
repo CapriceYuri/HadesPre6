@@ -38,7 +38,7 @@ export default function SummaryStatRaw() {
       /> */}
       <video
         src="vid1.mp4"
-        className="h-full w-full absolute object-cover opacity-50 rounded-2xl"
+        className="h-full w-full absolute object-cover opacity-70 rounded-2xl"
         muted
         autoPlay
         loop

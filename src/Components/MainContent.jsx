@@ -121,12 +121,19 @@ export default function MainContent() {
             </div>
             {sortDisplay.map((player, index) => (
               <ListItem
-                className="hover:bg-black focus:bg-black flex"
+                className="hover:bg-black focus:bg-black flex relative rounded-2xl"
                 key={index}
               >
+                <div
+                  className={
+                    player.rank <= 3
+                      ? "absolute w-full h-full opacity-50 top-0 left-0 rounded-2xl bg-[url(rain-edit.gif)] border-2 border-white bg-cyan-900 -z-10"
+                      : ""
+                  }
+                />
                 <div className="text-center">
                   <Typography
-                    variant="h6"
+                    variant="small"
                     color="pink"
                     className="font-[monospace]"
                   >
@@ -145,9 +152,9 @@ export default function MainContent() {
 
                 <div className="flex-1 text-center">
                   <Typography
-                    variant="h6"
+                    variant="small"
                     color="orange"
-                    className="font-[monospace]"
+                    className="font-semibold"
                   >
                     {`${player.Aspect}`}
                   </Typography>
