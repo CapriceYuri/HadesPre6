@@ -32,10 +32,6 @@ export default function SummaryStat() {
       className="w-full 2xl:w-3/4 mx-auto relative bg-transparent mb-10 shadow-[0_0_50px_teal]"
       shadow={false}
     >
-      {/* <img
-        src="vertical-blue.jpg"
-        className="h-full w-full object-cover rounded-2xl absolute opacity-60"
-      /> */}
       <video
         src="vid2.mp4"
         className="h-full w-full absolute object-cover opacity-70 rounded-2xl"
@@ -45,7 +41,7 @@ export default function SummaryStat() {
       ></video>
       <div className="absolute h-full w-full bg-gradient-to-b to-indigo-500 via-black from-cyan-600 rounded-xl opacity-60" />
 
-      <section className="z-20 flex justify-evenly py-4">
+      <section className="z-20 flex justify-evenly pt-4">
         <div>
           <Typography color="white" className="customFont" variant="h5">
             Unique Runs Avg Time

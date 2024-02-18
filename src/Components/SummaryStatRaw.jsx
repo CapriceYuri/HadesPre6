@@ -45,7 +45,7 @@ export default function SummaryStatRaw() {
       ></video>
       <div className="absolute h-full w-full bg-gradient-to-b from-indigo-500 via-black to-cyan-700 rounded-xl opacity-60" />
 
-      <section className="z-20 flex justify-evenly py-4">
+      <section className="z-20 flex justify-evenly pt-4">
         <div>
           <Typography color="white" className="customFont" variant="h5">
             Full Runs Avg Time
