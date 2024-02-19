@@ -23,7 +23,7 @@ const AspectButtons = ({ onButtonClick }) => {
             key={index}
             variant={onButtonClick(num).variant}
             onClick={onButtonClick(num).onClick}
-            color="blue"
+            color="white"
             className="w-[120px] p-3"
           >
             {`${aspects[index]}`}
@@ -36,7 +36,7 @@ const AspectButtons = ({ onButtonClick }) => {
             key={index}
             variant={onButtonClick(num).variant}
             onClick={onButtonClick(num).onClick}
-            color="amber"
+            color="white"
             className="w-[120px] p-3"
           >
             {`${aspects1[index]}`}
@@ -49,7 +49,7 @@ const AspectButtons = ({ onButtonClick }) => {
             key={index}
             variant={onButtonClick(num).variant}
             onClick={onButtonClick(num).onClick}
-            color="lime"
+            color="white"
             className="w-[120px] p-3"
           >
             {`${aspects2[index]}`}
@@ -62,7 +62,7 @@ const AspectButtons = ({ onButtonClick }) => {
             key={index}
             variant={onButtonClick(num).variant}
             onClick={onButtonClick(num).onClick}
-            color="red"
+            color="white"
             className="w-[120px] p-3"
           >
             {`${aspects3[index]}`}
@@ -75,7 +75,7 @@ const AspectButtons = ({ onButtonClick }) => {
             key={index}
             variant={onButtonClick(num).variant}
             onClick={onButtonClick(num).onClick}
-            color="light-blue"
+            color="white"
             className="w-[120px] p-3"
           >
             {`${aspects4[index]}`}
@@ -88,7 +88,7 @@ const AspectButtons = ({ onButtonClick }) => {
             key={index}
             variant={onButtonClick(num).variant}
             onClick={onButtonClick(num).onClick}
-            color="teal"
+            color="white"
             className="w-[120px] p-3"
           >
             {`${aspects5[index]}`}

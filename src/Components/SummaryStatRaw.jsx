@@ -29,21 +29,17 @@ const bundleRaw = [
 export default function SummaryStatRaw() {
   return (
     <Card
-      className="w-full 2xl:w-3/4 mx-auto relative bg-transparent mb-10 shadow-[0_0_50px_teal]"
+      className="w-full 2xl:w-3/4 mx-auto relative bg-transparent mb-10 shadow-[0_0_20px_white] border-4 border-black rounded-2xl"
       shadow={false}
     >
-      {/* <img
-        src="vertical-blue.jpg"
-        className="h-full w-full object-cover rounded-2xl absolute opacity-40"
-      /> */}
       <video
         src="vid1.mp4"
-        className="h-full w-full absolute object-cover opacity-70 rounded-2xl"
+        className="h-full w-full absolute object-cover opacity-70 rounded-xl"
         muted
         autoPlay
         loop
       ></video>
-      <div className="absolute h-full w-full bg-gradient-to-b from-indigo-500 via-black to-cyan-700 rounded-xl opacity-60" />
+      <div className="absolute h-full w-full bg-gradient-to-b from-black to-black rounded-xl opacity-80" />
 
       <section className="z-20 flex justify-evenly pt-4">
         <div>

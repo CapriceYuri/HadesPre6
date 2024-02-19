@@ -29,17 +29,17 @@ const bundleUnique = [
 export default function SummaryStat() {
   return (
     <Card
-      className="w-full 2xl:w-3/4 mx-auto relative bg-transparent mb-10 shadow-[0_0_50px_teal]"
+      className="w-full 2xl:w-3/4 mx-auto relative bg-transparent mb-10 shadow-[0_0_20px_white] border-4 border-black rounded-2xl"
       shadow={false}
     >
       <video
         src="vid2.mp4"
-        className="h-full w-full absolute object-cover opacity-70 rounded-2xl"
+        className="h-full w-full absolute object-cover opacity-70 rounded-xl"
         muted
         autoPlay
         loop
       ></video>
-      <div className="absolute h-full w-full bg-gradient-to-b to-indigo-500 via-black from-cyan-600 rounded-xl opacity-60" />
+      <div className="absolute h-full w-full bg-gradient-to-b to-black from-black rounded-xl opacity-80" />
 
       <section className="z-20 flex justify-evenly pt-4">
         <div>
@@ -81,7 +81,7 @@ export default function SummaryStat() {
                 <div className="flex-1 text-center">
                   <Typography
                     variant="h5"
-                    color="yellow"
+                    color="amber"
                     className="font-customFont font-semibold"
                   >
                     {allClearTime(arr)}
@@ -90,7 +90,7 @@ export default function SummaryStat() {
                 <div className="flex-1 text-center">
                   <Typography
                     variant="h5"
-                    color="deep-orange"
+                    color="white"
                     className="font-customFont font-bold"
                   >
                     {arr.length}

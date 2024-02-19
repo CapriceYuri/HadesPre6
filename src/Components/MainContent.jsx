@@ -72,25 +72,25 @@ export default function MainContent() {
         </div>
       </section>
       <section>
-        <img src="hades-red.png" className="mx-auto" />
+        <img src="hades-red.png" className="mx-auto opacity-90" />
       </section>
       <section>
         <SummaryStat />
         <SummaryStatRaw />
       </section>
       <section className="w-full flex justify-center pb-10">
-        <Card className="w-[100%] backdrop-blur-lg bg-transparent shadow-[0_0_50px_cyan] 2xl:w-3/4">
+        <Card className="w-[100%] backdrop-blur-lg bg-transparent shadow-[0_0_20px_white] 2xl:w-3/4 border-4 border-black rounded-2xl">
           <img
             src="vertical-blue.jpg"
-            className="h-full w-full object-cover rounded-2xl absolute"
+            className="h-full w-full object-cover rounded-xl absolute"
           />
-          <div className="absolute h-full w-full bg-gradient-to-r from-purple-800 via-black to-purple-600 rounded-xl opacity-60" />
+          <div className="absolute h-full w-full bg-gradient-to-r from-black to-black opacity-60" />
           <List className="z-40">
             <div className="flex justify-center gap-x-4 pt-4">
-              <Button {...handleDataChange(0)} color="red">
+              <Button {...handleDataChange(0)} color="white">
                 All Runs
               </Button>
-              <Button {...handleDataChange(1)} color="blue">
+              <Button {...handleDataChange(1)} color="white">
                 Unique Runs
               </Button>
             </div>
@@ -107,7 +107,11 @@ export default function MainContent() {
             </div>
             <div className="flex justify-center">
               <div>
-                <img src="lighting.gif" />
+                <img
+                  src="lighting.gif"
+                  alt="lightning gif"
+                  className="opacity-50"
+                />
               </div>
               <Typography
                 variant="h3"
@@ -117,7 +121,11 @@ export default function MainContent() {
                 {"HERMES"}
               </Typography>
               <div>
-                <img src="lighting.gif" />
+                <img
+                  src="lighting.gif"
+                  alt="lightning gif"
+                  className="opacity-50"
+                />
               </div>
             </div>
             {sortDisplay.map((player, index) => (
@@ -128,7 +136,7 @@ export default function MainContent() {
                 <div
                   className={
                     player.rank < "4"
-                      ? "absolute w-full h-full top-0 left-0 rounded-2xl border-2 border-teal-500 -z-10 shadow-[inset_0_0_50px_teal]"
+                      ? "absolute w-full h-full top-0 left-0 rounded-2xl border-2 border-black shadow-[inset_0_0_20px_white]"
                       : ""
                   }
                 />
