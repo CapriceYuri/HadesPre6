@@ -81,7 +81,7 @@ export default function SummaryStatRaw() {
                 <div className="flex-1 text-center">
                   <Typography
                     variant="h5"
-                    color="yellow"
+                    color="amber"
                     className="font-customFont font-semibold"
                   >
                     {allClearTime(arr)}
@@ -90,7 +90,7 @@ export default function SummaryStatRaw() {
                 <div className="flex-1 text-center">
                   <Typography
                     variant="h5"
-                    color="deep-orange"
+                    color="white"
                     className="font-customFont font-bold"
                   >
                     {arr.length}
