@@ -29,7 +29,7 @@ const bundleUnique = [
 export default function SummaryStat() {
   return (
     <Card
-      className="w-full 2xl:w-3/4 mx-auto relative bg-transparent mb-10 shadow-[0_0_20px_white] border-4 border-black rounded-2xl"
+      className="w-full 2xl:w-3/4 mx-auto relative bg-transparent mb-5 shadow-[0_0_20px_white] border-4 border-black rounded-2xl"
       shadow={false}
     >
       <video
