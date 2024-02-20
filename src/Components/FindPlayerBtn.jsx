@@ -15,7 +15,7 @@ export default function FindPlayerBtn({ onButtonClick }) {
   const findPlayer = rawData2.filter(
     (run) => run.Player.toLowerCase() === inputValue.toLowerCase()
   );
-  allData[34] = findPlayer;
+  allData[35] = findPlayer;
 
   return (
     <div className="py-8">
@@ -43,8 +43,8 @@ export default function FindPlayerBtn({ onButtonClick }) {
           {RunTypes.map((num, index) => (
             <Button
               key={index}
-              variant={onButtonClick(index + 34).variant}
-              onClick={onButtonClick(index + 34).onClick}
+              variant={onButtonClick(index + 35).variant}
+              onClick={onButtonClick(index + 35).onClick}
               color="white"
               className="w-[100px]"
             >

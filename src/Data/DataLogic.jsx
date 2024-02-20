@@ -12,13 +12,23 @@ const thirdPlaceHistory = rawData2.filter(
 );
 
 let ogData = [];
+let uniquePlayerData = [];
 let seenCombinations = new Set();
+let seenCombinations2 = new Set();
 
 for (let obj of rawData2) {
   let combination = obj.Player + "-" + obj.Aspect;
   if (!seenCombinations.has(combination)) {
     seenCombinations.add(combination);
     ogData.push(obj);
+  }
+}
+
+for (let obj of rawData2) {
+  let combination1 = obj.Player;
+  if (!seenCombinations2.has(combination1)) {
+    seenCombinations2.add(combination1);
+    uniquePlayerData.push(obj);
   }
 }
 
@@ -105,6 +115,7 @@ const allData = [
   split3,
   split4,
   split5,
+  uniquePlayerData,
 ];
 
 export function addRankProperty(arr) {
@@ -148,7 +159,14 @@ export function BreakList(arr) {
   return { eachPages, totalPages };
 }
 
-export { totalRuns, uniquePlayers, allData, ogData, rawData2 };
+export {
+  totalRuns,
+  uniquePlayers,
+  allData,
+  ogData,
+  rawData2,
+  uniquePlayerData,
+};
 
 // function getUniquePropertyValues(array, property) {
 //   return Array.from(new Set(array.map((item) => item[property])));

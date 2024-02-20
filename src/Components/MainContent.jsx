@@ -22,6 +22,8 @@ import NavigationBar from "./NavigationBar";
 import SummaryStat from "./SummaryStat";
 import SummaryStatRaw from "./SummaryStatRaw";
 
+console.log(allData[34]);
+
 export default function MainContent() {
   const [category, setCategory] = useState(0);
   const [active, setActive] = useState(1);
@@ -91,6 +93,9 @@ export default function MainContent() {
                 All Runs
               </Button>
               <Button {...handleDataChange(1)} color="white">
+                Unique Runs
+              </Button>
+              <Button {...handleDataChange(34)} color="white">
                 Unique Runs
               </Button>
             </div>
