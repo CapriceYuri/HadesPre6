@@ -76,7 +76,7 @@ export default function MainContent() {
       <section>
         <img src="hades-red.png" className="mx-auto opacity-90" />
       </section>
-      <section>
+      <section className="w-full 2xl:w-3/4 flex flex-col 2xl:flex-row 2xl:gap-x-2 mx-auto px-2 2xl:px-0">
         <SummaryStat />
         <SummaryStatRaw />
       </section>
