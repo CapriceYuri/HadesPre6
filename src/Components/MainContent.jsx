@@ -96,7 +96,7 @@ export default function MainContent() {
                 Unique Runs
               </Button>
               <Button {...handleDataChange(34)} color="white">
-                Unique Runs
+                Unique Players
               </Button>
             </div>
             <SplitsBtns onButtonClick={handleDataChange} />
