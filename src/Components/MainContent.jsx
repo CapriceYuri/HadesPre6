@@ -110,13 +110,9 @@ export default function MainContent() {
                 {"Hades Sub-6"}
               </Typography>
             </div>
-            <div className="flex justify-center">
+            <div className="flex justify-center place-items-center">
               <div>
-                <img
-                  src="lighting.gif"
-                  alt="lightning gif"
-                  className="opacity-50"
-                />
+                <img src="lighting.gif" alt="lightning gif" width={40} />
               </div>
               <Typography
                 variant="h3"
@@ -129,7 +125,8 @@ export default function MainContent() {
                 <img
                   src="lighting.gif"
                   alt="lightning gif"
-                  className="opacity-50"
+                  className="font-normal"
+                  width={40}
                 />
               </div>
             </div>
