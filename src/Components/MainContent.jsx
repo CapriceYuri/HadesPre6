@@ -90,13 +90,13 @@ export default function MainContent() {
           <List className="z-40">
             <div className="flex justify-center gap-x-4 pt-4">
               <Button {...handleDataChange(0)} color="white">
-                All Runs
+                Unique Players
               </Button>
               <Button {...handleDataChange(1)} color="white">
                 Unique Runs
               </Button>
               <Button {...handleDataChange(34)} color="white">
-                Unique Players
+                All Runs
               </Button>
             </div>
             <SplitsBtns onButtonClick={handleDataChange} />
