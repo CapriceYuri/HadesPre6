@@ -81,7 +81,7 @@ const split5 = structuredClone(rawData2).sort((a, b) =>
 );
 
 const allData = [
-  uniquePlayerData,
+  rawData2,
   ogData,
   firstPlaceHistory,
   secondPlaceHistory,
@@ -115,7 +115,7 @@ const allData = [
   split3,
   split4,
   split5,
-  rawData2,
+  uniquePlayerData,
 ];
 
 export function addRankProperty(arr) {
