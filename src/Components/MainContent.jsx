@@ -16,7 +16,7 @@ import TotalRunsCard from "./TotalRuns";
 import AspectButtons from "./AspectBtns";
 import SplitsBtns from "./Splits";
 import FindPlayerBtn from "./FindPlayerBtn";
-import { getAspectRing } from "../Data/FunctionLogic";
+import { useAvatarBorder } from "../Data/FunctionLogic";
 import PageFooter from "./Footer";
 import NavigationBar from "./NavigationBar";
 import SummaryStat from "./SummaryStat";
@@ -132,7 +132,7 @@ export default function MainContent() {
             </div>
             {sortDisplay.map((player, index) => (
               <ListItem
-                className="hover:bg-black focus:bg-black flex relative rounded-2xl"
+                className="hover:bg-black focus:bg-black flex relative rounded-2xl px-0"
                 key={index}
               >
                 <div
@@ -153,7 +153,7 @@ export default function MainContent() {
                 </div>
                 <div className="flex-1">
                   <Typography
-                    variant="h6"
+                    variant="small"
                     color="white"
                     className="font-[monospace]"
                   >
@@ -161,7 +161,16 @@ export default function MainContent() {
                   </Typography>
                 </div>
 
-                <div className="flex-1 text-center">
+                <div className="flex-1">
+                  <Avatar
+                    src={`runner/player-${player.Player.toLowerCase()}.png`}
+                    withBorder={true}
+                    color="black"
+                    className="p-0.5"
+                  />
+                </div>
+
+                <div className="flex-1 text-center hidden lg:block">
                   <Typography
                     variant="small"
                     color="orange"
@@ -173,15 +182,13 @@ export default function MainContent() {
 
                 <div>
                   <div className="flex-1 relative mx-auto">
+                    <Avatar src={`arms/${player.Aspect}.png`} />
                     <Avatar
-                      src={`arms/${player.Aspect}.png`}
+                      src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
                       withBorder={true}
-                      size="lg"
-                    />
-                    <Avatar
-                      src={getAspectRing(player.Aspect)}
-                      className="absolute top-0 start-0"
-                      size="lg"
+                      color={useAvatarBorder(player.Aspect)}
+                      variant="rounded"
+                      className="absolute rotate-45 top-0 start-0 transform -translate-x-[0%]"
                     />
                   </div>
                 </div>
@@ -272,7 +279,7 @@ export default function MainContent() {
 
                 <div className="flex-1 text-center">
                   <Typography
-                    variant="h6"
+                    variant="small"
                     color="white"
                     className="font-[monospace]"
                   >

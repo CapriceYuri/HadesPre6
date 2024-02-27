@@ -52,3 +52,46 @@ export const getAspectRing = (aspect) => {
       return "rings/discord-green.gif";
   }
 };
+
+export const useAvatarBorder = (aspect) => {
+  switch (aspect) {
+    case "Beowulf":
+      return "red";
+    case "Hera":
+      return "purple";
+    case "Achilles":
+      return "yellow";
+    case "Eris":
+      return "blue";
+    case "Hestia":
+      return "pink";
+    case "Rama":
+      return "blue";
+    case "Nemesis":
+      return "cyan";
+    case "Demeter":
+      return "light-green";
+    case "Lucifer":
+      return "yellow";
+    case "Gilgamesh":
+      return "pink";
+    case "Chaos":
+      return "purple";
+    case "Guan Yu":
+      return "deep-orange";
+    case "Chiron":
+      return "yellow";
+    case "Poseidon":
+      return "green";
+    case "Talos":
+      return "purple";
+    case "Hades":
+      return "pink";
+    case "Arthur":
+      return "blue";
+    case "Zeus":
+      return "yellow";
+    default:
+      return "teal";
+  }
+};
