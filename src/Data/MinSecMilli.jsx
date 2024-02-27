@@ -29,7 +29,7 @@ function millisecondsToTime(milliseconds) {
   const seconds = Math.floor(milliseconds / 1000);
   milliseconds %= 1000;
 
-  return `${minutes}:${padZero(seconds)}.${padZero(
+  return `${minutes}:${padZero(seconds)}:${padZero(
     Math.floor(milliseconds / 10),
     2
   )}`; // Use toFixed(2) for milliseconds

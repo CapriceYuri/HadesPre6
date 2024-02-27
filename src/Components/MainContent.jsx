@@ -107,7 +107,7 @@ export default function MainContent() {
                 variant="h3"
                 className="p-2 text-center font-[monospace] text-[#D8BFD8]"
               >
-                {"Hades Sub-6"}
+                {"Hades Sub-10"}
               </Typography>
             </div>
             <div className="flex justify-center place-items-center">
