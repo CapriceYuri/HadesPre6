@@ -153,15 +153,15 @@ export default function MainContent() {
                 </div>
                 <div className="flex-1">
                   <Typography
-                    variant="small"
+                    variant="h6"
                     color="white"
-                    className="font-[monospace]"
+                    className="font-[serif] font-normal"
                   >
                     {player.Player}
                   </Typography>
                 </div>
 
-                <div className="flex-1">
+                <div className="flex-1 hidden sm:block">
                   <Avatar
                     src={`runner/player-${player.Player.toLowerCase()}.png`}
                     withBorder={true}
@@ -170,7 +170,7 @@ export default function MainContent() {
                   />
                 </div>
 
-                <div className="flex-1 text-center hidden lg:block">
+                <div className="flex-1 text-center">
                   <Typography
                     variant="small"
                     color="orange"
@@ -180,17 +180,16 @@ export default function MainContent() {
                   </Typography>
                 </div>
 
-                <div>
-                  <div className="flex-1 relative mx-auto">
-                    <Avatar src={`arms/${player.Aspect}.png`} />
-                    <Avatar
-                      src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-                      withBorder={true}
-                      color={useAvatarBorder(player.Aspect)}
-                      variant="rounded"
-                      className="absolute rotate-45 top-0 start-0 transform -translate-x-[0%]"
-                    />
-                  </div>
+                <div className="flex-1 relative text-center">
+                  <Avatar src={`arms/${player.Aspect}.png`} />
+                  <Avatar
+                    src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+                    withBorder={true}
+                    color={useAvatarBorder(player.Aspect)}
+                    variant="rounded"
+                    size="md"
+                    className="absolute rotate-45 top-0 start-50 transform -translate-x-[100%]"
+                  />
                 </div>
 
                 <div className="flex-1 text-center hidden md:block">
