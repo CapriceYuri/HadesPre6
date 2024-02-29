@@ -9,7 +9,7 @@ export default function TotalPlayerCard() {
     >
       <img
         src="bgcard1.png"
-        className="h-full w-full object-cover rounded-xl absolute"
+        className="h-full w-full object-cover object-top rounded-xl absolute"
       />
       <div className="absolute h-full w-full bg-gradient-to-l to-black from-black opacity-60" />
 

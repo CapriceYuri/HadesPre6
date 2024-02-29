@@ -9,7 +9,7 @@ export default function TotalRunsCard() {
     >
       <img
         src="bgcard2.png"
-        className="h-full w-full object-cover rounded-xl absolute"
+        className="h-full w-full object-cover rounded-xl object-top absolute"
       />
       <div className="absolute h-full w-full bg-gradient-to-l to-black from-black opacity-70" />
       <div className="z-50 flex flex-col h-full justify-center items-center mx-auto">

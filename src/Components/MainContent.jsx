@@ -68,7 +68,7 @@ export default function MainContent() {
       />
       <NavigationBar />
       <section>
-        <div className="flex justify-center px-2 mx-auto w-[100%] pt-10 gap-x-2 2xl:w-3/4">
+        <div className="flex justify-center px-2 mx-auto w-[100%] pt-10 gap-x-2 2xl:w-5/6">
           <TotalRunsCard />
           <TotalPlayerCard />
         </div>
@@ -76,12 +76,12 @@ export default function MainContent() {
       <section>
         <img src="hades-red.png" className="mx-auto opacity-90" />
       </section>
-      <section className="w-full 2xl:w-3/4 flex flex-col xl:flex-row xl:gap-x-2 mx-auto px-4 2xl:px-0">
+      <section className="w-full 2xl:w-5/6 flex flex-col xl:flex-row xl:gap-x-2 mx-auto px-4 2xl:px-0">
         <SummaryStat />
         <SummaryStatRaw />
       </section>
       <section className="w-full flex justify-center pb-10">
-        <Card className="w-[100%] backdrop-blur-lg bg-transparent shadow-[0_0_20px_white] 2xl:w-3/4 border-4 border-black rounded-2xl">
+        <Card className="w-[100%] backdrop-blur-lg bg-transparent shadow-[0_0_20px_white] 2xl:w-5/6 border-4 border-black rounded-2xl">
           <img
             src="vertical-blue.jpg"
             className="h-full w-full object-cover rounded-xl absolute"
