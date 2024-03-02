@@ -138,24 +138,24 @@ export default function MainContent() {
                 <div
                   className={
                     player.rank < "4"
-                      ? "absolute w-full h-full top-0 left-0 rounded-2xl border-2 border-black shadow-[inset_0_0_20px_white]"
+                      ? "absolute w-full h-full top-0 left-0 rounded-2xl border-2 border-black shadow-[inset_0_0_10px_yellow]"
                       : ""
                   }
                 />
                 <div className="text-center">
                   <Typography
                     variant="small"
-                    color="pink"
-                    className="font-[monospace]"
+                    color="orange"
+                    className="font-[monospace] ms-2"
                   >
                     {`#${player.rank}. `}
                   </Typography>
                 </div>
                 <div className="flex-1">
                   <Typography
-                    variant="h6"
+                    variant="small"
                     color="white"
-                    className="font-[serif] font-normal"
+                    className="font-[monospace] text-[12px]"
                   >
                     {player.Player}
                   </Typography>
@@ -174,7 +174,7 @@ export default function MainContent() {
                   <Typography
                     variant="small"
                     color="orange"
-                    className="font-semibold"
+                    className="font-semibold font-[monospace] lg:text-[14px] text-[12px]"
                   >
                     {`${player.Aspect}`}
                   </Typography>
