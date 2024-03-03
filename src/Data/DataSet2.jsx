@@ -6810,6 +6810,16 @@ export const rawData2 = [
     Dad: "0:26.66",
   },
   {
+    Player: "Zyruvias",
+    Aspect: "Hestia",
+    Clear: "5:38.92",
+    Tartarus: "1:18.93",
+    Asphodel: "1:11.96",
+    Elysium: "1:47.65",
+    Styx: "0:37.13",
+    Dad: "0:43.25",
+  },
+  {
     Player: "OckE",
     Aspect: "Beowulf",
     Clear: "5:38.94",
@@ -7560,7 +7570,7 @@ export const rawData2 = [
     Dad: "0:38.36",
   },
   {
-    Player: "Timothy",
+    Player: "Timothy_Lincecum",
     Aspect: "Beowulf",
     Clear: "5:40.44",
     Tartarus: "1:44.89",
@@ -13170,6 +13180,16 @@ export const rawData2 = [
     Dad: "0:31.76",
   },
   {
+    Player: "Timothy_Lincecum",
+    Aspect: "Beowulf",
+    Clear: "5:48.57",
+    Tartarus: "1:42.04",
+    Asphodel: "1:09.66",
+    Elysium: "1:35.89",
+    Styx: "0:52.46",
+    Dad: "0:28.52",
+  },
+  {
     Player: "CardDweeb",
     Aspect: "Achilles",
     Clear: "5:48.59",
@@ -14828,6 +14848,16 @@ export const rawData2 = [
     Elysium: "1:31.73",
     Styx: "0:36.97",
     Dad: "0:32.07",
+  },
+  {
+    Player: "jazz",
+    Aspect: "Beowulf",
+    Clear: "5:50.53",
+    Tartarus: "1:42.72",
+    Asphodel: "1:19.64",
+    Elysium: "1:34.00",
+    Styx: "0:44.95",
+    Dad: "0:29.22",
   },
   {
     Player: "perfectengrish",
@@ -16990,7 +17020,7 @@ export const rawData2 = [
     Dad: "0:26.57",
   },
   {
-    Player: "Timothy",
+    Player: "Timothy_Lincecum",
     Aspect: "Beowulf",
     Clear: "5:52.82",
     Tartarus: "1:32.61",
@@ -19090,7 +19120,7 @@ export const rawData2 = [
     Dad: "0:31.14",
   },
   {
-    Player: "Timothy",
+    Player: "Timothy_Lincecum",
     Aspect: "Beowulf",
     Clear: "5:54.83",
     Tartarus: "1:31.36",
@@ -19788,6 +19818,16 @@ export const rawData2 = [
     Elysium: "1:39.31",
     Styx: "0:45.47",
     Dad: "0:39.11",
+  },
+  {
+    Player: "Timothy_Lincecum",
+    Aspect: "Beowulf",
+    Clear: "5:55.54",
+    Tartarus: "1:36.28",
+    Asphodel: "1:30.33",
+    Elysium: "1:31.08",
+    Styx: "0:35.58",
+    Dad: "0:42.27",
   },
   {
     Player: "OckE",
@@ -20760,7 +20800,7 @@ export const rawData2 = [
     Dad: "0:33.69",
   },
   {
-    Player: "Timothy",
+    Player: "Timothy_Lincecum",
     Aspect: "Rama",
     Clear: "5:56.36",
     Tartarus: "1:37.79",
@@ -22410,7 +22450,7 @@ export const rawData2 = [
     Dad: "0:46.20",
   },
   {
-    Player: "Timothy",
+    Player: "Timothy_Lincecum",
     Aspect: "Beowulf",
     Clear: "5:57.80",
     Tartarus: "1:47.19",
