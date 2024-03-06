@@ -40,7 +40,7 @@ export default function SummaryStat() {
 
       <section className="z-20 flex justify-evenly pt-4">
         <div>
-          <Typography color="white" className="customFont" variant="h5">
+          <Typography color="white" className="font-customFont" variant="h5">
             Unique Runs Avg Time
           </Typography>
         </div>

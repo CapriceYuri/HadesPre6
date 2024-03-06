@@ -105,7 +105,7 @@ export default function MainContent() {
             <div>
               <Typography
                 variant="h3"
-                className="p-2 text-center font-[monospace] text-[#D8BFD8]"
+                className="p-2 text-center font-customFont text-[#D8BFD8]"
               >
                 {"Hades Sub-6"}
               </Typography>
@@ -117,7 +117,7 @@ export default function MainContent() {
               <Typography
                 variant="h3"
                 color="yellow"
-                className="p-2 text-center font-[monospace]"
+                className="p-2 text-center font-customFont"
               >
                 {"HERMES"}
               </Typography>
@@ -146,16 +146,15 @@ export default function MainContent() {
                   <Typography
                     variant="small"
                     color="orange"
-                    className="font-[monospace] ms-2"
+                    className="font-customFont ms-2"
                   >
                     {`#${player.rank}. `}
                   </Typography>
                 </div>
                 <div className="flex-1">
                   <Typography
-                    variant="small"
                     color="white"
-                    className="font-[monospace] text-[12px]"
+                    className="font-customFont text-[14px]"
                   >
                     {player.Player}
                   </Typography>
@@ -174,7 +173,7 @@ export default function MainContent() {
                   <Typography
                     variant="small"
                     color="orange"
-                    className="font-semibold font-[monospace] lg:text-[14px] text-[12px]"
+                    className="font-semibold font-customFont lg:text-[14px] text-[12px]"
                   >
                     {`${player.Aspect}`}
                   </Typography>
@@ -196,14 +195,14 @@ export default function MainContent() {
                   <Typography
                     variant="small"
                     color="green"
-                    className="font-semibold"
+                    className="font-semibold font-customFont"
                   >
                     {`Tartarus`}
                   </Typography>
                   <Typography
                     variant="small"
                     color="green"
-                    className="font-semibold"
+                    className="font-semibold font-customFont"
                   >
                     {`${player.Tartarus}`}
                   </Typography>
@@ -213,14 +212,14 @@ export default function MainContent() {
                   <Typography
                     variant="small"
                     color="orange"
-                    className="font-semibold"
+                    className="font-semibold font-customFont"
                   >
                     {`Asphodel`}
                   </Typography>
                   <Typography
                     variant="small"
                     color="orange"
-                    className="font-semibold"
+                    className="font-semibold font-customFont"
                   >
                     {`${player.Asphodel}`}
                   </Typography>
@@ -230,14 +229,14 @@ export default function MainContent() {
                   <Typography
                     variant="small"
                     color="blue"
-                    className="font-semibold"
+                    className="font-semibold font-customFont"
                   >
                     {`Elysium`}
                   </Typography>
                   <Typography
                     variant="small"
                     color="blue"
-                    className="font-semibold"
+                    className="font-semibold font-customFont"
                   >
                     {`${player.Elysium}`}
                   </Typography>
@@ -247,14 +246,14 @@ export default function MainContent() {
                   <Typography
                     variant="small"
                     color="red"
-                    className="font-semibold"
+                    className="font-semibold font-customFont"
                   >
                     {`Styx`}
                   </Typography>
                   <Typography
                     variant="small"
                     color="red"
-                    className="font-semibold"
+                    className="font-semibold font-customFont"
                   >
                     {`${player.Styx}`}
                   </Typography>
@@ -263,14 +262,14 @@ export default function MainContent() {
                   <Typography
                     variant="small"
                     color="yellow"
-                    className="font-semibold"
+                    className="font-semibold font-customFont"
                   >
                     {`Hades`}
                   </Typography>
                   <Typography
                     variant="small"
                     color="yellow"
-                    className="font-semibold"
+                    className="font-semibold font-customFont"
                   >
                     {`${player.Dad}`}
                   </Typography>
@@ -278,9 +277,9 @@ export default function MainContent() {
 
                 <div className="flex-1 text-center">
                   <Typography
-                    variant="small"
+                    variant="h6"
                     color="white"
-                    className="font-[monospace]"
+                    className="font-customFont"
                   >
                     {`${player.Clear}`}
                   </Typography>
