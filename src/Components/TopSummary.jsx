@@ -10,7 +10,7 @@ import { allData } from "../Data/DataLogic";
 import { averageTime } from "../Data/MinSecMilli";
 import { rawData2 } from "../Data/DataLogic";
 
-const topRecords = allData.slice(5, 28);
+const topRecords = allData.slice(5, 29);
 let topAspectPlayer = [];
 
 for (let i = 0; i < topRecords.length; i++) {
@@ -71,6 +71,13 @@ function playerTotalRun(name) {
   return playerAllRuns.length;
 }
 
+function playerTotalSub5(name) {
+  let tempData = rawData2.slice();
+  const playerAllRuns = tempData.filter((obj) => obj.Player === name);
+  const playerSub5Runs = playerAllRuns.filter((obj) => obj.Clear < "5");
+  return playerSub5Runs.length;
+}
+
 // DIVISON BLOCK
 
 export default function TopSummaryCards() {
@@ -80,7 +87,7 @@ export default function TopSummaryCards() {
         src="vertical-blue.jpg"
         className="h-full w-full object-cover rounded-xl absolute"
       />
-      <div className="absolute h-full w-full bg-gradient-to-r to-black from-black rounded-xl opacity-70" />
+      <div className="absolute h-full w-full bg-gradient-to-r from-blue-900 via-black to-indigo-900 opacity-60" />
       <List className="z-40">
         <div className="flex justify-center items-center">
           <Typography
@@ -99,7 +106,7 @@ export default function TopSummaryCards() {
             >
               <div
                 className={
-                  "absolute h-full w-full bg-[#28282b] bg-center bg-contain -z-10 rounded-xl top-0 left-0 shadow-[inset_0_0_30px_black]"
+                  "absolute h-full w-full bg-[#28282b] bg-center bg-contain -z-10 rounded-xl top-0 left-0 shadow-[inset_0_0_40px_black]"
                 }
               />
               <div className={`text-center`}>
@@ -107,7 +114,7 @@ export default function TopSummaryCards() {
                   variant="circular"
                   withBorder={true}
                   color="white"
-                  className="shadow-[0_0_15px_cyan]"
+                  className="shadow-[0_0_20px_cyan]"
                   src={`runner/player-${obj.Player.toLowerCase()}.png`}
                 />
               </div>
@@ -131,6 +138,13 @@ export default function TopSummaryCards() {
                   >
                     {obj.Aspect}
                   </Typography>
+                </div>
+
+                <div>
+                  <img
+                    src={`armsweapon/${obj.Aspect}.png`}
+                    className="rounded-3xl w-[100%] max-w-[200px] mx-auto my-2 shadow-[0_0_10px_white]"
+                  />
                 </div>
 
                 <div>
@@ -205,6 +219,17 @@ export default function TopSummaryCards() {
                     color="white"
                   >
                     {`Total Runs: ${playerTotalRun(obj.Player)}`}
+                  </Typography>
+                </div>
+                <div>
+                  <Typography
+                    variant="h6"
+                    className="text-center font-customFont mt-2"
+                    color="pink"
+                  >
+                    {playerTotalSub5(obj.Player) > 0
+                      ? `Sub-5 Runs: ${playerTotalSub5(obj.Player)}`
+                      : ``}
                   </Typography>
                 </div>
               </CardBody>

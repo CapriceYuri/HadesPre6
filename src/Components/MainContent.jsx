@@ -173,9 +173,8 @@ export default function MainContent() {
 
                 <div className="flex-1 text-center">
                   <Typography
-                    variant="small"
                     color="orange"
-                    className="font-semibold font-customFont lg:text-[14px] text-[12px]"
+                    className="font-semibold font-customFont text-[14px]"
                   >
                     {`${player.Aspect}`}
                   </Typography>
