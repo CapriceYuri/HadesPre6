@@ -94,7 +94,7 @@ export default function TopSummaryCards() {
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 pt-4">
           {topAspectPlayer.map((obj, index) => (
             <Card
-              className={`border-4 border-black px-4 py-4 rounded-2xl relative bg-transparent hover:bg-[#28282b]`}
+              className={`border-4 border-black py-4 rounded-2xl relative bg-transparent hover:bg-[#28282b]`}
               key={index}
             >
               <div
