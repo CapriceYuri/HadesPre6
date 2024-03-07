@@ -218,7 +218,7 @@ export default function TopSummaryCards() {
                     className="text-center font-customFont mt-2"
                     color="white"
                   >
-                    {`Total Runs: ${playerTotalRun(obj.Player)}`}
+                    {`Total Run/s: ${playerTotalRun(obj.Player)}`}
                   </Typography>
                 </div>
                 <div>
@@ -228,7 +228,7 @@ export default function TopSummaryCards() {
                     color="pink"
                   >
                     {playerTotalSub5(obj.Player) > 0
-                      ? `Sub-5 Runs: ${playerTotalSub5(obj.Player)}`
+                      ? `Sub-5 Run/s: ${playerTotalSub5(obj.Player)}`
                       : ``}
                   </Typography>
                 </div>
