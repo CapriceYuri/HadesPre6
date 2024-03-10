@@ -93,14 +93,13 @@ function playerTotalSub5(name) {
 
 export default function AllSummaryCard() {
   return (
-    <Card className="w-[100%] bg-transparent shadow-[0_0_30px_white] 2xl:w-4/5 border-4 border-black rounded-2xl">
-      <div className="absolute h-full w-full bg-gradient-to-r from-black via-indigo-900 to-black opacity-80" />
+    <Card className="w-[100%] bg-transparent 2xl:w-4/5 rounded-2xl mt-8">
       <List className="z-40">
         <div className="flex justify-center items-center">
           <Typography
             variant="h2"
-            color="white"
-            className="p-2 text-center font-customFont"
+            color="amber"
+            className="text-center font-customFont px-8 py-3 rounded-2xl bg-transparent backdrop-blur-2xl"
           >
             {"Runner Summary"}
           </Typography>
