@@ -8,9 +8,10 @@ import {
 
 import { allData, uniquePlayerData } from "../Data/DataLogic";
 import { averageTime } from "../Data/MinSecMilli";
-import { rawData2 } from "../Data/DataLogic";
+import { rawData2, totalRuns } from "../Data/DataLogic";
 
 const topRecords = allData.slice(5, 29);
+const allSub5 = rawData2.slice().filter((obj) => obj.Clear < "5");
 let topAspectPlayer = [];
 
 for (let i = 0; i < topRecords.length; i++) {
@@ -213,20 +214,42 @@ export default function AllSummaryCard() {
                   <Typography
                     variant="h6"
                     className="text-center font-customFont mt-2"
-                    color="white"
+                    color="light-blue"
                   >
                     {`Total Run/s: ${playerTotalRun(obj.Player)}`}
+                  </Typography>
+                  <Typography
+                    variant="h6"
+                    className="text-center font-customFont opacity-40 -mt-1"
+                    color="white"
+                  >
+                    {`(${(
+                      (playerTotalRun(obj.Player) / totalRuns) *
+                      100
+                    ).toFixed(2)}%)`}
                   </Typography>
                 </div>
                 <div>
                   <Typography
                     variant="h6"
-                    className="text-center font-customFont"
-                    color="white"
+                    className="text-center font-customFont mt-2"
+                    color="pink"
                   >
                     {playerTotalSub5(obj.Player) > 0
                       ? `Sub-5 Run/s: ${playerTotalSub5(obj.Player)}`
                       : ``}
+                  </Typography>
+                  <Typography
+                    variant="h6"
+                    className="text-center font-customFont opacity-40 -mt-1"
+                    color="white"
+                  >
+                    {playerTotalSub5(obj.Player) > 0
+                      ? `(${(
+                          (playerTotalSub5(obj.Player) / allSub5.length) *
+                          100
+                        ).toFixed(2)}%)`
+                      : ""}
                   </Typography>
                 </div>
               </CardBody>
