@@ -9,7 +9,9 @@ import {
 import { allData, uniquePlayerData } from "../Data/DataLogic";
 import { averageTime, totalTime } from "../Data/MinSecMilli";
 import { rawData2, totalRuns } from "../Data/DataLogic";
+import { splitData } from "../Data/SplitData";
 
+console.log(splitData);
 const topRecords = allData.slice(5, 29);
 const allSub5 = rawData2.slice().filter((obj) => obj.Clear < "5");
 let topAspectPlayer = [];
@@ -17,9 +19,7 @@ let topAspectPlayer = [];
 for (let i = 0; i < topRecords.length; i++) {
   topAspectPlayer.push(topRecords[i][0]);
 }
-
 // Avg. Per Split Functions
-
 function topRunnerAvgTar(name) {
   let tempData = rawData2.slice();
   const playerAllRuns = tempData.filter((obj) => obj.Player === name);
@@ -171,7 +171,11 @@ export default function AllSummaryCard() {
                     <Typography
                       variant="h6"
                       className="text-center font-customFont"
-                      color="green"
+                      color={
+                        topRunnerAvgTar(obj.Player) > splitData[0]
+                          ? "red"
+                          : "blue"
+                      }
                     >
                       {` Tar: ${topRunnerAvgTar(obj.Player)}`}
                     </Typography>
@@ -180,7 +184,11 @@ export default function AllSummaryCard() {
                     <Typography
                       variant="h6"
                       className="text-center font-customFont"
-                      color="orange"
+                      color={
+                        topRunnerAvgAsp(obj.Player) > splitData[1]
+                          ? "red"
+                          : "blue"
+                      }
                     >
                       {` Asp: ${topRunnerAvgAsp(obj.Player)}`}
                     </Typography>
@@ -189,7 +197,11 @@ export default function AllSummaryCard() {
                     <Typography
                       variant="h6"
                       className="text-center font-customFont"
-                      color="blue"
+                      color={
+                        topRunnerAvgEly(obj.Player) > splitData[2]
+                          ? "red"
+                          : "blue"
+                      }
                     >
                       {` Ely: ${topRunnerAvgEly(obj.Player)}`}
                     </Typography>
@@ -198,7 +210,11 @@ export default function AllSummaryCard() {
                     <Typography
                       variant="h6"
                       className="text-center font-customFont"
-                      color="red"
+                      color={
+                        topRunnerAvgSty(obj.Player) > splitData[3]
+                          ? "red"
+                          : "blue"
+                      }
                     >
                       {` Sty: ${topRunnerAvgSty(obj.Player)}`}
                     </Typography>
@@ -207,7 +223,11 @@ export default function AllSummaryCard() {
                     <Typography
                       variant="h6"
                       className="text-center font-customFont"
-                      color="yellow"
+                      color={
+                        topRunnerAvgDad(obj.Player) > splitData[4]
+                          ? "red"
+                          : "blue"
+                      }
                     >
                       {` Dad: ${topRunnerAvgDad(obj.Player)}`}
                     </Typography>
@@ -216,7 +236,11 @@ export default function AllSummaryCard() {
                     <Typography
                       variant="h6"
                       className="text-center font-customFont"
-                      color="white"
+                      color={
+                        topRunnerAvgClear(obj.Player) > splitData[5]
+                          ? "red"
+                          : "blue"
+                      }
                     >
                       {` Clear: ${topRunnerAvgClear(obj.Player)}`}
                     </Typography>
@@ -226,7 +250,7 @@ export default function AllSummaryCard() {
                   <Typography
                     variant="h6"
                     className="text-center font-customFont mt-2"
-                    color="light-blue"
+                    color="white"
                   >
                     {`Total Run/s: ${playerTotalRun(obj.Player)}`}
                   </Typography>
@@ -268,7 +292,7 @@ export default function AllSummaryCard() {
                   <Typography
                     variant="h6"
                     className="text-center font-customFont mt-2"
-                    color="red"
+                    color="yellow"
                   >
                     {` TGT: ${topRunnerAllClear(obj.Player)}`}
                   </Typography>
