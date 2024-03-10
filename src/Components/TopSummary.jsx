@@ -7,75 +7,12 @@ import {
 } from "@material-tailwind/react";
 
 import { allData } from "../Data/DataLogic";
-import { averageTime } from "../Data/MinSecMilli";
-import { rawData2 } from "../Data/DataLogic";
 
 const topRecords = allData.slice(5, 29);
 let topAspectPlayer = [];
 
 for (let i = 0; i < topRecords.length; i++) {
   topAspectPlayer.push(topRecords[i][0]);
-}
-
-// Avg. Per Split Functions
-
-function topRunnerAvgTar(name) {
-  let tempData = rawData2.slice();
-  const playerAllRuns = tempData.filter((obj) => obj.Player === name);
-  let tempArr = [];
-  for (let i = 0; i < playerAllRuns.length; i++) {
-    tempArr.push(playerAllRuns[i].Tartarus);
-  }
-  return averageTime(tempArr);
-}
-function topRunnerAvgAsp(name) {
-  let tempData = rawData2.slice();
-  const playerAllRuns = tempData.filter((obj) => obj.Player === name);
-  let tempArr = [];
-  for (let i = 0; i < playerAllRuns.length; i++) {
-    tempArr.push(playerAllRuns[i].Asphodel);
-  }
-  return averageTime(tempArr);
-}
-function topRunnerAvgEly(name) {
-  let tempData = rawData2.slice();
-  const playerAllRuns = tempData.filter((obj) => obj.Player === name);
-  let tempArr = [];
-  for (let i = 0; i < playerAllRuns.length; i++) {
-    tempArr.push(playerAllRuns[i].Elysium);
-  }
-  return averageTime(tempArr);
-}
-function topRunnerAvgSty(name) {
-  let tempData = rawData2.slice();
-  const playerAllRuns = tempData.filter((obj) => obj.Player === name);
-  let tempArr = [];
-  for (let i = 0; i < playerAllRuns.length; i++) {
-    tempArr.push(playerAllRuns[i].Styx);
-  }
-  return averageTime(tempArr);
-}
-function topRunnerAvgDad(name) {
-  let tempData = rawData2.slice();
-  const playerAllRuns = tempData.filter((obj) => obj.Player === name);
-  let tempArr = [];
-  for (let i = 0; i < playerAllRuns.length; i++) {
-    tempArr.push(playerAllRuns[i].Dad);
-  }
-  return averageTime(tempArr);
-}
-
-function playerTotalRun(name) {
-  let tempData = rawData2.slice();
-  const playerAllRuns = tempData.filter((obj) => obj.Player === name);
-  return playerAllRuns.length;
-}
-
-function playerTotalSub5(name) {
-  let tempData = rawData2.slice();
-  const playerAllRuns = tempData.filter((obj) => obj.Player === name);
-  const playerSub5Runs = playerAllRuns.filter((obj) => obj.Clear < "5");
-  return playerSub5Runs.length;
 }
 
 // DIVISON BLOCK
