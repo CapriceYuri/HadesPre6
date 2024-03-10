@@ -38,3 +38,21 @@ function millisecondsToTime(milliseconds) {
 function padZero(num, length = 2) {
   return num.toString().padStart(length, "0");
 }
+
+// Variantion
+
+export function totalTime(times) {
+  // Convert time durations to milliseconds
+  const totalMs = times.reduce(
+    (acc, time) => acc + timeToMilliseconds(time),
+    0
+  );
+
+  // Calculate the average in milliseconds
+  const averageMs = totalMs;
+
+  // Convert average milliseconds back to time format
+  const averageTime = millisecondsToTime(averageMs);
+
+  return averageTime;
+}

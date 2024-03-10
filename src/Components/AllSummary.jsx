@@ -7,7 +7,7 @@ import {
 } from "@material-tailwind/react";
 
 import { allData, uniquePlayerData } from "../Data/DataLogic";
-import { averageTime } from "../Data/MinSecMilli";
+import { averageTime, totalTime } from "../Data/MinSecMilli";
 import { rawData2, totalRuns } from "../Data/DataLogic";
 
 const topRecords = allData.slice(5, 29);
@@ -74,6 +74,19 @@ function topRunnerAvgClear(name) {
     tempArr.push(playerAllRuns[i].Clear);
   }
   return averageTime(tempArr);
+}
+
+function topRunnerAllClear(name) {
+  let tempData = rawData2.slice();
+  const playerAllRuns = tempData.filter((obj) => obj.Player === name);
+  let tempArr = [];
+  for (let i = 0; i < playerAllRuns.length; i++) {
+    tempArr.push(playerAllRuns[i].Clear);
+  }
+  const calTime = totalTime(tempArr).split(":");
+  const calTime_Hour = Math.floor(calTime[0] / 60);
+  const calTime_Minute = calTime[0] % 60;
+  return `~ ${calTime_Hour}h ${calTime_Minute}m`;
 }
 
 function playerTotalRun(name) {
@@ -249,6 +262,15 @@ export default function AllSummaryCard() {
                           100
                         ).toFixed(2)}%)`
                       : ""}
+                  </Typography>
+                </div>
+                <div>
+                  <Typography
+                    variant="h6"
+                    className="text-center font-customFont mt-2"
+                    color="red"
+                  >
+                    {` TGT: ${topRunnerAllClear(obj.Player)}`}
                   </Typography>
                 </div>
               </CardBody>
