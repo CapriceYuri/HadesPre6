@@ -170,7 +170,6 @@ export default function MainContent() {
                   <Avatar
                     src={`runner/player-${player.Player.toLowerCase()}.png`}
                     withBorder={true}
-                    color="black"
                     className="p-0.5"
                   />
                 </div>

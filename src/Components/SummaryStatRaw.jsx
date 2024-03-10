@@ -49,8 +49,8 @@ export default function SummaryStatRaw() {
         </div>
       </section>
       <Carousel className="px-18 py-5" loop={true} autoplay={false}>
-        {bundleRaw.map((uniqueArr) => (
-          <List className="z-20">
+        {bundleRaw.map((uniqueArr, index) => (
+          <List className="z-20" key={index}>
             {uniqueArr.map((arr, index) => (
               <ListItem
                 className="hover:bg-transparent focus:bg-transparent flex justify-evenly"

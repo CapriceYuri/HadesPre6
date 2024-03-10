@@ -172,7 +172,7 @@ export default function AllSummaryCard() {
                       variant="h6"
                       className="text-center font-customFont"
                       color={
-                        topRunnerAvgTar(obj.Player) > splitData[0]
+                        topRunnerAvgTar(obj.Player) < splitData[0]
                           ? "red"
                           : "blue"
                       }
@@ -185,7 +185,7 @@ export default function AllSummaryCard() {
                       variant="h6"
                       className="text-center font-customFont"
                       color={
-                        topRunnerAvgAsp(obj.Player) > splitData[1]
+                        topRunnerAvgAsp(obj.Player) < splitData[1]
                           ? "red"
                           : "blue"
                       }
@@ -198,7 +198,7 @@ export default function AllSummaryCard() {
                       variant="h6"
                       className="text-center font-customFont"
                       color={
-                        topRunnerAvgEly(obj.Player) > splitData[2]
+                        topRunnerAvgEly(obj.Player) < splitData[2]
                           ? "red"
                           : "blue"
                       }
@@ -211,7 +211,7 @@ export default function AllSummaryCard() {
                       variant="h6"
                       className="text-center font-customFont"
                       color={
-                        topRunnerAvgSty(obj.Player) > splitData[3]
+                        topRunnerAvgSty(obj.Player) < splitData[3]
                           ? "red"
                           : "blue"
                       }
@@ -224,7 +224,7 @@ export default function AllSummaryCard() {
                       variant="h6"
                       className="text-center font-customFont"
                       color={
-                        topRunnerAvgDad(obj.Player) > splitData[4]
+                        topRunnerAvgDad(obj.Player) < splitData[4]
                           ? "red"
                           : "blue"
                       }

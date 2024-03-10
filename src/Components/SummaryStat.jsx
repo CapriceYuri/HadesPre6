@@ -46,8 +46,8 @@ export default function SummaryStat() {
         </div>
       </section>
       <Carousel className="px-18 py-5" loop={true} autoplay={false}>
-        {bundleUnique.map((uniqueArr) => (
-          <List className="z-20">
+        {bundleUnique.map((uniqueArr, index) => (
+          <List className="z-20" key={index}>
             {uniqueArr.map((arr, index) => (
               <ListItem
                 className="hover:bg-transparent focus:bg-transparent flex justify-evenly"
