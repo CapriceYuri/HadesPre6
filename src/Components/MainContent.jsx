@@ -22,6 +22,7 @@ import NavigationBar from "./NavigationBar";
 import SummaryStat from "./SummaryStat";
 import SummaryStatRaw from "./SummaryStatRaw";
 import TopSummaryCards from "./TopSummary";
+import AllSummaryCard from "./AllSummary";
 
 export default function MainContent() {
   const [category, setCategory] = useState(0);
@@ -77,6 +78,9 @@ export default function MainContent() {
       </section>
       <section className="w-full flex justify-center pb-5">
         <TopSummaryCards />
+      </section>
+      <section className="w-full flex justify-center pb-5">
+        <AllSummaryCard />
       </section>
       <section className="w-full 2xl:w-5/6 flex flex-col xl:flex-row xl:gap-x-2 mx-auto px-4 2xl:px-0">
         <SummaryStat />
