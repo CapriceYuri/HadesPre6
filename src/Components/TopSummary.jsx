@@ -20,11 +20,7 @@ for (let i = 0; i < topRecords.length; i++) {
 export default function TopSummaryCards() {
   return (
     <Card className="w-[100%] backdr`op-blur-lg bg-transparent shadow-[0_0_30px_white] 2xl:w-4/5 border-4 border-black rounded-2xl">
-      <img
-        src="vertical-blue.jpg"
-        className="h-full w-full object-cover rounded-xl absolute"
-      />
-      <div className="absolute h-full w-full bg-gradient-to-r from-black via-indigo-900 to-black opacity-60" />
+      <div className="absolute h-full w-full bg-[#28282b] opacity-90" />
       <List className="z-40">
         <div className="flex justify-center items-center">
           <Typography
@@ -40,6 +36,7 @@ export default function TopSummaryCards() {
             <Card
               className={` py-4 rounded-2xl relative bg-transparent`}
               key={index}
+              shadow={false}
             >
               <div className={`text-center`}>
                 <Avatar
@@ -75,7 +72,7 @@ export default function TopSummaryCards() {
                 <div>
                   <img
                     src={`armsweapon/${obj.Aspect}.png`}
-                    className="rounded-3xl w-[100%] max-w-[200px] mx-auto mt-4 mb-2shadow-[0_0_10px_white]"
+                    className="rounded-3xl w-[100%] max-w-[180px] mx-auto my-2 shadow-[0_0_15px_cyan]"
                   />
                 </div>
 

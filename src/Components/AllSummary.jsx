@@ -106,17 +106,8 @@ function playerTotalSub5(name) {
 
 export default function AllSummaryCard() {
   return (
-    <Card className="w-[100%] bg-transparent 2xl:w-4/5 rounded-2xl mt-8">
-      <List className="z-40">
-        <div className="flex justify-center items-center">
-          <Typography
-            variant="h2"
-            color="amber"
-            className="text-center font-customFont px-8 py-3 rounded-2xl bg-transparent backdrop-blur-2xl"
-          >
-            {"Runner Summary"}
-          </Typography>
-        </div>
+    <Card className="w-[100%] bg-transparent 2xl:w-4/5 rounded-2xl mt-4">
+      <List>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 pt-4">
           {uniquePlayerData.map((obj, index) => (
             <Card

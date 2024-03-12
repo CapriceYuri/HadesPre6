@@ -62,7 +62,7 @@ export default function MainContent() {
     <section className="h-lvh">
       <div className="fixed bg-[#1B1212] h-lvh w-full object-cover -z-10" />
       <img
-        src="bg-img.png"
+        src="vertical-blue.jpg"
         alt="cover-bg"
         className="fixed h-lvh w-full object-cover -z-10"
       />
@@ -74,7 +74,7 @@ export default function MainContent() {
         </div>
       </section>
       <section>
-        <img src="hades-red.png" className="mx-auto opacity-90" />
+        <img src="hades-red.png" className="mx-auto" />
       </section>
       <section className="w-full flex justify-center pb-5">
         <TopSummaryCards />
@@ -87,12 +87,8 @@ export default function MainContent() {
         <SummaryStatRaw />
       </section>
       <section className="w-full flex justify-center pb-10">
-        <Card className="w-[100%] backdrop-blur-lg bg-transparent shadow-[0_0_20px_white] 2xl:w-5/6 border-4 border-black rounded-2xl">
-          <img
-            src="vertical-blue.jpg"
-            className="h-full w-full object-cover rounded-xl absolute"
-          />
-          <div className="absolute h-full w-full bg-gradient-to-r from-black to-black opacity-60" />
+        <Card className="w-[100%] bg-transparent shadow-[0_0_20px_white] 2xl:w-5/6 border-4 border-black rounded-2xl">
+          <div className="absolute h-full w-full bg-[#28282b] opacity-90" />
           <List className="z-40">
             <div className="flex justify-center gap-x-4 pt-4">
               <Button {...handleDataChange(0)} color="white">
@@ -141,13 +137,6 @@ export default function MainContent() {
                 className="hover:bg-black focus:bg-black flex relative rounded-2xl px-0"
                 key={index}
               >
-                <div
-                  className={
-                    player.rank < "4"
-                      ? "absolute w-full h-full top-0 left-0 rounded-2xl border-2 border-black shadow-[inset_0_0_10px_yellow]"
-                      : ""
-                  }
-                />
                 <div className="text-center">
                   <Typography
                     variant="small"
