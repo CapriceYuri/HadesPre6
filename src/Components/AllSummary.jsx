@@ -228,7 +228,7 @@ export default function AllSummaryCard() {
                       variant="h6"
                       className="text-center font-customFont"
                       color={
-                        topRunnerAvgClear(obj.Player) > splitData[5]
+                        topRunnerAvgClear(obj.Player) < splitData[5]
                           ? "red"
                           : "blue"
                       }
