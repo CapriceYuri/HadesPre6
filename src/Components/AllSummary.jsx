@@ -102,6 +102,25 @@ function playerTotalSub5(name) {
   return playerSub5Runs.length;
 }
 
+function bestRoundedPLayer(name) {
+  const checkAllResults = (value) => value === true;
+
+  let checkFunction = [
+    topRunnerAvgTar,
+    topRunnerAvgAsp,
+    topRunnerAvgEly,
+    topRunnerAvgSty,
+    topRunnerAvgDad,
+    topRunnerAvgClear,
+  ];
+  let allResults = [];
+  for (let i = 0; i < checkFunction.length; i++) {
+    let result = checkFunction[i](name) < splitData[i];
+    allResults.push(result);
+  }
+  return allResults.every(checkAllResults);
+}
+
 // DIVISON BLOCK
 
 export default function AllSummaryCard() {
@@ -116,7 +135,9 @@ export default function AllSummaryCard() {
             >
               <div
                 className={
-                  "absolute h-full w-full bg-[#28282b] bg-center bg-contain -z-10 rounded-xl top-0 left-0 shadow-[inset_0_0_40px_black]"
+                  bestRoundedPLayer(obj.Player) === true
+                    ? `absolute h-full w-full bg-[url(/speed.gif)] bg-cover bg-center -z-10 rounded-xl top-0 left-0 shadow-[inset_0_0_40px_black] opacity-80`
+                    : `absolute h-full w-full bg-[#28282b] bg-center bg-contain -z-10 rounded-xl top-0 left-0 shadow-[inset_0_0_40px_black]`
                 }
               />
               <div>
