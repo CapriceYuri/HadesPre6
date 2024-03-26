@@ -6,19 +6,12 @@ import {
   CardBody,
 } from "@material-tailwind/react";
 
-import { allData, uniquePlayerData } from "../Data/DataLogic";
 import { averageTime, totalTime } from "../Data/MinSecMilli";
-import { rawData2, totalRuns } from "../Data/DataLogic";
+import { rawData2, totalRuns, uniquePlayerData } from "../Data/DataLogic";
 import { splitData } from "../Data/SplitData";
-
 console.log(splitData);
-const topRecords = allData.slice(5, 29);
 const allSub5 = rawData2.slice().filter((obj) => obj.Clear < "5");
-let topAspectPlayer = [];
 
-for (let i = 0; i < topRecords.length; i++) {
-  topAspectPlayer.push(topRecords[i][0]);
-}
 // Avg. Per Split Functions
 function topRunnerAvgTar(name) {
   let tempData = rawData2.slice();
@@ -124,11 +117,15 @@ function bestRoundedPLayer(name) {
 // DIVISON BLOCK
 
 export default function AllSummaryCard() {
+  const renderData = uniquePlayerData.filter(
+    (obj) => playerTotalRun(obj.Player) > 0
+  );
+
   return (
     <Card className="w-[100%] bg-transparent 2xl:w-4/5 rounded-2xl mt-4">
       <List>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 pt-4">
-          {uniquePlayerData.map((obj, index) => (
+          {renderData.map((obj, index) => (
             <Card
               className={`border-4 border-black py-4 rounded-2xl relative bg-transparent hover:bg-[#28282b]`}
               key={index}
